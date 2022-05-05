@@ -1,14 +1,58 @@
 #include "bunny.h"
 #include <iostream>
+#include <list>
+#include <memory>
+#include <ctime>
+#include <iomanip>
+
+void purge_unique_bool_pointer(std::unique_ptr<bool[]> object){}
 
 int main()
 {
     system("cls");
-    std::cout << "Test" << std::endl;
+    std::srand(time(0));
 
-    bunny test;
-    std::cout << test.get_name() << std::endl;
-    std::cout << "Test" << std::endl;
+    std::list<std::shared_ptr<bunny>> bunny_list;
+    for(int i = 0; i < 5; i++){
+        bunny_list.push_back(std::make_shared<bunny>());
+    }
+    bool simulation = true;
+    while(simulation == true){
+        if(bunny_list.size() > 0){
+            std::cout << "The current bunnies are: " << std::endl;
+            std::list<std::shared_ptr<bunny>>::iterator i1 = bunny_list.begin();
+            for(int i = 0; i < bunny_list.size(); i++){
+                std::cout << (*i1)->get_name() << "  " << (*i1)->get_gender() << "  " << (*i1)->get_colour() << "  " << (*i1)->get_age() << std::endl;
+                i1++;
+            }
+        }
+        else{
+            std::cout << "All of the bunnies are dead." << std::endl;
+            std::cout << "Simulation over." << std::endl;
+            simulation = false;
+        }
+        std::list<std::shared_ptr<bunny>>::iterator i1 = bunny_list.begin();
+        std::unique_ptr<bool[]> is_dead = std::make_unique<bool[]>(bunny_list.size());
+        for(int i = 0; i < bunny_list.size(); i++){
+            if((*i1)->get_age() == 10){
+                is_dead[i] = true;
+            }
+            else{
+                is_dead[i] = false;
+                (*i1)->increment_age(1);
+            }
+            i1++;
+        }
+        std::cout << std::endl;
+        int to_count_through = bunny_list.size();
+        for(int i = 0; i < to_count_through; i++){
+            if(is_dead[i] == true){
+                bunny_list.pop_front();
+            }
+        }
+        purge_unique_bool_pointer(move(is_dead));
+        system("pause");
+    }
 
     return 0;
 }
