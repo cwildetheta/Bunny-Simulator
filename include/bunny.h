@@ -20,7 +20,7 @@ class bunny{
         std::string get_gender();
         //void set_gender(std::string);
         std::string get_colour();
-        //void set_colour(std::string);
+        void set_colour(std::string);
         int get_age();
         void set_age(int);
 };

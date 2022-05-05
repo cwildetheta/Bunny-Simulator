@@ -67,10 +67,10 @@ std::string bunny::get_colour()
 {
     return colour;
 }
-/*void bunny::set_colour(std::string string_input)
+void bunny::set_colour(std::string string_input)
 {
     colour = string_input;
-}*/
+}
 int bunny::get_age()
 {
     return age;
