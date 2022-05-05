@@ -1,0 +1,11 @@
+Create a bunny class
+Set up smart pointed bunny objects
+Put the smart pointers in a list
+Get a firm handle on handling the objects in the list
+Work on inter-bunny interactions
+Set up turns to auto run
+Begin auto-generating bunnies under the specified conditions
+Set up the output
+Add in the food shortage culling
+Add in file output
+Expand to the additional tasks
