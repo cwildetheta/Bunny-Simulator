@@ -4,7 +4,7 @@
 
 class bunny{
     private:
-        bool radioactive_mutant_vampire_bunny;
+        bool infected;
         std::string colour;
         const std::string gender, name;
 
@@ -15,8 +15,8 @@ class bunny{
         void increment_age(int);
 
         //VARIABLE INTERACTIONS//
-        bool get_radioactive_mutant_vampire_bunny();
-        void set_radioactive_mutant_vampire_bunny(bool);
+        bool get_infected();
+        void set_infected(bool);
         std::string get_name();
         //void set_name(std::string);
         std::string get_gender();

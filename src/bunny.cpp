@@ -11,10 +11,10 @@ bunny::bunny() : gender(gender_list[std::rand()%2]), name((gender == gender_list
     age = 0;
     colour = colour_list[std::rand()%4];
     if(std::rand()%50 == 0){
-        radioactive_mutant_vampire_bunny = true;
+        infected = true;
     }
     else{
-        radioactive_mutant_vampire_bunny = false;
+        infected = false;
     }
 }
 
@@ -24,13 +24,13 @@ void bunny::increment_age(int int_input)
 }
 
 //VARIABLE INTERACTIONS//
-bool bunny::get_radioactive_mutant_vampire_bunny()
+bool bunny::get_infected()
 {
-    return radioactive_mutant_vampire_bunny;
+    return infected;
 }
-void bunny::set_radioactive_mutant_vampire_bunny(bool bool_input)
+void bunny::set_infected(bool bool_input)
 {
-    radioactive_mutant_vampire_bunny = bool_input;
+    infected = bool_input;
 }
 std::string bunny::get_name()
 {

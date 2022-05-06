@@ -12,8 +12,8 @@ int main()
         simulation = controller.print_out(); //The print out and entry option.
         if(simulation == true){ //If the simulation is ongoing.
             controller.aging(); //Handles aging and dieing.
-            if(controller.get_radioactive_mutant_vampire() > 0){ //If there are infected bunnies.
-                controller.vampire(); //Handles the infection spreading.
+            if(controller.get_infected_total() > 0){ //If there are infected bunnies.
+                controller.infect(); //Handles the infection spreading.
             }
             controller.breed(); //Handles the breeding.
             system("pause"); //A pause so the user can read the death and birth messages.

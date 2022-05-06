@@ -18,7 +18,7 @@ manager::manager(int num_of_bunnies)
     for(int i = 0; i < num_of_bunnies; i++){
         bunny_list.push_back(std::make_shared<bunny>());
     }
-    total = 0, male = 0, female = 0, radioactive_mutant_vampire = 0, turns = 0;
+    total = 0, male = 0, female = 0, infected_total = 0, turns = 0;
     std::list<std::shared_ptr<bunny>>::iterator i1 = bunny_list.begin();
     for(int i = 0; i < bunny_list.size(); i++){
         total++;
@@ -28,15 +28,15 @@ manager::manager(int num_of_bunnies)
         else{
             female++;
         }
-        if((*i1)->get_radioactive_mutant_vampire_bunny() == true){
-            radioactive_mutant_vampire++;
+        if((*i1)->get_infected() == true){
+            infected_total++;
         }
         i1++;
     }
 }
 bool manager::print_out()
 {
-    total = 0, male = 0, female = 0, radioactive_mutant_vampire = 0;
+    total = 0, male = 0, female = 0, infected_total = 0;
     turns++;
     bool simulation = true;
     if(bunny_list.size() > 0){
@@ -44,7 +44,7 @@ bool manager::print_out()
         std::cout << "The current bunnies are: " << std::endl;
         std::list<std::shared_ptr<bunny>>::iterator i1 = bunny_list.begin();
         for(int i = 0; i < bunny_list.size(); i++){
-            std::cout << std::setw(15) << (*i1)->get_name() << "  " << std::setw(6) << (*i1)->get_gender() << "  " << std::setw(7) << (*i1)->get_colour() << "  " << std::setw(2) << (*i1)->get_age() << "  " << std::boolalpha << std::setw(5) << (*i1)->get_radioactive_mutant_vampire_bunny() << std::noboolalpha << std::endl;
+            std::cout << std::setw(15) << (*i1)->get_name() << "  " << std::setw(6) << (*i1)->get_gender() << "  " << std::setw(7) << (*i1)->get_colour() << "  " << std::setw(2) << (*i1)->get_age() << "  " << std::boolalpha << std::setw(5) << (*i1)->get_infected() << std::noboolalpha << std::endl;
             total++;
             if((*i1)->get_gender() == "Male"){
                 male++;
@@ -52,12 +52,12 @@ bool manager::print_out()
             else{
                 female++;
             }
-            if((*i1)->get_radioactive_mutant_vampire_bunny() == true){
-                radioactive_mutant_vampire++;
+            if((*i1)->get_infected() == true){
+                infected_total++;
             }
             i1++;
         }
-        std::cout << "Total: " << total << "  Males: " << male << "  Females: " << female << "  RMV: " << radioactive_mutant_vampire << "     Current turn: " << turns << std::endl;
+        std::cout << "Total: " << total << "  Males: " << male << "  Females: " << female << "  RMV: " << infected_total << "     Current turn: " << turns << std::endl;
         std::cout << "Press q to quit, k to perform a cull, or any other key to continue: ";
         char input;
         std::cin >> input;
@@ -80,10 +80,10 @@ void manager::aging()
     std::list<std::shared_ptr<bunny>>::iterator i1 = bunny_list.begin();
     std::unique_ptr<bool[]> is_dead = std::make_unique<bool[]>(bunny_list.size());
     for(int i = 0; i < bunny_list.size(); i++){
-        if(((*i1)->get_age() >= 10) && ((*i1)->get_radioactive_mutant_vampire_bunny() == false)){
+        if(((*i1)->get_age() >= 10) && ((*i1)->get_infected() == false)){
             is_dead[i] = true;
         }
-        else if(((*i1)->get_age() >= 50) && ((*i1)->get_radioactive_mutant_vampire_bunny() == true)){
+        else if(((*i1)->get_age() >= 50) && ((*i1)->get_infected() == true)){
             is_dead[i] = true;
         }
         else{
@@ -97,7 +97,7 @@ void manager::aging()
     for(int i = 0; i < to_count_through; i++){
         if(is_dead[i] == true){
             std::list<std::shared_ptr<bunny>>::iterator die = bunny_list.begin();
-            if((*die)->get_radioactive_mutant_vampire_bunny() == false){
+            if((*die)->get_infected() == false){
                 std::cout << "Bunny ";
             }
             else{
@@ -109,12 +109,12 @@ void manager::aging()
     }
     std::cout << std::endl;
 }
-void manager::vampire()
+void manager::infect()
 {
     std::list<std::shared_ptr<bunny>>::iterator iv = bunny_list.begin();
     std::vector<std::shared_ptr<bunny>> infection_list;
     for(int i = 0; i < bunny_list.size(); i++){
-        if((*iv)->get_radioactive_mutant_vampire_bunny() == false){
+        if((*iv)->get_infected() == false){
             infection_list.push_back(*iv);
         }
         advance(iv, 1);
@@ -122,9 +122,9 @@ void manager::vampire()
     std::random_shuffle(infection_list.begin(), infection_list.end());
     int counted = 0;
     std::vector<std::shared_ptr<bunny>>::iterator iv2 = infection_list.begin();
-    while((radioactive_mutant_vampire > 0) && (counted < infection_list.size())){
-        (*iv2)->set_radioactive_mutant_vampire_bunny(true);
-        radioactive_mutant_vampire--;
+    while((infected_total > 0) && (counted < infection_list.size())){
+        (*iv2)->set_infected(true);
+        infected_total--;
         advance(iv2, 1);
         counted++;
     }
@@ -135,7 +135,7 @@ void manager::breed()
     int to_count_through_2 = bunny_list.size();
     bool is_adult_male = false;
     for(int i = 0; i < to_count_through_2; i++){
-        if(((*i2)->get_gender() == "Male") && ((*i2)->get_age() > 1) && ((*i2)->get_radioactive_mutant_vampire_bunny() == false)){
+        if(((*i2)->get_gender() == "Male") && ((*i2)->get_age() > 1) && ((*i2)->get_infected() == false)){
             is_adult_male = true;
         }
         i2++;
@@ -144,12 +144,12 @@ void manager::breed()
     if(is_adult_male == true){
         std::cout << std::endl;
         for(int i = 0; i < to_count_through_2; i++){
-            if(((*i3)->get_gender() == "Female") && ((*i3)->get_age() > 1) && ((*i3)->get_radioactive_mutant_vampire_bunny() == false)){
+            if(((*i3)->get_gender() == "Female") && ((*i3)->get_age() > 1) && ((*i3)->get_infected() == false)){
                 bunny_list.push_back(std::make_shared<bunny>());
                 std::list<std::shared_ptr<bunny>>::iterator i4 = bunny_list.end();
                 advance(i4, -1);
                 (*i4)->set_colour((*i3)->get_colour());
-                if((*i4)->get_radioactive_mutant_vampire_bunny() == false){
+                if((*i4)->get_infected() == false){
                     std::cout << "Bunny ";
                 }
                 else{
@@ -211,9 +211,9 @@ void manager::cull()
 
 //VARIABLE INTERACTIONS//
 
-int manager::get_radioactive_mutant_vampire()
+int manager::get_infected_total()
 {
-    return radioactive_mutant_vampire;
+    return infected_total;
 }
 int manager::get_male()
 {
