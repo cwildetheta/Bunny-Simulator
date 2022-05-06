@@ -20,6 +20,8 @@ class manager{
 
         //VARIABLE INTERACTIONS//
         int get_radioactive_mutant_vampire();
+        int get_male();
+        int get_female();
         int get_total();
 };
 

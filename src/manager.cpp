@@ -58,11 +58,14 @@ bool manager::print_out()
             i1++;
         }
         std::cout << "Total: " << total << "  Males: " << male << "  Females: " << female << "  RMV: " << radioactive_mutant_vampire << "     Current turn: " << turns << std::endl;
-        std::cout << "Press any key: ";
+        std::cout << "Press q to quit, k to perform a cull, or any other key to continue: ";
         char input;
         std::cin >> input;
-        if(input == 'q'){
+        if((input == 'q') || (input == 'Q')){
             simulation = false;
+        }
+        if((input == 'k') || (input == 'K')){
+            cull();
         }
     }
     else{
@@ -211,6 +214,30 @@ void manager::cull()
 int manager::get_radioactive_mutant_vampire()
 {
     return radioactive_mutant_vampire;
+}
+int manager::get_male()
+{
+    std::list<std::shared_ptr<bunny>>::iterator imale = bunny_list.begin();
+    male = 0;
+    for(int i = 0; i < bunny_list.size(); i++){
+        if((*imale)->get_gender() == "Male"){
+            male++;
+        }
+        imale++;
+    }
+    return male;
+}
+int manager::get_female()
+{
+    std::list<std::shared_ptr<bunny>>::iterator ifemale = bunny_list.begin();
+    female = 0;
+    for(int i = 0; i < bunny_list.size(); i++){
+        if((*ifemale)->get_gender() == "Female"){
+            female++;
+        }
+        ifemale++;
+    }
+    return female;
 }
 int manager::get_total()
 {
