@@ -101,7 +101,7 @@ void manager::aging()
                 std::cout << "Bunny ";
             }
             else{
-                std::cout << "Radioactive Mutant Vampire Bunny ";
+                std::cout << "Infected Bunny ";
             }
             std::cout << (*die)->get_name() << " has died." << std::endl;
             bunny_list.pop_front();
@@ -153,7 +153,7 @@ void manager::breed()
                     std::cout << "Bunny ";
                 }
                 else{
-                    std::cout << "Radioactive Mutant Vampire Bunny ";
+                    std::cout << "Infected Bunny ";
                 }
                 std::cout << (*i4)->get_name() << " was born." << std::endl;
             }
