@@ -2,28 +2,29 @@
 #include <iostream>
 
 std::string colour_list[4] = {"White", "Black", "Brown", "Spotted"};
+std::string gender_list[2] = {"Male", "Female"};
 std::string male_name_list[5] = {"Spots", "Hopper", "Thumper", "Bump", "Arcturus"};
 std::string female_name_list[5] = {"Dotty", "Sarah", "Fluffy" , "Heather", "Heaps"};
 
-bunny::bunny()
+bunny::bunny() : gender(gender_list[std::rand()%2]), name((gender == gender_list[0]) ? (male_name_list[std::rand()%5]) : (female_name_list[std::rand()%5]))
 {
     age = 0;
     int rand = std::rand()%2;
-    if(rand == 0){
+    /*if(rand == 0){
         gender = "Male";
     }
     else{
         gender = "Female";
-    }
+    }*/
     int rand2 = std::rand()%4;
     colour = colour_list[rand2];
     int rand3 = std::rand()%5;
-    if(gender == "Male"){
+    /*if(gender == "Male"){
         name = male_name_list[rand3];
     }
     else{
         name = female_name_list[rand3];
-    }
+    }*/
     int rand4 = std::rand()%50;
     if(rand4 == 0){
         radioactive_mutant_vampire_bunny = true;

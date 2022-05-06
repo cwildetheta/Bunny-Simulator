@@ -5,10 +5,12 @@
 class bunny{
     private:
         bool radioactive_mutant_vampire_bunny;
-        std::string name, gender, colour;
-        int age;
+        std::string colour;
+        const std::string gender, name;
 
     public:
+        int age;
+
         bunny();
         void increment_age(int);
 
