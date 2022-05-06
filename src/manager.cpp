@@ -18,7 +18,7 @@ manager::manager(int num_of_bunnies)
     for(int i = 0; i < num_of_bunnies; i++){
         bunny_list.push_back(std::make_shared<bunny>());
     }
-    total = 0, male = 0, female = 0, radioactive_mutant_vampire = 0;
+    total = 0, male = 0, female = 0, radioactive_mutant_vampire = 0, turns = 0;
     std::list<std::shared_ptr<bunny>>::iterator i1 = bunny_list.begin();
     for(int i = 0; i < bunny_list.size(); i++){
         total++;
@@ -34,12 +34,13 @@ manager::manager(int num_of_bunnies)
         i1++;
     }
 }
-bool manager::print_out(int turns)
+bool manager::print_out()
 {
     total = 0, male = 0, female = 0, radioactive_mutant_vampire = 0;
+    turns++;
     bool simulation = true;
     if(bunny_list.size() > 0){
-        //bunny_list.sort(bunny_sorter_internal);
+        bunny_list.sort(bunny_sorter_internal);
         std::cout << "The current bunnies are: " << std::endl;
         std::list<std::shared_ptr<bunny>>::iterator i1 = bunny_list.begin();
         for(int i = 0; i < bunny_list.size(); i++){
@@ -57,16 +58,16 @@ bool manager::print_out(int turns)
             i1++;
         }
         std::cout << "Total: " << total << "  Males: " << male << "  Females: " << female << "  RMV: " << radioactive_mutant_vampire << "     Current turn: " << turns << std::endl;
+        std::cout << "Press any key: ";
+        char input;
+        std::cin >> input;
+        if(input == 'q'){
+            simulation = false;
+        }
     }
     else{
         std::cout << "All of the bunnies are dead." << std::endl;
         std::cout << "Simulation over." << std::endl;
-        simulation = false;
-    }
-    std::cout << "Press any key: ";
-    char input;
-    std::cin >> input;
-    if(input == 'q'){
         simulation = false;
     }
     return simulation;
@@ -203,4 +204,16 @@ void manager::cull()
             advance(i4, 1);
         }
     }
+}
+
+//VARIABLE INTERACTIONS//
+
+int manager::get_radioactive_mutant_vampire()
+{
+    return radioactive_mutant_vampire;
+}
+int manager::get_total()
+{
+    total = bunny_list.size();
+    return total;
 }
