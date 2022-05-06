@@ -101,7 +101,7 @@ void manager::aging()
                 std::cout << "Bunny ";
             }
             else{
-                std::cout << "Radioactive Mutant Vampire Bunny ";
+                std::cout << "Infected Bunny ";
             }
             std::cout << (*die)->get_name() << " has died." << std::endl;
             bunny_list.pop_front();
@@ -153,7 +153,7 @@ void manager::breed()
                     std::cout << "Bunny ";
                 }
                 else{
-                    std::cout << "Radioactive Mutant Vampire Bunny ";
+                    std::cout << "Infected Bunny ";
                 }
                 std::cout << (*i4)->get_name() << " was born." << std::endl;
             }
@@ -213,6 +213,14 @@ void manager::cull()
 
 int manager::get_infected_total()
 {
+    std::list<std::shared_ptr<bunny>>::iterator iinfect = bunny_list.begin();
+    infected_total = 0;
+    for(int i = 0; i < bunny_list.size(); i++){
+        if((*iinfect)->get_infected() == true){
+            infected_total++;
+        }
+        iinfect++;
+    }
     return infected_total;
 }
 int manager::get_male()
