@@ -3,6 +3,7 @@
 #include "bunny.h"
 #include <list>
 #include <memory>
+#include <fstream>
 
 class manager{
     private:
@@ -12,11 +13,11 @@ class manager{
     public:
         manager(int);
         static bool bunny_sorter_internal(std::shared_ptr<bunny>, std::shared_ptr<bunny>);
-        bool print_out();
-        void aging();
+        bool print_out(std::ofstream&);
+        void aging(std::ofstream&);
         void infect();
-        void breed();
-        void cull();
+        void breed(std::ofstream&);
+        void cull(std::ofstream&);
 
         //VARIABLE INTERACTIONS//
         int get_infected_total();

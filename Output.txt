@@ -1,0 +1,46 @@
+The current bunnies are: 
+         Alexis  Female    Brown   0  false
+          Rayan    Male    Black   0  false
+          Chloe  Female  Spotted   0  false
+         Martha  Female    Black   0  false
+           Jade  Female    Brown   0  false
+Total: 5  Males: 1  Females: 4  RMV: 0     Current turn: 1
+Press q to quit, k to perform a cull, or any other key to continue: e
+
+
+The current bunnies are: 
+         Alexis  Female    Brown   1  false
+          Rayan    Male    Black   1  false
+          Chloe  Female  Spotted   1  false
+         Martha  Female    Black   1  false
+           Jade  Female    Brown   1  false
+Total: 5  Males: 1  Females: 4  RMV: 0     Current turn: 2
+Press q to quit, k to perform a cull, or any other key to continue: e
+
+
+Infected Bunny Jackson was born.
+Bunny Stevie was born.
+Bunny Nicolas was born.
+Bunny Liberty was born.
+The current bunnies are: 
+         Alexis  Female    Brown   2  false
+          Rayan    Male    Black   2  false
+          Chloe  Female  Spotted   2  false
+         Martha  Female    Black   2  false
+           Jade  Female    Brown   2  false
+        Jackson    Male    Brown   0   true
+         Stevie  Female  Spotted   0  false
+        Nicolas    Male    Black   0  false
+        Liberty  Female    Brown   0  false
+Total: 9  Males: 3  Females: 6  RMV: 1     Current turn: 3
+Press q to quit, k to perform a cull, or any other key to continue: k
+Culling 5 bunnies, 4 survive.
+
+
+The current bunnies are: 
+         Alexis  Female    Brown   3  false
+        Jackson    Male    Brown   1   true
+        Nicolas    Male    Black   1  false
+        Liberty  Female    Brown   1   true
+Total: 4  Males: 2  Females: 2  RMV: 2     Current turn: 4
+Press q to quit, k to perform a cull, or any other key to continue: q
