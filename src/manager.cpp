@@ -7,7 +7,6 @@
 #include <algorithm>
 #include <iomanip>
 
-
 bool manager::bunny_sorter_internal(std::shared_ptr<bunny> object1, std::shared_ptr<bunny> object2) //Algorithm for sorting bunnies by age
 {
     return object1->get_age() > object2->get_age();
@@ -44,8 +43,13 @@ bool manager::print_out() //The UI print out, handles all inputs and outputs the
         std::cout << "The current bunnies are: " << std::endl;
         std::list<std::shared_ptr<bunny>>::iterator i1 = bunny_list.begin();
         for(int i = 0; i < bunny_list.size(); i++){ //Outputting the bunny list, and counting the stats at the same time
-            std::cout << std::setw(15) << (*i1)->get_name() << "  " << std::setw(6) << (*i1)->get_gender() << "  " << std::setw(7) << (*i1)->get_colour() << "  " << std::setw(2) << (*i1)->get_age() << "  " << std::boolalpha << std::setw(5) << (*i1)->get_infected() << std::noboolalpha << std::endl;
-            total++;
+            std::cout << std::setw(15) << (*i1)->get_name() << "  " << std::setw(8) << (*i1)->get_gender() << "  " << std::setw(9) << (*i1)->get_colour() << "  " << std::setw(4) << (*i1)->get_age() << "  ";
+            if((*i1)->get_infected() == true){
+                std::cout << std::setw(10) << "Infected" << std::endl;
+            }
+            else{
+                std::cout << std::setw(10) << "Healthy" << std::endl;
+            }total++;
             if((*i1)->get_gender() == "Male"){
                 male++;
             }
@@ -57,7 +61,7 @@ bool manager::print_out() //The UI print out, handles all inputs and outputs the
             }
             i1++;
         }
-        std::cout << "Total: " << total << "  Males: " << male << "  Females: " << female << "  RMV: " << infected_total << "     Current turn: " << turns << std::endl;
+        std::cout << "Total: " << total << "  Males: " << male << "  Females: " << female << "  Infected: " << infected_total << "     Current turn: " << turns << std::endl;
         std::cout << "Press q to quit, k to perform a cull, or any other key to continue: ";
         char input;
         std::cin >> input;
