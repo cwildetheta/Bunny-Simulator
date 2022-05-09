@@ -46,8 +46,20 @@ bool manager::print_out(std::ofstream &output)
         output << "The current bunnies are: " << std::endl;
         std::list<std::shared_ptr<bunny>>::iterator i1 = bunny_list.begin();
         for(int i = 0; i < bunny_list.size(); i++){
-            std::cout << std::setw(15) << (*i1)->get_name() << "  " << std::setw(6) << (*i1)->get_gender() << "  " << std::setw(7) << (*i1)->get_colour() << "  " << std::setw(2) << (*i1)->get_age() << "  " << std::boolalpha << std::setw(5) << (*i1)->get_infected() << std::noboolalpha << std::endl;
-            output << std::setw(15) << (*i1)->get_name() << "  " << std::setw(6) << (*i1)->get_gender() << "  " << std::setw(7) << (*i1)->get_colour() << "  " << std::setw(2) << (*i1)->get_age() << "  " << std::boolalpha << std::setw(5) << (*i1)->get_infected() << std::noboolalpha << std::endl;
+            std::cout << std::setw(15) << (*i1)->get_name() << "  " << std::setw(6) << (*i1)->get_gender() << "  " << std::setw(7) << (*i1)->get_colour() << "  " << std::setw(2) << (*i1)->get_age() << "  ";
+            if((*i1)->get_infected() == true){
+                std::cout << std::setw(10) << "Infected" << std::endl;
+            }
+            else{
+                std::cout << std::setw(10) << "Healthy" << std::endl;
+            }
+            output << std::setw(15) << (*i1)->get_name() << "  " << std::setw(6) << (*i1)->get_gender() << "  " << std::setw(7) << (*i1)->get_colour() << "  " << std::setw(2) << (*i1)->get_age() << "  ";
+            if((*i1)->get_infected() == true){
+                output << std::setw(10) << "Infected" << std::endl;
+            }
+            else{
+                output << std::setw(10) << "Healthy" << std::endl;
+            }
             total++;
             if((*i1)->get_gender() == "Male"){
                 male++;
@@ -60,9 +72,9 @@ bool manager::print_out(std::ofstream &output)
             }
             i1++;
         }
-        std::cout << "Total: " << total << "  Males: " << male << "  Females: " << female << "  RMV: " << infected_total << "     Current turn: " << turns << std::endl;
+        std::cout << "Total: " << total << "  Males: " << male << "  Females: " << female << "  Infected: " << infected_total << "     Current turn: " << turns << std::endl;
         std::cout << "Press q to quit, k to perform a cull, or any other key to continue: ";
-        output << "Total: " << total << "  Males: " << male << "  Females: " << female << "  RMV: " << infected_total << "     Current turn: " << turns << std::endl;
+        output << "Total: " << total << "  Males: " << male << "  Females: " << female << "  Infected: " << infected_total << "     Current turn: " << turns << std::endl;
         output << "Press q to quit, k to perform a cull, or any other key to continue: ";
         char input;
         std::cin >> input;

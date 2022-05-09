@@ -1,46 +1,142 @@
 The current bunnies are: 
-         Alexis  Female    Brown   0  false
-          Rayan    Male    Black   0  false
-          Chloe  Female  Spotted   0  false
-         Martha  Female    Black   0  false
-           Jade  Female    Brown   0  false
-Total: 5  Males: 1  Females: 4  RMV: 0     Current turn: 1
+        Paisley  Female  Spotted   0     Healthy
+            Zak    Male  Spotted   0     Healthy
+           Nina  Female    Black   0     Healthy
+           Ayaz    Male    White   0     Healthy
+          Yaqub    Male    White   0     Healthy
+Total: 5  Males: 3  Females: 2  Infected: 0     Current turn: 1
 Press q to quit, k to perform a cull, or any other key to continue: e
 
 
 The current bunnies are: 
-         Alexis  Female    Brown   1  false
-          Rayan    Male    Black   1  false
-          Chloe  Female  Spotted   1  false
-         Martha  Female    Black   1  false
-           Jade  Female    Brown   1  false
-Total: 5  Males: 1  Females: 4  RMV: 0     Current turn: 2
+        Paisley  Female  Spotted   1     Healthy
+            Zak    Male  Spotted   1     Healthy
+           Nina  Female    Black   1     Healthy
+           Ayaz    Male    White   1     Healthy
+          Yaqub    Male    White   1     Healthy
+Total: 5  Males: 3  Females: 2  Infected: 0     Current turn: 2
 Press q to quit, k to perform a cull, or any other key to continue: e
 
 
-Infected Bunny Jackson was born.
-Bunny Stevie was born.
-Bunny Nicolas was born.
-Bunny Liberty was born.
+Bunny Una was born.
+Bunny Kaison was born.
 The current bunnies are: 
-         Alexis  Female    Brown   2  false
-          Rayan    Male    Black   2  false
-          Chloe  Female  Spotted   2  false
-         Martha  Female    Black   2  false
-           Jade  Female    Brown   2  false
-        Jackson    Male    Brown   0   true
-         Stevie  Female  Spotted   0  false
-        Nicolas    Male    Black   0  false
-        Liberty  Female    Brown   0  false
-Total: 9  Males: 3  Females: 6  RMV: 1     Current turn: 3
-Press q to quit, k to perform a cull, or any other key to continue: k
-Culling 5 bunnies, 4 survive.
+        Paisley  Female  Spotted   2     Healthy
+            Zak    Male  Spotted   2     Healthy
+           Nina  Female    Black   2     Healthy
+           Ayaz    Male    White   2     Healthy
+          Yaqub    Male    White   2     Healthy
+            Una  Female  Spotted   0     Healthy
+         Kaison    Male    Black   0     Healthy
+Total: 7  Males: 4  Females: 3  Infected: 0     Current turn: 3
+Press q to quit, k to perform a cull, or any other key to continue: e
 
 
+Bunny Ovie was born.
+Bunny Kasper was born.
 The current bunnies are: 
-         Alexis  Female    Brown   3  false
-        Jackson    Male    Brown   1   true
-        Nicolas    Male    Black   1  false
-        Liberty  Female    Brown   1   true
-Total: 4  Males: 2  Females: 2  RMV: 2     Current turn: 4
+        Paisley  Female  Spotted   3     Healthy
+            Zak    Male  Spotted   3     Healthy
+           Nina  Female    Black   3     Healthy
+           Ayaz    Male    White   3     Healthy
+          Yaqub    Male    White   3     Healthy
+            Una  Female  Spotted   1     Healthy
+         Kaison    Male    Black   1     Healthy
+           Ovie    Male  Spotted   0     Healthy
+         Kasper    Male    Black   0     Healthy
+Total: 9  Males: 6  Females: 3  Infected: 0     Current turn: 4
+Press q to quit, k to perform a cull, or any other key to continue: e
+
+
+Bunny Yousef was born.
+Infected Bunny Aariz was born.
+Bunny Fatimah was born.
+The current bunnies are: 
+        Paisley  Female  Spotted   4     Healthy
+            Zak    Male  Spotted   4     Healthy
+           Nina  Female    Black   4     Healthy
+           Ayaz    Male    White   4     Healthy
+          Yaqub    Male    White   4     Healthy
+            Una  Female  Spotted   2     Healthy
+         Kaison    Male    Black   2     Healthy
+           Ovie    Male  Spotted   1     Healthy
+         Kasper    Male    Black   1     Healthy
+         Yousef    Male  Spotted   0     Healthy
+          Aariz    Male    Black   0    Infected
+        Fatimah  Female  Spotted   0     Healthy
+Total: 12  Males: 8  Females: 4  Infected: 1     Current turn: 5
+Press q to quit, k to perform a cull, or any other key to continue: e
+
+
+Infected Bunny Liya was born.
+Bunny Ava-Mae was born.
+Bunny Chaim was born.
+The current bunnies are: 
+        Paisley  Female  Spotted   5     Healthy
+            Zak    Male  Spotted   5     Healthy
+           Nina  Female    Black   5     Healthy
+           Ayaz    Male    White   5     Healthy
+          Yaqub    Male    White   5     Healthy
+            Una  Female  Spotted   3     Healthy
+         Kaison    Male    Black   3    Infected
+           Ovie    Male  Spotted   2     Healthy
+         Kasper    Male    Black   2     Healthy
+         Yousef    Male  Spotted   1     Healthy
+          Aariz    Male    Black   1    Infected
+        Fatimah  Female  Spotted   1     Healthy
+           Liya  Female  Spotted   0    Infected
+        Ava-Mae  Female    Black   0     Healthy
+          Chaim    Male  Spotted   0     Healthy
+Total: 15  Males: 9  Females: 6  Infected: 3     Current turn: 6
+Press q to quit, k to perform a cull, or any other key to continue: e
+
+
+Bunny Nyla was born.
+Bunny Alistair was born.
+Bunny Elsie-Mae was born.
+The current bunnies are: 
+        Paisley  Female  Spotted   6     Healthy
+            Zak    Male  Spotted   6     Healthy
+           Nina  Female    Black   6    Infected
+           Ayaz    Male    White   6    Infected
+          Yaqub    Male    White   6     Healthy
+            Una  Female  Spotted   4     Healthy
+         Kaison    Male    Black   4    Infected
+           Ovie    Male  Spotted   3     Healthy
+         Kasper    Male    Black   3     Healthy
+         Yousef    Male  Spotted   2     Healthy
+          Aariz    Male    Black   2    Infected
+        Fatimah  Female  Spotted   2     Healthy
+           Liya  Female  Spotted   1    Infected
+        Ava-Mae  Female    Black   1    Infected
+          Chaim    Male  Spotted   1     Healthy
+           Nyla  Female  Spotted   0     Healthy
+       Alistair    Male  Spotted   0     Healthy
+      Elsie-Mae  Female  Spotted   0     Healthy
+Total: 18  Males: 10  Females: 8  Infected: 6     Current turn: 7
+Press q to quit, k to perform a cull, or any other key to continue: e
+
+
+Bunny Nala was born.
+The current bunnies are: 
+        Paisley  Female  Spotted   7     Healthy
+            Zak    Male  Spotted   7    Infected
+           Nina  Female    Black   7    Infected
+           Ayaz    Male    White   7    Infected
+          Yaqub    Male    White   7    Infected
+            Una  Female  Spotted   5    Infected
+         Kaison    Male    Black   5    Infected
+           Ovie    Male  Spotted   4     Healthy
+         Kasper    Male    Black   4     Healthy
+         Yousef    Male  Spotted   3     Healthy
+          Aariz    Male    Black   3    Infected
+        Fatimah  Female  Spotted   3    Infected
+           Liya  Female  Spotted   2    Infected
+        Ava-Mae  Female    Black   2    Infected
+          Chaim    Male  Spotted   2    Infected
+           Nyla  Female  Spotted   1    Infected
+       Alistair    Male  Spotted   1     Healthy
+      Elsie-Mae  Female  Spotted   1     Healthy
+           Nala  Female  Spotted   0     Healthy
+Total: 19  Males: 10  Females: 9  Infected: 12     Current turn: 8
 Press q to quit, k to perform a cull, or any other key to continue: q
