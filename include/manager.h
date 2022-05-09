@@ -17,6 +17,7 @@ class manager{
         void infect();
         void breed();
         void cull();
+        void cull_mk2();
 
         //VARIABLE INTERACTIONS//
         int get_infected_total();

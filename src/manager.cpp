@@ -65,7 +65,7 @@ bool manager::print_out()
             simulation = false;
         }
         if((input == 'k') || (input == 'K')){
-            cull();
+            cull_mk2();
         }
     }
     else{
@@ -206,6 +206,33 @@ void manager::cull()
         else{
             advance(i4, 1);
         }
+    }
+}
+void manager::cull_mk2()
+{
+    std::list<std::shared_ptr<bunny>>::iterator i4 = bunny_list.begin();
+    std::vector<bool> cull_list;
+    for(int i = 0; i < bunny_list.size(); i++){
+        if(i < bunny_list.size()/2){
+            cull_list.push_back(true);
+        }
+        else{
+            cull_list.push_back(false);
+        }
+    }
+    std::random_shuffle(cull_list.begin(), cull_list.end());
+    std::vector<bool>::iterator ic = cull_list.begin();
+    std::cout << "Culling " << (bunny_list.size()/2) << " bunnies, " << (get_total()-(bunny_list.size()/2)) << " survive." << std::endl;
+    system("pause");
+    int to_count_through_2 = bunny_list.size();
+    for(int i = 0; i < to_count_through_2; i++){
+        if((*ic) == true){
+            i4 = bunny_list.erase(i4);
+        }
+        else{
+            advance(i4, 1);
+        }
+        advance(ic, 1);
     }
 }
 

@@ -18,7 +18,7 @@ int main()
             controller.breed(); //Handles the breeding.
             system("pause"); //A pause so the user can read the death and birth messages.
             if(controller.get_total() > 1000){ //If overpopulated.
-                controller.cull(); //Handles the bunnies dieing from overpopulation.
+                controller.cull_mk2(); //Handles the bunnies dieing from overpopulation.
             }
         }
     }
