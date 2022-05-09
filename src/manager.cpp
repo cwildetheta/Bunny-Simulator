@@ -79,6 +79,20 @@ bool manager::print_out() //The UI print out, handles all inputs and outputs the
     }
     return simulation;
 }
+void manager::end_turn() //Manages the end turn functions
+{
+    aging_mk2(); //Handles aging and dieing.
+    calculate_infected_total(); //Updating the infected count
+    if(infected_total > 0){ //If there are infected bunnies.
+        infect(); //Handles the infection spreading.
+    }
+    breed(); //Handles the breeding.
+    system("pause"); //A pause so the user can read the death and birth messages.
+    calculate_total(); //Updating the total count
+    if(get_total() > 1000){ //If overpopulated.
+        cull_mk2(); //Handles the bunnies dieing from overpopulation.
+    }
+}
 void manager::aging() //Handles aging and bunnies dying, not in use; works but there's a simplified version now
 {
     bunny_list.sort(bunny_sorter_internal); //Makes sure the bunnies are sorted, bit redundant as they shouldn't be able to get unsorted, but good to make sure, as I'm about to rely on it
@@ -252,6 +266,7 @@ void manager::cull_mk2() //Handles culling, new and improved version, properly r
     }
     std::random_shuffle(cull_list.begin(), cull_list.end()); //Shuffling the boolean vector. Randomness is in the hands of std now
     std::vector<bool>::iterator ic = cull_list.begin();
+    calculate_total(); //Because I'm about to call that value
     std::cout << "Culling " << (bunny_list.size()/2) << " bunnies, " << (get_total()-(bunny_list.size()/2)) << " survive." << std::endl; //Culling output
     system("pause");
     int to_count_through_2 = bunny_list.size();
@@ -266,13 +281,18 @@ void manager::cull_mk2() //Handles culling, new and improved version, properly r
     }
 }
 
-//VARIABLE INTERACTIONS//
-
-int manager::get_infected_total() const
+void manager::calculate_infected_total()
 {
-    return infected_total;
+    std::list<std::shared_ptr<bunny>>::iterator iinfected = bunny_list.begin();
+    infected_total = 0;
+    for(int i = 0; i < bunny_list.size(); i++){
+        if((*iinfected)->get_infected() == true){
+            infected_total++;
+        }
+        iinfected++;
+    }
 }
-int manager::get_male()
+void manager::calculate_male()
 {
     std::list<std::shared_ptr<bunny>>::iterator imale = bunny_list.begin();
     male = 0;
@@ -282,9 +302,8 @@ int manager::get_male()
         }
         imale++;
     }
-    return male;
 }
-int manager::get_female()
+void manager::calculate_female()
 {
     std::list<std::shared_ptr<bunny>>::iterator ifemale = bunny_list.begin();
     female = 0;
@@ -294,10 +313,27 @@ int manager::get_female()
         }
         ifemale++;
     }
+}
+void manager::calculate_total()
+{
+    total = bunny_list.size();
+}
+
+//VARIABLE INTERACTIONS//
+
+int manager::get_infected_total() const
+{
+    return infected_total;
+}
+int manager::get_male()
+{
+    return male;
+}
+int manager::get_female()
+{
     return female;
 }
 int manager::get_total()
 {
-    total = bunny_list.size();
     return total;
 }

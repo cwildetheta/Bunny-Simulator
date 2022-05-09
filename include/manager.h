@@ -13,12 +13,18 @@ class manager{
         manager(int);
         static bool bunny_sorter_internal(std::shared_ptr<bunny>, std::shared_ptr<bunny>);
         bool print_out();
+        void end_turn();
         void aging();
         void aging_mk2();
         void infect();
         void breed();
         void cull();
         void cull_mk2();
+
+        void calculate_infected_total();
+        void calculate_male();
+        void calculate_female();
+        void calculate_total();
 
         //VARIABLE INTERACTIONS//
         int get_infected_total() const;
