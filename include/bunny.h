@@ -15,15 +15,13 @@ class bunny{
         void increment_age(int);
 
         //VARIABLE INTERACTIONS//
-        bool get_infected();
+        bool get_infected() const;
         void set_infected(bool);
-        std::string get_name();
-        //void set_name(std::string);
-        std::string get_gender();
-        //void set_gender(std::string);
-        std::string get_colour();
+        std::string get_name() const;
+        std::string get_gender() const;
+        std::string get_colour() const;
         void set_colour(std::string);
-        int get_age();
+        int get_age() const;
         void set_age(int);
 };
 

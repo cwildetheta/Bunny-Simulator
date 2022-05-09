@@ -11,7 +11,7 @@ int main()
     while(simulation == true){ //The start of the simulation loop.
         simulation = controller.print_out(); //The print out and entry option.
         if(simulation == true){ //If the simulation is ongoing.
-            controller.aging(); //Handles aging and dieing.
+            controller.aging_mk2(); //Handles aging and dieing.
             if(controller.get_infected_total() > 0){ //If there are infected bunnies.
                 controller.infect(); //Handles the infection spreading.
             }

@@ -14,13 +14,14 @@ class manager{
         static bool bunny_sorter_internal(std::shared_ptr<bunny>, std::shared_ptr<bunny>);
         bool print_out();
         void aging();
+        void aging_mk2();
         void infect();
         void breed();
         void cull();
         void cull_mk2();
 
         //VARIABLE INTERACTIONS//
-        int get_infected_total();
+        int get_infected_total() const;
         int get_male();
         int get_female();
         int get_total();
