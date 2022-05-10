@@ -12,3 +12,4 @@ There are also two versions of the cull function, of which cull_mk2() is in use.
 Additional features are contained in branches. At present, the active branches are:
 FileOutput - Contains code in which all of the terminal outputs are stored to one file, and the turn totals are saved to another. (Uses an older version of the code as a base; some functions and visual outputs are not up to the standard found in the main. Proof of concept.)
 RealTime - Changes the code to run in real time, where each turn there is a 2 second window for the user to enter commands, before it automatically moves on to the next turn. Delays have also been added to the culling, birth, and death outputs (replacing the system("pause") used previously) to allow the user to read them.
+ManagerClass - Old branch used for developing the manager class, then merged into the main. Outdated and no longer in use.
