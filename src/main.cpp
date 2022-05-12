@@ -11,12 +11,12 @@ int main()
     std::ofstream stats, output;
     stats.open ("Turn stats.txt");
     output.open ("Output.txt");
-    stats << "   Total     Males     Females   Infected" << std::endl;
+    stats << "Total Males Females Infected";
     manager controller(5); //Setting up the simulation with 5 initial bunnies.
     bool simulation = true; //The simulation tracker.
     while(simulation == true){ //The start of the simulation loop.
         simulation = controller.print_out(output); //The print out and entry option.
-        stats << std::setw(6) << controller.get_total() << std::setw(10) << controller.get_male() << std::setw(10) << controller.get_female() << std::setw(10) << controller.get_infected_total() << std::endl;
+        stats << std::endl << controller.get_total() << " " << controller.get_male() << " " << controller.get_female() << " " << controller.get_infected_total();
         if(simulation == true){ //If the simulation is ongoing.
             controller.aging(output); //Handles aging and dieing.
             if(controller.get_infected_total() > 0){ //If there are infected bunnies.
@@ -31,5 +31,10 @@ int main()
     }
     stats.close();
     output.close();
+    //std::string filename = "C:/msys64/home/Connor/Bunny Simulator/graph.py";
+    std::string filename = "graph.py";
+    std::string command = "python ";
+    command += filename;
+    system(command.c_str());
     return 0;
 }
