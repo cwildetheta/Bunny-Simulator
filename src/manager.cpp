@@ -30,7 +30,7 @@ manager::manager(int num_of_bunnies)
         if((*i1)->get_infected() == true){
             infected_total++;
         }
-        i1++;
+        ++i1;
     }
 }
 bool manager::print_out() //The UI print out, handles all inputs and outputs the bunny list
@@ -59,7 +59,7 @@ bool manager::print_out() //The UI print out, handles all inputs and outputs the
             if((*i1)->get_infected() == true){
                 infected_total++;
             }
-            i1++;
+            ++i1;
         }
         std::cout << "Total: " << total << "  Males: " << male << "  Females: " << female << "  Infected: " << infected_total << "     Current turn: " << turns << std::endl;
         std::cout << "Press q to quit, k to perform a cull, or any other key to continue: ";
@@ -109,7 +109,7 @@ void manager::aging() //Handles aging and bunnies dying, not in use; works but t
             is_dead[i] = false;
             (*i1)->increment_age(1);
         }
-        i1++;
+        ++i1;
     }
     std::cout << std::endl;
     int to_count_through = bunny_list.size();
@@ -126,7 +126,7 @@ void manager::aging() //Handles aging and bunnies dying, not in use; works but t
             die = bunny_list.erase(die); //Bunny is removed from the list
         }
         else{
-            advance(die, 1); //Otherwise increment the iterator
+            ++die; //Otherwise increment the iterator
         }
     }
     std::cout << std::endl;
@@ -148,7 +148,7 @@ void manager::aging_mk2() //Handles aging and bunnies dying, updated to be less 
         }
         else{ //Else the age and iterator are incremented by 1
             (*i1)->increment_age(1);
-            advance(i1, 1);
+            ++i1;
         }
     }
     std::cout << std::endl;
@@ -161,7 +161,7 @@ void manager::infect() //Handles the spread of the infection
         if((*iv)->get_infected() == false){ //Adds bunnies to the mirror vector if they're not infected, and thus are candidates for infection
             infection_list.push_back(*iv);
         }
-        advance(iv, 1);
+        ++iv;
     }
     std::random_shuffle(infection_list.begin(), infection_list.end()); //Shuffles the mirror vector, to randomise who's going to get infected
     int counted = 0;
@@ -169,7 +169,7 @@ void manager::infect() //Handles the spread of the infection
     while((infected_total > 0) && (counted < infection_list.size())){ //Runs through the mirror vector infecting bunnies until either all are infected, or the number infected in the loop reaches the number infected already
         (*iv2)->set_infected(true);
         infected_total--;
-        advance(iv2, 1);
+        ++iv2;
         counted++;
     }
 }
@@ -182,7 +182,7 @@ void manager::breed() //Handles breeding
         if(((*i2)->get_gender() == "Male") && ((*i2)->get_age() > 1) && ((*i2)->get_infected() == false)){
             is_adult_male = true;
         }
-        i2++;
+        ++i2;
     }
     std::list<std::shared_ptr<bunny>>::iterator i3 = bunny_list.begin();
     if(is_adult_male == true){ //If there is an adult male
@@ -201,7 +201,7 @@ void manager::breed() //Handles breeding
                 }
                 std::cout << (*i4)->get_name() << " was born." << std::endl; //Output birth message
             }
-            i3++;
+            ++i3;
         }
     }
 }
@@ -248,7 +248,7 @@ void manager::cull() //Old cull code, no longer in use
             i4 = bunny_list.erase(i4);
         }
         else{
-            advance(i4, 1);
+            ++i4;
         }
     }
 }
@@ -275,9 +275,9 @@ void manager::cull_mk2() //Handles culling, new and improved version, properly r
             i4 = bunny_list.erase(i4);
         }
         else{
-            advance(i4, 1);
+            ++i4;
         }
-        advance(ic, 1);
+        ++ic;
     }
 }
 
@@ -289,7 +289,7 @@ void manager::calculate_infected_total()
         if((*iinfected)->get_infected() == true){
             infected_total++;
         }
-        iinfected++;
+        ++iinfected;
     }
 }
 void manager::calculate_male()
@@ -300,7 +300,7 @@ void manager::calculate_male()
         if((*imale)->get_gender() == "Male"){
             male++;
         }
-        imale++;
+        ++imale;
     }
 }
 void manager::calculate_female()
@@ -311,7 +311,7 @@ void manager::calculate_female()
         if((*ifemale)->get_gender() == "Female"){
             female++;
         }
-        ifemale++;
+        ++ifemale;
     }
 }
 void manager::calculate_total()
