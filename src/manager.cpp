@@ -32,7 +32,7 @@ manager::manager(int num_of_bunnies)
         if((*i1)->get_infected() == true){
             infected_total++;
         }
-        i1++;
+        ++i1;
     }
 }
 bool manager::print_out(std::ofstream &output)
@@ -70,7 +70,7 @@ bool manager::print_out(std::ofstream &output)
             if((*i1)->get_infected() == true){
                 infected_total++;
             }
-            i1++;
+            ++i1;
         }
         std::cout << "Total: " << total << "  Males: " << male << "  Females: " << female << "  Infected: " << infected_total << "     Current turn: " << turns << std::endl;
         std::cout << "Press q to quit, k to perform a cull, or any other key to continue: ";
@@ -110,7 +110,7 @@ void manager::aging(std::ofstream &output)
             is_dead[i] = false;
             (*i1)->increment_age(1);
         }
-        i1++;
+        ++i1;
     }
     std::cout << std::endl;
     output << std::endl;
@@ -142,7 +142,7 @@ void manager::infect()
         if((*iv)->get_infected() == false){
             infection_list.push_back(*iv);
         }
-        advance(iv, 1);
+        ++iv;
     }
     std::random_shuffle(infection_list.begin(), infection_list.end());
     int counted = 0;
@@ -150,7 +150,7 @@ void manager::infect()
     while((infected_total > 0) && (counted < infection_list.size())){
         (*iv2)->set_infected(true);
         infected_total--;
-        advance(iv2, 1);
+        ++iv2;
         counted++;
     }
 }
@@ -163,7 +163,7 @@ void manager::breed(std::ofstream &output)
         if(((*i2)->get_gender() == "Male") && ((*i2)->get_age() > 1) && ((*i2)->get_infected() == false)){
             is_adult_male = true;
         }
-        i2++;
+        ++i2;
     }
     std::list<std::shared_ptr<bunny>>::iterator i3 = bunny_list.begin();
     if(is_adult_male == true){
@@ -185,7 +185,7 @@ void manager::breed(std::ofstream &output)
                 std::cout << (*i4)->get_name() << " was born." << std::endl;
                 output << (*i4)->get_name() << " was born." << std::endl;
             }
-            i3++;
+            ++i3;
         }
     }
 }
@@ -233,7 +233,7 @@ void manager::cull(std::ofstream &output)
             i4 = bunny_list.erase(i4);
         }
         else{
-            advance(i4, 1);
+            ++i4;
         }
     }
 }
@@ -248,7 +248,7 @@ int manager::get_infected_total()
         if((*iinfect)->get_infected() == true){
             infected_total++;
         }
-        iinfect++;
+        ++iinfect;
     }
     return infected_total;
 }
@@ -260,7 +260,7 @@ int manager::get_male()
         if((*imale)->get_gender() == "Male"){
             male++;
         }
-        imale++;
+        ++imale;
     }
     return male;
 }
@@ -272,7 +272,7 @@ int manager::get_female()
         if((*ifemale)->get_gender() == "Female"){
             female++;
         }
-        ifemale++;
+        ++ifemale;
     }
     return female;
 }

@@ -11,7 +11,7 @@ class manager{
         int total, male, female, infected_total, turns;
 
     public:
-        manager(int);
+        explicit manager(int);
         static bool bunny_sorter_internal(std::shared_ptr<bunny>, std::shared_ptr<bunny>);
         bool print_out(std::ofstream&);
         void aging(std::ofstream&);
