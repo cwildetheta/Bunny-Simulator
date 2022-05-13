@@ -28,9 +28,9 @@ class manager{
 
         //VARIABLE INTERACTIONS//
         int get_infected_total() const;
-        int get_male();
-        int get_female();
-        int get_total();
+        int get_male() const;
+        int get_female() const;
+        int get_total() const;
 };
 
 #endif //MANAGER_H_INCLUDED

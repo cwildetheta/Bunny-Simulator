@@ -325,15 +325,15 @@ int manager::get_infected_total() const
 {
     return infected_total;
 }
-int manager::get_male()
+int manager::get_male() const
 {
     return male;
 }
-int manager::get_female()
+int manager::get_female() const
 {
     return female;
 }
-int manager::get_total()
+int manager::get_total() const
 {
     return total;
 }
