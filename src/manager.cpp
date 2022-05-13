@@ -238,21 +238,18 @@ void manager::cull(std::ofstream &output)
     }
 }
 
-//VARIABLE INTERACTIONS//
-
-int manager::get_infected_total()
+void manager::calculate_infected_total()
 {
-    std::list<std::shared_ptr<bunny>>::iterator iinfect = bunny_list.begin();
+    std::list<std::shared_ptr<bunny>>::iterator iinfected = bunny_list.begin();
     infected_total = 0;
     for(int i = 0; i < bunny_list.size(); i++){
-        if((*iinfect)->get_infected() == true){
+        if((*iinfected)->get_infected() == true){
             infected_total++;
         }
-        ++iinfect;
+        ++iinfected;
     }
-    return infected_total;
 }
-int manager::get_male()
+void manager::calculate_male()
 {
     std::list<std::shared_ptr<bunny>>::iterator imale = bunny_list.begin();
     male = 0;
@@ -262,9 +259,8 @@ int manager::get_male()
         }
         ++imale;
     }
-    return male;
 }
-int manager::get_female()
+void manager::calculate_female()
 {
     std::list<std::shared_ptr<bunny>>::iterator ifemale = bunny_list.begin();
     female = 0;
@@ -274,10 +270,27 @@ int manager::get_female()
         }
         ++ifemale;
     }
-    return female;
 }
-int manager::get_total()
+void manager::calculate_total()
 {
     total = bunny_list.size();
+}
+
+//VARIABLE INTERACTIONS//
+
+int manager::get_infected_total() const
+{
+    return infected_total;
+}
+int manager::get_male() const
+{
+    return male;
+}
+int manager::get_female() const
+{
+    return female;
+}
+int manager::get_total() const
+{
     return total;
 }

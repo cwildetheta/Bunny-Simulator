@@ -16,14 +16,17 @@ int main()
     bool simulation = true; //The simulation tracker.
     while(simulation == true){ //The start of the simulation loop.
         simulation = controller.print_out(output); //The print out and entry option.
+        controller.calculate_infected_total(), controller.calculate_male(), controller.calculate_female(), controller.calculate_total();
         stats << std::endl << controller.get_total() << " " << controller.get_male() << " " << controller.get_female() << " " << controller.get_infected_total();
         if(simulation == true){ //If the simulation is ongoing.
             controller.aging(output); //Handles aging and dieing.
+            controller.calculate_infected_total(); //Update this value before using it.
             if(controller.get_infected_total() > 0){ //If there are infected bunnies.
                 controller.infect(); //Handles the infection spreading.
             }
             controller.breed(output); //Handles the breeding.
             system("pause"); //A pause so the user can read the death and birth messages.
+            controller.calculate_total(); //Update this value before using it.
             if(controller.get_total() > 1000){ //If overpopulated.
                 controller.cull(output); //Handles the bunnies dieing from overpopulation.
             }

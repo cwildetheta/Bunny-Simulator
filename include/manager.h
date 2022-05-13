@@ -19,11 +19,16 @@ class manager{
         void breed(std::ofstream&);
         void cull(std::ofstream&);
 
+        void calculate_infected_total();
+        void calculate_male();
+        void calculate_female();
+        void calculate_total();
+
         //VARIABLE INTERACTIONS//
-        int get_infected_total();
-        int get_male();
-        int get_female();
-        int get_total();
+        int get_infected_total() const;
+        int get_male() const;
+        int get_female() const;
+        int get_total() const;
 };
 
 #endif //MANAGER_H_INCLUDED
