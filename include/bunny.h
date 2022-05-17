@@ -11,7 +11,7 @@ class bunny{
     public:
         int age;
 
-        bunny();
+        bunny(std::string, std::string, int, std::string, bool);
         void increment_age(int);
 
         //VARIABLE INTERACTIONS//
