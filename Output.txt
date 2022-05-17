@@ -1,150 +1,829 @@
 The current bunnies are: 
-         Jasper    Male  Spotted   0     Healthy
-          Artur    Male  Spotted   0     Healthy
-          Miles    Male    White   0     Healthy
-       Isla-Rae  Female    Brown   0     Healthy
-           Alma  Female    Brown   0     Healthy
+         Harlow    Male    Black   0     Healthy
+           Nyah  Female    Black   0     Healthy
+          Monty    Male  Spotted   0     Healthy
+         Marcus    Male    Brown   0     Healthy
+          Milly  Female    Brown   0     Healthy
 Total: 5  Males: 3  Females: 2  Infected: 0     Current turn: 1
 Press q to quit, k to perform a cull, or any other key to continue: e
 
 
 The current bunnies are: 
-         Jasper    Male  Spotted   1     Healthy
-          Artur    Male  Spotted   1     Healthy
-          Miles    Male    White   1     Healthy
-       Isla-Rae  Female    Brown   1     Healthy
-           Alma  Female    Brown   1     Healthy
+         Harlow    Male    Black   1     Healthy
+           Nyah  Female    Black   1     Healthy
+          Monty    Male  Spotted   1     Healthy
+         Marcus    Male    Brown   1     Healthy
+          Milly  Female    Brown   1     Healthy
 Total: 5  Males: 3  Females: 2  Infected: 0     Current turn: 2
 Press q to quit, k to perform a cull, or any other key to continue: e
 
 
-Bunny Lillian was born.
-Bunny Fynn was born.
+Bunny Arissa was born.
+Bunny Wilson was born.
 The current bunnies are: 
-         Jasper    Male  Spotted   2     Healthy
-          Artur    Male  Spotted   2     Healthy
-          Miles    Male    White   2     Healthy
-       Isla-Rae  Female    Brown   2     Healthy
-           Alma  Female    Brown   2     Healthy
-        Lillian  Female    Brown   0     Healthy
-           Fynn    Male    Brown   0     Healthy
+         Harlow    Male    Black   2     Healthy
+           Nyah  Female    Black   2     Healthy
+          Monty    Male  Spotted   2     Healthy
+         Marcus    Male    Brown   2     Healthy
+          Milly  Female    Brown   2     Healthy
+         Arissa  Female    Black   0     Healthy
+         Wilson    Male    Brown   0     Healthy
 Total: 7  Males: 4  Females: 3  Infected: 0     Current turn: 3
 Press q to quit, k to perform a cull, or any other key to continue: e
 
 
-Bunny Malia was born.
-Bunny Hudson was born.
+Bunny Lily-May was born.
+Bunny Jan was born.
 The current bunnies are: 
-         Jasper    Male  Spotted   3     Healthy
-          Artur    Male  Spotted   3     Healthy
-          Miles    Male    White   3     Healthy
-       Isla-Rae  Female    Brown   3     Healthy
-           Alma  Female    Brown   3     Healthy
-        Lillian  Female    Brown   1     Healthy
-           Fynn    Male    Brown   1     Healthy
-          Malia  Female    Brown   0     Healthy
-         Hudson    Male    Brown   0     Healthy
+         Harlow    Male    Black   3     Healthy
+           Nyah  Female    Black   3     Healthy
+          Monty    Male  Spotted   3     Healthy
+         Marcus    Male    Brown   3     Healthy
+          Milly  Female    Brown   3     Healthy
+         Arissa  Female    Black   1     Healthy
+         Wilson    Male    Brown   1     Healthy
+       Lily-May  Female    Black   0     Healthy
+            Jan    Male    Brown   0     Healthy
 Total: 9  Males: 5  Females: 4  Infected: 0     Current turn: 4
 Press q to quit, k to perform a cull, or any other key to continue: e
 
 
-Infected Bunny Gaia was born.
-Bunny Inaya was born.
-Bunny Tom was born.
+Bunny Isobel was born.
+Bunny Brody was born.
+Bunny Cohen was born.
 The current bunnies are: 
-         Jasper    Male  Spotted   4     Healthy
-          Artur    Male  Spotted   4     Healthy
-          Miles    Male    White   4     Healthy
-       Isla-Rae  Female    Brown   4     Healthy
-           Alma  Female    Brown   4     Healthy
-        Lillian  Female    Brown   2     Healthy
-           Fynn    Male    Brown   2     Healthy
-          Malia  Female    Brown   1     Healthy
-         Hudson    Male    Brown   1     Healthy
-           Gaia  Female    Brown   0    Infected
-          Inaya  Female    Brown   0     Healthy
-            Tom    Male    Brown   0     Healthy
-Total: 12  Males: 6  Females: 6  Infected: 1     Current turn: 5
+         Harlow    Male    Black   4     Healthy
+           Nyah  Female    Black   4     Healthy
+          Monty    Male  Spotted   4     Healthy
+         Marcus    Male    Brown   4     Healthy
+          Milly  Female    Brown   4     Healthy
+         Arissa  Female    Black   2     Healthy
+         Wilson    Male    Brown   2     Healthy
+       Lily-May  Female    Black   1     Healthy
+            Jan    Male    Brown   1     Healthy
+         Isobel  Female    Black   0     Healthy
+          Brody    Male    Brown   0     Healthy
+          Cohen    Male    Black   0     Healthy
+Total: 12  Males: 7  Females: 5  Infected: 0     Current turn: 5
 Press q to quit, k to perform a cull, or any other key to continue: e
 
 
-Bunny Rowan was born.
-Bunny Ernest was born.
-Bunny Cassidy was born.
+Bunny Kylan was born.
+Bunny Alyssa was born.
+Bunny Destiny was born.
+Bunny Ebony was born.
 The current bunnies are: 
-         Jasper    Male  Spotted   5     Healthy
-          Artur    Male  Spotted   5     Healthy
-          Miles    Male    White   5     Healthy
-       Isla-Rae  Female    Brown   5     Healthy
-           Alma  Female    Brown   5     Healthy
-        Lillian  Female    Brown   3     Healthy
-           Fynn    Male    Brown   3     Healthy
-          Malia  Female    Brown   2    Infected
-         Hudson    Male    Brown   2     Healthy
-           Gaia  Female    Brown   1    Infected
-          Inaya  Female    Brown   1     Healthy
-            Tom    Male    Brown   1     Healthy
-          Rowan    Male    Brown   0     Healthy
-         Ernest    Male    Brown   0     Healthy
-        Cassidy  Female    Brown   0     Healthy
-Total: 15  Males: 8  Females: 7  Infected: 2     Current turn: 6
+         Harlow    Male    Black   5     Healthy
+           Nyah  Female    Black   5     Healthy
+          Monty    Male  Spotted   5     Healthy
+         Marcus    Male    Brown   5     Healthy
+          Milly  Female    Brown   5     Healthy
+         Arissa  Female    Black   3     Healthy
+         Wilson    Male    Brown   3     Healthy
+       Lily-May  Female    Black   2     Healthy
+            Jan    Male    Brown   2     Healthy
+         Isobel  Female    Black   1     Healthy
+          Brody    Male    Brown   1     Healthy
+          Cohen    Male    Black   1     Healthy
+          Kylan    Male    Black   0     Healthy
+         Alyssa  Female    Brown   0     Healthy
+        Destiny  Female    Black   0     Healthy
+          Ebony  Female    Black   0     Healthy
+Total: 16  Males: 8  Females: 8  Infected: 0     Current turn: 6
 Press q to quit, k to perform a cull, or any other key to continue: e
 
 
+Bunny Ayla was born.
+Bunny Armaan was born.
+Bunny Denis was born.
+Bunny Riley was born.
+Bunny Minnie was born.
+The current bunnies are: 
+         Harlow    Male    Black   6     Healthy
+           Nyah  Female    Black   6     Healthy
+          Monty    Male  Spotted   6     Healthy
+         Marcus    Male    Brown   6     Healthy
+          Milly  Female    Brown   6     Healthy
+         Arissa  Female    Black   4     Healthy
+         Wilson    Male    Brown   4     Healthy
+       Lily-May  Female    Black   3     Healthy
+            Jan    Male    Brown   3     Healthy
+         Isobel  Female    Black   2     Healthy
+          Brody    Male    Brown   2     Healthy
+          Cohen    Male    Black   2     Healthy
+          Kylan    Male    Black   1     Healthy
+         Alyssa  Female    Brown   1     Healthy
+        Destiny  Female    Black   1     Healthy
+          Ebony  Female    Black   1     Healthy
+           Ayla  Female    Black   0     Healthy
+         Armaan    Male    Brown   0     Healthy
+          Denis    Male    Black   0     Healthy
+          Riley    Male    Black   0     Healthy
+         Minnie  Female    Black   0     Healthy
+Total: 21  Males: 11  Females: 10  Infected: 0     Current turn: 7
+Press q to quit, k to perform a cull, or any other key to continue: e
+
+
+Bunny Dawson was born.
+Bunny Hallie was born.
+Infected Bunny Osman was born.
+Bunny Claudia was born.
+Bunny Kayden was born.
+Bunny Elisa was born.
+Bunny Raheem was born.
+Bunny Maggie was born.
+The current bunnies are: 
+         Harlow    Male    Black   7     Healthy
+           Nyah  Female    Black   7     Healthy
+          Monty    Male  Spotted   7     Healthy
+         Marcus    Male    Brown   7     Healthy
+          Milly  Female    Brown   7     Healthy
+         Arissa  Female    Black   5     Healthy
+         Wilson    Male    Brown   5     Healthy
+       Lily-May  Female    Black   4     Healthy
+            Jan    Male    Brown   4     Healthy
+         Isobel  Female    Black   3     Healthy
+          Brody    Male    Brown   3     Healthy
+          Cohen    Male    Black   3     Healthy
+          Kylan    Male    Black   2     Healthy
+         Alyssa  Female    Brown   2     Healthy
+        Destiny  Female    Black   2     Healthy
+          Ebony  Female    Black   2     Healthy
+           Ayla  Female    Black   1     Healthy
+         Armaan    Male    Brown   1     Healthy
+          Denis    Male    Black   1     Healthy
+          Riley    Male    Black   1     Healthy
+         Minnie  Female    Black   1     Healthy
+         Dawson    Male    Black   0     Healthy
+         Hallie  Female    Brown   0     Healthy
+          Osman    Male    Black   0    Infected
+        Claudia  Female    Black   0     Healthy
+         Kayden    Male    Black   0     Healthy
+          Elisa  Female    Brown   0     Healthy
+         Raheem    Male    Black   0     Healthy
+         Maggie  Female    Black   0     Healthy
+Total: 29  Males: 15  Females: 14  Infected: 1     Current turn: 8
+Press q to quit, k to perform a cull, or any other key to continue: e
+
+
+Bunny Georgie was born.
+Bunny Sabrina was born.
+Infected Bunny Dion was born.
+Bunny Luca was born.
+Bunny Ares was born.
+Bunny Florrie was born.
+Bunny Leo was born.
+Bunny Mabli was born.
+Bunny Athena was born.
+Bunny Gracie-Mae was born.
+The current bunnies are: 
+         Harlow    Male    Black   8     Healthy
+           Nyah  Female    Black   8     Healthy
+          Monty    Male  Spotted   8     Healthy
+         Marcus    Male    Brown   8     Healthy
+          Milly  Female    Brown   8     Healthy
+         Arissa  Female    Black   6     Healthy
+         Wilson    Male    Brown   6     Healthy
+       Lily-May  Female    Black   5     Healthy
+            Jan    Male    Brown   5     Healthy
+         Isobel  Female    Black   4     Healthy
+          Brody    Male    Brown   4     Healthy
+          Cohen    Male    Black   4     Healthy
+          Kylan    Male    Black   3     Healthy
+         Alyssa  Female    Brown   3     Healthy
+        Destiny  Female    Black   3     Healthy
+          Ebony  Female    Black   3     Healthy
+           Ayla  Female    Black   2     Healthy
+         Armaan    Male    Brown   2     Healthy
+          Denis    Male    Black   2     Healthy
+          Riley    Male    Black   2     Healthy
+         Minnie  Female    Black   2     Healthy
+         Dawson    Male    Black   1     Healthy
+         Hallie  Female    Brown   1     Healthy
+          Osman    Male    Black   1    Infected
+        Claudia  Female    Black   1     Healthy
+         Kayden    Male    Black   1     Healthy
+          Elisa  Female    Brown   1     Healthy
+         Raheem    Male    Black   1    Infected
+         Maggie  Female    Black   1     Healthy
+        Georgie  Female    Black   0     Healthy
+        Sabrina  Female    Brown   0     Healthy
+           Dion    Male    Black   0    Infected
+           Luca    Male    Black   0     Healthy
+           Ares    Male    Black   0     Healthy
+        Florrie  Female    Brown   0     Healthy
+            Leo    Male    Black   0     Healthy
+          Mabli  Female    Black   0     Healthy
+         Athena  Female    Black   0     Healthy
+     Gracie-Mae  Female    Black   0     Healthy
+Total: 39  Males: 19  Females: 20  Infected: 3     Current turn: 9
+Press q to quit, k to perform a cull, or any other key to continue: e
+
+
+Bunny Jace was born.
+Bunny Rayan was born.
+Infected Bunny Ameer was born.
+Bunny Aliza was born.
+Bunny Md was born.
+Bunny Antonina was born.
+Bunny Nicole was born.
+Bunny Cecilia was born.
+Bunny Gloria was born.
+Bunny Ettie was born.
+Bunny Emil was born.
+Infected Bunny Safiyah was born.
+Bunny Stephen was born.
+The current bunnies are: 
+         Harlow    Male    Black   9     Healthy
+           Nyah  Female    Black   9     Healthy
+          Monty    Male  Spotted   9     Healthy
+         Marcus    Male    Brown   9     Healthy
+          Milly  Female    Brown   9     Healthy
+         Arissa  Female    Black   7     Healthy
+         Wilson    Male    Brown   7     Healthy
+       Lily-May  Female    Black   6     Healthy
+            Jan    Male    Brown   6    Infected
+         Isobel  Female    Black   5     Healthy
+          Brody    Male    Brown   5    Infected
+          Cohen    Male    Black   5     Healthy
+          Kylan    Male    Black   4     Healthy
+         Alyssa  Female    Brown   4     Healthy
+        Destiny  Female    Black   4     Healthy
+          Ebony  Female    Black   4    Infected
+           Ayla  Female    Black   3     Healthy
+         Armaan    Male    Brown   3     Healthy
+          Denis    Male    Black   3     Healthy
+          Riley    Male    Black   3     Healthy
+         Minnie  Female    Black   3     Healthy
+         Dawson    Male    Black   2     Healthy
+         Hallie  Female    Brown   2     Healthy
+          Osman    Male    Black   2    Infected
+        Claudia  Female    Black   2     Healthy
+         Kayden    Male    Black   2     Healthy
+          Elisa  Female    Brown   2     Healthy
+         Raheem    Male    Black   2    Infected
+         Maggie  Female    Black   2     Healthy
+        Georgie  Female    Black   1     Healthy
+        Sabrina  Female    Brown   1     Healthy
+           Dion    Male    Black   1    Infected
+           Luca    Male    Black   1     Healthy
+           Ares    Male    Black   1     Healthy
+        Florrie  Female    Brown   1     Healthy
+            Leo    Male    Black   1     Healthy
+          Mabli  Female    Black   1     Healthy
+         Athena  Female    Black   1     Healthy
+     Gracie-Mae  Female    Black   1     Healthy
+           Jace    Male    Black   0     Healthy
+          Rayan    Male    Brown   0     Healthy
+          Ameer    Male    Black   0    Infected
+          Aliza  Female    Black   0     Healthy
+             Md    Male    Black   0     Healthy
+       Antonina  Female    Brown   0     Healthy
+         Nicole  Female    Black   0     Healthy
+        Cecilia  Female    Black   0     Healthy
+         Gloria  Female    Black   0     Healthy
+          Ettie  Female    Brown   0     Healthy
+           Emil    Male    Black   0     Healthy
+        Safiyah  Female    Brown   0    Infected
+        Stephen    Male    Black   0     Healthy
+Total: 52  Males: 25  Females: 27  Infected: 8     Current turn: 10
+Press q to quit, k to perform a cull, or any other key to continue: e
+
+
+Bunny Anastasia was born.
+Bunny Remy was born.
+Bunny Ferne was born.
+Bunny Maggie was born.
+Bunny Kasper was born.
+Bunny Ellis was born.
 Bunny Darcie-Rae was born.
-Bunny Trinity was born.
-Bunny Olly was born.
+Bunny Aron was born.
+Bunny Brian was born.
+Bunny Ralph was born.
+Bunny Issa was born.
+Bunny Imani was born.
 The current bunnies are: 
-         Jasper    Male  Spotted   6     Healthy
-          Artur    Male  Spotted   6     Healthy
-          Miles    Male    White   6     Healthy
-       Isla-Rae  Female    Brown   6     Healthy
-           Alma  Female    Brown   6    Infected
-        Lillian  Female    Brown   4     Healthy
-           Fynn    Male    Brown   4     Healthy
-          Malia  Female    Brown   3    Infected
-         Hudson    Male    Brown   3     Healthy
-           Gaia  Female    Brown   2    Infected
-          Inaya  Female    Brown   2     Healthy
-            Tom    Male    Brown   2     Healthy
-          Rowan    Male    Brown   1    Infected
-         Ernest    Male    Brown   1     Healthy
-        Cassidy  Female    Brown   1     Healthy
-     Darcie-Rae  Female    Brown   0     Healthy
-        Trinity  Female    Brown   0     Healthy
-           Olly    Male    Brown   0     Healthy
-Total: 18  Males: 9  Females: 9  Infected: 4     Current turn: 7
-Press q to quit, k to perform a cull, or any other key to continue: k
-Culling 9 bunnies, 9 survive.
+         Harlow    Male    Black  10     Healthy
+           Nyah  Female    Black  10     Healthy
+          Monty    Male  Spotted  10     Healthy
+         Marcus    Male    Brown  10     Healthy
+          Milly  Female    Brown  10     Healthy
+         Arissa  Female    Black   8    Infected
+         Wilson    Male    Brown   8     Healthy
+       Lily-May  Female    Black   7    Infected
+            Jan    Male    Brown   7    Infected
+         Isobel  Female    Black   6    Infected
+          Brody    Male    Brown   6    Infected
+          Cohen    Male    Black   6     Healthy
+          Kylan    Male    Black   5    Infected
+         Alyssa  Female    Brown   5     Healthy
+        Destiny  Female    Black   5     Healthy
+          Ebony  Female    Black   5    Infected
+           Ayla  Female    Black   4    Infected
+         Armaan    Male    Brown   4     Healthy
+          Denis    Male    Black   4     Healthy
+          Riley    Male    Black   4     Healthy
+         Minnie  Female    Black   4     Healthy
+         Dawson    Male    Black   3     Healthy
+         Hallie  Female    Brown   3     Healthy
+          Osman    Male    Black   3    Infected
+        Claudia  Female    Black   3     Healthy
+         Kayden    Male    Black   3     Healthy
+          Elisa  Female    Brown   3    Infected
+         Raheem    Male    Black   3    Infected
+         Maggie  Female    Black   3    Infected
+        Georgie  Female    Black   2     Healthy
+        Sabrina  Female    Brown   2    Infected
+           Dion    Male    Black   2    Infected
+           Luca    Male    Black   2     Healthy
+           Ares    Male    Black   2     Healthy
+        Florrie  Female    Brown   2     Healthy
+            Leo    Male    Black   2     Healthy
+          Mabli  Female    Black   2     Healthy
+         Athena  Female    Black   2     Healthy
+     Gracie-Mae  Female    Black   2     Healthy
+           Jace    Male    Black   1     Healthy
+          Rayan    Male    Brown   1     Healthy
+          Ameer    Male    Black   1    Infected
+          Aliza  Female    Black   1     Healthy
+             Md    Male    Black   1     Healthy
+       Antonina  Female    Brown   1     Healthy
+         Nicole  Female    Black   1     Healthy
+        Cecilia  Female    Black   1     Healthy
+         Gloria  Female    Black   1     Healthy
+          Ettie  Female    Brown   1     Healthy
+           Emil    Male    Black   1     Healthy
+        Safiyah  Female    Brown   1    Infected
+        Stephen    Male    Black   1     Healthy
+      Anastasia  Female    Black   0     Healthy
+           Remy  Female    Brown   0     Healthy
+          Ferne  Female    Brown   0     Healthy
+         Maggie  Female    Black   0     Healthy
+         Kasper    Male    Black   0     Healthy
+          Ellis    Male    Brown   0     Healthy
+     Darcie-Rae  Female    Black   0     Healthy
+           Aron    Male    Black   0     Healthy
+          Brian    Male    Brown   0     Healthy
+          Ralph    Male    Black   0     Healthy
+           Issa    Male    Black   0     Healthy
+          Imani  Female    Black   0     Healthy
+Total: 64  Males: 31  Females: 33  Infected: 16     Current turn: 11
+Press q to quit, k to perform a cull, or any other key to continue: e
+
+Bunny Harlow has died.
+Bunny Nyah has died.
+Bunny Monty has died.
+Bunny Marcus has died.
+Bunny Milly has died.
+
+Bunny Rocco was born.
+Bunny Eren was born.
+Bunny Zander was born.
+Bunny Lennie was born.
+Bunny Daphne was born.
+Bunny Morgan was born.
+Bunny Tessa was born.
+Bunny Andreas was born.
+Bunny Sabrina was born.
+The current bunnies are: 
+         Arissa  Female    Black   9    Infected
+         Wilson    Male    Brown   9     Healthy
+       Lily-May  Female    Black   8    Infected
+            Jan    Male    Brown   8    Infected
+         Isobel  Female    Black   7    Infected
+          Brody    Male    Brown   7    Infected
+          Cohen    Male    Black   7     Healthy
+          Kylan    Male    Black   6    Infected
+         Alyssa  Female    Brown   6    Infected
+        Destiny  Female    Black   6    Infected
+          Ebony  Female    Black   6    Infected
+           Ayla  Female    Black   5    Infected
+         Armaan    Male    Brown   5     Healthy
+          Denis    Male    Black   5     Healthy
+          Riley    Male    Black   5     Healthy
+         Minnie  Female    Black   5    Infected
+         Dawson    Male    Black   4     Healthy
+         Hallie  Female    Brown   4    Infected
+          Osman    Male    Black   4    Infected
+        Claudia  Female    Black   4     Healthy
+         Kayden    Male    Black   4    Infected
+          Elisa  Female    Brown   4    Infected
+         Raheem    Male    Black   4    Infected
+         Maggie  Female    Black   4    Infected
+        Georgie  Female    Black   3    Infected
+        Sabrina  Female    Brown   3    Infected
+           Dion    Male    Black   3    Infected
+           Luca    Male    Black   3     Healthy
+           Ares    Male    Black   3     Healthy
+        Florrie  Female    Brown   3     Healthy
+            Leo    Male    Black   3     Healthy
+          Mabli  Female    Black   3     Healthy
+         Athena  Female    Black   3    Infected
+     Gracie-Mae  Female    Black   3     Healthy
+           Jace    Male    Black   2     Healthy
+          Rayan    Male    Brown   2    Infected
+          Ameer    Male    Black   2    Infected
+          Aliza  Female    Black   2     Healthy
+             Md    Male    Black   2     Healthy
+       Antonina  Female    Brown   2     Healthy
+         Nicole  Female    Black   2     Healthy
+        Cecilia  Female    Black   2     Healthy
+         Gloria  Female    Black   2    Infected
+          Ettie  Female    Brown   2     Healthy
+           Emil    Male    Black   2     Healthy
+        Safiyah  Female    Brown   2    Infected
+        Stephen    Male    Black   2    Infected
+      Anastasia  Female    Black   1     Healthy
+           Remy  Female    Brown   1    Infected
+          Ferne  Female    Brown   1    Infected
+         Maggie  Female    Black   1    Infected
+         Kasper    Male    Black   1     Healthy
+          Ellis    Male    Brown   1     Healthy
+     Darcie-Rae  Female    Black   1    Infected
+           Aron    Male    Black   1    Infected
+          Brian    Male    Brown   1     Healthy
+          Ralph    Male    Black   1     Healthy
+           Issa    Male    Black   1    Infected
+          Imani  Female    Black   1     Healthy
+          Rocco    Male    Black   0     Healthy
+           Eren    Male    Brown   0     Healthy
+         Zander    Male    Black   0     Healthy
+         Lennie    Male    Black   0     Healthy
+         Daphne  Female    Black   0     Healthy
+         Morgan  Female    Brown   0     Healthy
+          Tessa  Female    Black   0     Healthy
+        Andreas    Male    Black   0     Healthy
+        Sabrina  Female    Brown   0     Healthy
+Total: 68  Males: 33  Females: 35  Infected: 32     Current turn: 12
+Press q to quit, k to perform a cull, or any other key to continue: e
+
+
+Bunny Eva was born.
+The current bunnies are: 
+         Arissa  Female    Black  10    Infected
+         Wilson    Male    Brown  10    Infected
+       Lily-May  Female    Black   9    Infected
+            Jan    Male    Brown   9    Infected
+         Isobel  Female    Black   8    Infected
+          Brody    Male    Brown   8    Infected
+          Cohen    Male    Black   8     Healthy
+          Kylan    Male    Black   7    Infected
+         Alyssa  Female    Brown   7    Infected
+        Destiny  Female    Black   7    Infected
+          Ebony  Female    Black   7    Infected
+           Ayla  Female    Black   6    Infected
+         Armaan    Male    Brown   6    Infected
+          Denis    Male    Black   6    Infected
+          Riley    Male    Black   6     Healthy
+         Minnie  Female    Black   6    Infected
+         Dawson    Male    Black   5    Infected
+         Hallie  Female    Brown   5    Infected
+          Osman    Male    Black   5    Infected
+        Claudia  Female    Black   5    Infected
+         Kayden    Male    Black   5    Infected
+          Elisa  Female    Brown   5    Infected
+         Raheem    Male    Black   5    Infected
+         Maggie  Female    Black   5    Infected
+        Georgie  Female    Black   4    Infected
+        Sabrina  Female    Brown   4    Infected
+           Dion    Male    Black   4    Infected
+           Luca    Male    Black   4    Infected
+           Ares    Male    Black   4    Infected
+        Florrie  Female    Brown   4    Infected
+            Leo    Male    Black   4    Infected
+          Mabli  Female    Black   4    Infected
+         Athena  Female    Black   4    Infected
+     Gracie-Mae  Female    Black   4    Infected
+           Jace    Male    Black   3    Infected
+          Rayan    Male    Brown   3    Infected
+          Ameer    Male    Black   3    Infected
+          Aliza  Female    Black   3    Infected
+             Md    Male    Black   3    Infected
+       Antonina  Female    Brown   3    Infected
+         Nicole  Female    Black   3    Infected
+        Cecilia  Female    Black   3    Infected
+         Gloria  Female    Black   3    Infected
+          Ettie  Female    Brown   3    Infected
+           Emil    Male    Black   3    Infected
+        Safiyah  Female    Brown   3    Infected
+        Stephen    Male    Black   3    Infected
+      Anastasia  Female    Black   2     Healthy
+           Remy  Female    Brown   2    Infected
+          Ferne  Female    Brown   2    Infected
+         Maggie  Female    Black   2    Infected
+         Kasper    Male    Black   2    Infected
+          Ellis    Male    Brown   2    Infected
+     Darcie-Rae  Female    Black   2    Infected
+           Aron    Male    Black   2    Infected
+          Brian    Male    Brown   2     Healthy
+          Ralph    Male    Black   2    Infected
+           Issa    Male    Black   2    Infected
+          Imani  Female    Black   2    Infected
+          Rocco    Male    Black   1    Infected
+           Eren    Male    Brown   1    Infected
+         Zander    Male    Black   1    Infected
+         Lennie    Male    Black   1    Infected
+         Daphne  Female    Black   1    Infected
+         Morgan  Female    Brown   1    Infected
+          Tessa  Female    Black   1    Infected
+        Andreas    Male    Black   1    Infected
+        Sabrina  Female    Brown   1    Infected
+            Eva  Female    Black   0     Healthy
+Total: 69  Males: 33  Females: 36  Infected: 64     Current turn: 13
+Press q to quit, k to perform a cull, or any other key to continue: e
 
 
 The current bunnies are: 
-         Jasper    Male  Spotted   7    Infected
-          Artur    Male  Spotted   7    Infected
-          Miles    Male    White   7     Healthy
-           Alma  Female    Brown   7    Infected
-           Gaia  Female    Brown   3    Infected
-            Tom    Male    Brown   3     Healthy
-          Rowan    Male    Brown   2    Infected
-        Cassidy  Female    Brown   2    Infected
-        Trinity  Female    Brown   1     Healthy
-Total: 9  Males: 5  Females: 4  Infected: 6     Current turn: 8
-Press q to quit, k to perform a cull, or any other key to continue: k
-Culling 5 bunnies, 4 survive.
+         Arissa  Female    Black  11    Infected
+         Wilson    Male    Brown  11    Infected
+       Lily-May  Female    Black  10    Infected
+            Jan    Male    Brown  10    Infected
+         Isobel  Female    Black   9    Infected
+          Brody    Male    Brown   9    Infected
+          Cohen    Male    Black   9    Infected
+          Kylan    Male    Black   8    Infected
+         Alyssa  Female    Brown   8    Infected
+        Destiny  Female    Black   8    Infected
+          Ebony  Female    Black   8    Infected
+           Ayla  Female    Black   7    Infected
+         Armaan    Male    Brown   7    Infected
+          Denis    Male    Black   7    Infected
+          Riley    Male    Black   7    Infected
+         Minnie  Female    Black   7    Infected
+         Dawson    Male    Black   6    Infected
+         Hallie  Female    Brown   6    Infected
+          Osman    Male    Black   6    Infected
+        Claudia  Female    Black   6    Infected
+         Kayden    Male    Black   6    Infected
+          Elisa  Female    Brown   6    Infected
+         Raheem    Male    Black   6    Infected
+         Maggie  Female    Black   6    Infected
+        Georgie  Female    Black   5    Infected
+        Sabrina  Female    Brown   5    Infected
+           Dion    Male    Black   5    Infected
+           Luca    Male    Black   5    Infected
+           Ares    Male    Black   5    Infected
+        Florrie  Female    Brown   5    Infected
+            Leo    Male    Black   5    Infected
+          Mabli  Female    Black   5    Infected
+         Athena  Female    Black   5    Infected
+     Gracie-Mae  Female    Black   5    Infected
+           Jace    Male    Black   4    Infected
+          Rayan    Male    Brown   4    Infected
+          Ameer    Male    Black   4    Infected
+          Aliza  Female    Black   4    Infected
+             Md    Male    Black   4    Infected
+       Antonina  Female    Brown   4    Infected
+         Nicole  Female    Black   4    Infected
+        Cecilia  Female    Black   4    Infected
+         Gloria  Female    Black   4    Infected
+          Ettie  Female    Brown   4    Infected
+           Emil    Male    Black   4    Infected
+        Safiyah  Female    Brown   4    Infected
+        Stephen    Male    Black   4    Infected
+      Anastasia  Female    Black   3    Infected
+           Remy  Female    Brown   3    Infected
+          Ferne  Female    Brown   3    Infected
+         Maggie  Female    Black   3    Infected
+         Kasper    Male    Black   3    Infected
+          Ellis    Male    Brown   3    Infected
+     Darcie-Rae  Female    Black   3    Infected
+           Aron    Male    Black   3    Infected
+          Brian    Male    Brown   3    Infected
+          Ralph    Male    Black   3    Infected
+           Issa    Male    Black   3    Infected
+          Imani  Female    Black   3    Infected
+          Rocco    Male    Black   2    Infected
+           Eren    Male    Brown   2    Infected
+         Zander    Male    Black   2    Infected
+         Lennie    Male    Black   2    Infected
+         Daphne  Female    Black   2    Infected
+         Morgan  Female    Brown   2    Infected
+          Tessa  Female    Black   2    Infected
+        Andreas    Male    Black   2    Infected
+        Sabrina  Female    Brown   2    Infected
+            Eva  Female    Black   1    Infected
+Total: 69  Males: 33  Females: 36  Infected: 69     Current turn: 14
+Press q to quit, k to perform a cull, or any other key to continue: e
 
 
 The current bunnies are: 
-         Jasper    Male  Spotted   8    Infected
-          Artur    Male  Spotted   8    Infected
-          Miles    Male    White   8    Infected
-          Rowan    Male    Brown   3    Infected
-Total: 4  Males: 4  Females: 0  Infected: 4     Current turn: 9
-Press q to quit, k to perform a cull, or any other key to continue: k
-Culling 2 bunnies, 2 survive.
+         Arissa  Female    Black  12    Infected
+         Wilson    Male    Brown  12    Infected
+       Lily-May  Female    Black  11    Infected
+            Jan    Male    Brown  11    Infected
+         Isobel  Female    Black  10    Infected
+          Brody    Male    Brown  10    Infected
+          Cohen    Male    Black  10    Infected
+          Kylan    Male    Black   9    Infected
+         Alyssa  Female    Brown   9    Infected
+        Destiny  Female    Black   9    Infected
+          Ebony  Female    Black   9    Infected
+           Ayla  Female    Black   8    Infected
+         Armaan    Male    Brown   8    Infected
+          Denis    Male    Black   8    Infected
+          Riley    Male    Black   8    Infected
+         Minnie  Female    Black   8    Infected
+         Dawson    Male    Black   7    Infected
+         Hallie  Female    Brown   7    Infected
+          Osman    Male    Black   7    Infected
+        Claudia  Female    Black   7    Infected
+         Kayden    Male    Black   7    Infected
+          Elisa  Female    Brown   7    Infected
+         Raheem    Male    Black   7    Infected
+         Maggie  Female    Black   7    Infected
+        Georgie  Female    Black   6    Infected
+        Sabrina  Female    Brown   6    Infected
+           Dion    Male    Black   6    Infected
+           Luca    Male    Black   6    Infected
+           Ares    Male    Black   6    Infected
+        Florrie  Female    Brown   6    Infected
+            Leo    Male    Black   6    Infected
+          Mabli  Female    Black   6    Infected
+         Athena  Female    Black   6    Infected
+     Gracie-Mae  Female    Black   6    Infected
+           Jace    Male    Black   5    Infected
+          Rayan    Male    Brown   5    Infected
+          Ameer    Male    Black   5    Infected
+          Aliza  Female    Black   5    Infected
+             Md    Male    Black   5    Infected
+       Antonina  Female    Brown   5    Infected
+         Nicole  Female    Black   5    Infected
+        Cecilia  Female    Black   5    Infected
+         Gloria  Female    Black   5    Infected
+          Ettie  Female    Brown   5    Infected
+           Emil    Male    Black   5    Infected
+        Safiyah  Female    Brown   5    Infected
+        Stephen    Male    Black   5    Infected
+      Anastasia  Female    Black   4    Infected
+           Remy  Female    Brown   4    Infected
+          Ferne  Female    Brown   4    Infected
+         Maggie  Female    Black   4    Infected
+         Kasper    Male    Black   4    Infected
+          Ellis    Male    Brown   4    Infected
+     Darcie-Rae  Female    Black   4    Infected
+           Aron    Male    Black   4    Infected
+          Brian    Male    Brown   4    Infected
+          Ralph    Male    Black   4    Infected
+           Issa    Male    Black   4    Infected
+          Imani  Female    Black   4    Infected
+          Rocco    Male    Black   3    Infected
+           Eren    Male    Brown   3    Infected
+         Zander    Male    Black   3    Infected
+         Lennie    Male    Black   3    Infected
+         Daphne  Female    Black   3    Infected
+         Morgan  Female    Brown   3    Infected
+          Tessa  Female    Black   3    Infected
+        Andreas    Male    Black   3    Infected
+        Sabrina  Female    Brown   3    Infected
+            Eva  Female    Black   2    Infected
+Total: 69  Males: 33  Females: 36  Infected: 69     Current turn: 15
+Press q to quit, k to perform a cull, or any other key to continue: e
 
 
 The current bunnies are: 
-          Artur    Male  Spotted   9    Infected
-          Rowan    Male    Brown   4    Infected
-Total: 2  Males: 2  Females: 0  Infected: 2     Current turn: 10
+         Arissa  Female    Black  13    Infected
+         Wilson    Male    Brown  13    Infected
+       Lily-May  Female    Black  12    Infected
+            Jan    Male    Brown  12    Infected
+         Isobel  Female    Black  11    Infected
+          Brody    Male    Brown  11    Infected
+          Cohen    Male    Black  11    Infected
+          Kylan    Male    Black  10    Infected
+         Alyssa  Female    Brown  10    Infected
+        Destiny  Female    Black  10    Infected
+          Ebony  Female    Black  10    Infected
+           Ayla  Female    Black   9    Infected
+         Armaan    Male    Brown   9    Infected
+          Denis    Male    Black   9    Infected
+          Riley    Male    Black   9    Infected
+         Minnie  Female    Black   9    Infected
+         Dawson    Male    Black   8    Infected
+         Hallie  Female    Brown   8    Infected
+          Osman    Male    Black   8    Infected
+        Claudia  Female    Black   8    Infected
+         Kayden    Male    Black   8    Infected
+          Elisa  Female    Brown   8    Infected
+         Raheem    Male    Black   8    Infected
+         Maggie  Female    Black   8    Infected
+        Georgie  Female    Black   7    Infected
+        Sabrina  Female    Brown   7    Infected
+           Dion    Male    Black   7    Infected
+           Luca    Male    Black   7    Infected
+           Ares    Male    Black   7    Infected
+        Florrie  Female    Brown   7    Infected
+            Leo    Male    Black   7    Infected
+          Mabli  Female    Black   7    Infected
+         Athena  Female    Black   7    Infected
+     Gracie-Mae  Female    Black   7    Infected
+           Jace    Male    Black   6    Infected
+          Rayan    Male    Brown   6    Infected
+          Ameer    Male    Black   6    Infected
+          Aliza  Female    Black   6    Infected
+             Md    Male    Black   6    Infected
+       Antonina  Female    Brown   6    Infected
+         Nicole  Female    Black   6    Infected
+        Cecilia  Female    Black   6    Infected
+         Gloria  Female    Black   6    Infected
+          Ettie  Female    Brown   6    Infected
+           Emil    Male    Black   6    Infected
+        Safiyah  Female    Brown   6    Infected
+        Stephen    Male    Black   6    Infected
+      Anastasia  Female    Black   5    Infected
+           Remy  Female    Brown   5    Infected
+          Ferne  Female    Brown   5    Infected
+         Maggie  Female    Black   5    Infected
+         Kasper    Male    Black   5    Infected
+          Ellis    Male    Brown   5    Infected
+     Darcie-Rae  Female    Black   5    Infected
+           Aron    Male    Black   5    Infected
+          Brian    Male    Brown   5    Infected
+          Ralph    Male    Black   5    Infected
+           Issa    Male    Black   5    Infected
+          Imani  Female    Black   5    Infected
+          Rocco    Male    Black   4    Infected
+           Eren    Male    Brown   4    Infected
+         Zander    Male    Black   4    Infected
+         Lennie    Male    Black   4    Infected
+         Daphne  Female    Black   4    Infected
+         Morgan  Female    Brown   4    Infected
+          Tessa  Female    Black   4    Infected
+        Andreas    Male    Black   4    Infected
+        Sabrina  Female    Brown   4    Infected
+            Eva  Female    Black   3    Infected
+Total: 69  Males: 33  Females: 36  Infected: 69     Current turn: 16
+Press q to quit, k to perform a cull, or any other key to continue: e
+
+
+The current bunnies are: 
+         Arissa  Female    Black  14    Infected
+         Wilson    Male    Brown  14    Infected
+       Lily-May  Female    Black  13    Infected
+            Jan    Male    Brown  13    Infected
+         Isobel  Female    Black  12    Infected
+          Brody    Male    Brown  12    Infected
+          Cohen    Male    Black  12    Infected
+          Kylan    Male    Black  11    Infected
+         Alyssa  Female    Brown  11    Infected
+        Destiny  Female    Black  11    Infected
+          Ebony  Female    Black  11    Infected
+           Ayla  Female    Black  10    Infected
+         Armaan    Male    Brown  10    Infected
+          Denis    Male    Black  10    Infected
+          Riley    Male    Black  10    Infected
+         Minnie  Female    Black  10    Infected
+         Dawson    Male    Black   9    Infected
+         Hallie  Female    Brown   9    Infected
+          Osman    Male    Black   9    Infected
+        Claudia  Female    Black   9    Infected
+         Kayden    Male    Black   9    Infected
+          Elisa  Female    Brown   9    Infected
+         Raheem    Male    Black   9    Infected
+         Maggie  Female    Black   9    Infected
+        Georgie  Female    Black   8    Infected
+        Sabrina  Female    Brown   8    Infected
+           Dion    Male    Black   8    Infected
+           Luca    Male    Black   8    Infected
+           Ares    Male    Black   8    Infected
+        Florrie  Female    Brown   8    Infected
+            Leo    Male    Black   8    Infected
+          Mabli  Female    Black   8    Infected
+         Athena  Female    Black   8    Infected
+     Gracie-Mae  Female    Black   8    Infected
+           Jace    Male    Black   7    Infected
+          Rayan    Male    Brown   7    Infected
+          Ameer    Male    Black   7    Infected
+          Aliza  Female    Black   7    Infected
+             Md    Male    Black   7    Infected
+       Antonina  Female    Brown   7    Infected
+         Nicole  Female    Black   7    Infected
+        Cecilia  Female    Black   7    Infected
+         Gloria  Female    Black   7    Infected
+          Ettie  Female    Brown   7    Infected
+           Emil    Male    Black   7    Infected
+        Safiyah  Female    Brown   7    Infected
+        Stephen    Male    Black   7    Infected
+      Anastasia  Female    Black   6    Infected
+           Remy  Female    Brown   6    Infected
+          Ferne  Female    Brown   6    Infected
+         Maggie  Female    Black   6    Infected
+         Kasper    Male    Black   6    Infected
+          Ellis    Male    Brown   6    Infected
+     Darcie-Rae  Female    Black   6    Infected
+           Aron    Male    Black   6    Infected
+          Brian    Male    Brown   6    Infected
+          Ralph    Male    Black   6    Infected
+           Issa    Male    Black   6    Infected
+          Imani  Female    Black   6    Infected
+          Rocco    Male    Black   5    Infected
+           Eren    Male    Brown   5    Infected
+         Zander    Male    Black   5    Infected
+         Lennie    Male    Black   5    Infected
+         Daphne  Female    Black   5    Infected
+         Morgan  Female    Brown   5    Infected
+          Tessa  Female    Black   5    Infected
+        Andreas    Male    Black   5    Infected
+        Sabrina  Female    Brown   5    Infected
+            Eva  Female    Black   4    Infected
+Total: 69  Males: 33  Females: 36  Infected: 69     Current turn: 17
 Press q to quit, k to perform a cull, or any other key to continue: q

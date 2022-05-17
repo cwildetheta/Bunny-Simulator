@@ -38,6 +38,13 @@ int main()
     std::string filename = "graph.py";
     std::string command = "python ";
     command += filename;
-    system(command.c_str());
+    char input;
+    std::cout << "Would you like a graph of the simulation stats to be produced? Press y for yes, or any other key for no." << std::endl;
+    std::cout << "WARNING: The graph program was built with Python 2.7.13. A compatible version must be installed for the graph to be produced." << std::endl;
+    std::cout << "Input: ";
+    std::cin >> input;
+    if((input == 'y') || (input == 'Y')){
+        system(command.c_str());
+    }
     return 0;
 }
