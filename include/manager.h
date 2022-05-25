@@ -13,6 +13,7 @@ class manager{
     public:
         explicit manager(int);
         static bool bunny_sorter_internal(std::shared_ptr<bunny>, std::shared_ptr<bunny>);
+        void run(std::string, std::string);
         bool print_out(std::ofstream&);
         void aging(std::ofstream&);
         void infect();

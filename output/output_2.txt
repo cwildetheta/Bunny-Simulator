@@ -1,0 +1,1069 @@
+The current bunnies are: 
+         Ashton    Male    Black   0     Healthy
+        Vanessa  Female    White   0     Healthy
+         Emilia  Female  Spotted   0     Healthy
+        Rosalie  Female  Spotted   0     Healthy
+          Ianis    Male  Spotted   0     Healthy
+Total: 5  Males: 2  Females: 3  Infected: 0     Current turn: 1
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black   1     Healthy
+        Vanessa  Female    White   1     Healthy
+         Emilia  Female  Spotted   1     Healthy
+        Rosalie  Female  Spotted   1     Healthy
+          Ianis    Male  Spotted   1     Healthy
+Total: 5  Males: 2  Females: 3  Infected: 0     Current turn: 2
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Infected Bunny Juniper was born.
+Bunny Diya was born.
+Bunny Arnie was born.
+The current bunnies are: 
+         Ashton    Male    Black   2     Healthy
+        Vanessa  Female    White   2     Healthy
+         Emilia  Female  Spotted   2     Healthy
+        Rosalie  Female  Spotted   2     Healthy
+          Ianis    Male  Spotted   2     Healthy
+        Juniper  Female    White   0    Infected
+           Diya  Female  Spotted   0     Healthy
+          Arnie    Male  Spotted   0     Healthy
+Total: 8  Males: 3  Females: 5  Infected: 1     Current turn: 3
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Bunny Klara was born.
+Bunny Lenny was born.
+Bunny Meghan was born.
+The current bunnies are: 
+         Ashton    Male    Black   3     Healthy
+        Vanessa  Female    White   3     Healthy
+         Emilia  Female  Spotted   3     Healthy
+        Rosalie  Female  Spotted   3     Healthy
+          Ianis    Male  Spotted   3     Healthy
+        Juniper  Female    White   1    Infected
+           Diya  Female  Spotted   1     Healthy
+          Arnie    Male  Spotted   1    Infected
+          Klara  Female    White   0     Healthy
+          Lenny    Male  Spotted   0     Healthy
+         Meghan  Female  Spotted   0     Healthy
+Total: 11  Males: 4  Females: 7  Infected: 2     Current turn: 4
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Bunny Cadi was born.
+Bunny Haris was born.
+Bunny Ariel was born.
+The current bunnies are: 
+         Ashton    Male    Black   4     Healthy
+        Vanessa  Female    White   4     Healthy
+         Emilia  Female  Spotted   4    Infected
+        Rosalie  Female  Spotted   4     Healthy
+          Ianis    Male  Spotted   4     Healthy
+        Juniper  Female    White   2    Infected
+           Diya  Female  Spotted   2     Healthy
+          Arnie    Male  Spotted   2    Infected
+          Klara  Female    White   1     Healthy
+          Lenny    Male  Spotted   1     Healthy
+         Meghan  Female  Spotted   1    Infected
+           Cadi  Female    White   0     Healthy
+          Haris    Male  Spotted   0     Healthy
+          Ariel  Female  Spotted   0     Healthy
+Total: 14  Males: 5  Females: 9  Infected: 4     Current turn: 5
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Bunny Marcel was born.
+Bunny Hassan was born.
+The current bunnies are: 
+         Ashton    Male    Black   5     Healthy
+        Vanessa  Female    White   5    Infected
+         Emilia  Female  Spotted   5    Infected
+        Rosalie  Female  Spotted   5     Healthy
+          Ianis    Male  Spotted   5     Healthy
+        Juniper  Female    White   3    Infected
+           Diya  Female  Spotted   3    Infected
+          Arnie    Male  Spotted   3    Infected
+          Klara  Female    White   2     Healthy
+          Lenny    Male  Spotted   2    Infected
+         Meghan  Female  Spotted   2    Infected
+           Cadi  Female    White   1     Healthy
+          Haris    Male  Spotted   1    Infected
+          Ariel  Female  Spotted   1     Healthy
+         Marcel    Male  Spotted   0     Healthy
+         Hassan    Male    White   0     Healthy
+Total: 16  Males: 7  Females: 9  Infected: 8     Current turn: 6
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black   6    Infected
+        Vanessa  Female    White   6    Infected
+         Emilia  Female  Spotted   6    Infected
+        Rosalie  Female  Spotted   6    Infected
+          Ianis    Male  Spotted   6    Infected
+        Juniper  Female    White   4    Infected
+           Diya  Female  Spotted   4    Infected
+          Arnie    Male  Spotted   4    Infected
+          Klara  Female    White   3    Infected
+          Lenny    Male  Spotted   3    Infected
+         Meghan  Female  Spotted   3    Infected
+           Cadi  Female    White   2    Infected
+          Haris    Male  Spotted   2    Infected
+          Ariel  Female  Spotted   2    Infected
+         Marcel    Male  Spotted   1    Infected
+         Hassan    Male    White   1    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 7
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black   7    Infected
+        Vanessa  Female    White   7    Infected
+         Emilia  Female  Spotted   7    Infected
+        Rosalie  Female  Spotted   7    Infected
+          Ianis    Male  Spotted   7    Infected
+        Juniper  Female    White   5    Infected
+           Diya  Female  Spotted   5    Infected
+          Arnie    Male  Spotted   5    Infected
+          Klara  Female    White   4    Infected
+          Lenny    Male  Spotted   4    Infected
+         Meghan  Female  Spotted   4    Infected
+           Cadi  Female    White   3    Infected
+          Haris    Male  Spotted   3    Infected
+          Ariel  Female  Spotted   3    Infected
+         Marcel    Male  Spotted   2    Infected
+         Hassan    Male    White   2    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 8
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black   8    Infected
+        Vanessa  Female    White   8    Infected
+         Emilia  Female  Spotted   8    Infected
+        Rosalie  Female  Spotted   8    Infected
+          Ianis    Male  Spotted   8    Infected
+        Juniper  Female    White   6    Infected
+           Diya  Female  Spotted   6    Infected
+          Arnie    Male  Spotted   6    Infected
+          Klara  Female    White   5    Infected
+          Lenny    Male  Spotted   5    Infected
+         Meghan  Female  Spotted   5    Infected
+           Cadi  Female    White   4    Infected
+          Haris    Male  Spotted   4    Infected
+          Ariel  Female  Spotted   4    Infected
+         Marcel    Male  Spotted   3    Infected
+         Hassan    Male    White   3    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 9
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black   9    Infected
+        Vanessa  Female    White   9    Infected
+         Emilia  Female  Spotted   9    Infected
+        Rosalie  Female  Spotted   9    Infected
+          Ianis    Male  Spotted   9    Infected
+        Juniper  Female    White   7    Infected
+           Diya  Female  Spotted   7    Infected
+          Arnie    Male  Spotted   7    Infected
+          Klara  Female    White   6    Infected
+          Lenny    Male  Spotted   6    Infected
+         Meghan  Female  Spotted   6    Infected
+           Cadi  Female    White   5    Infected
+          Haris    Male  Spotted   5    Infected
+          Ariel  Female  Spotted   5    Infected
+         Marcel    Male  Spotted   4    Infected
+         Hassan    Male    White   4    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 10
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  10    Infected
+        Vanessa  Female    White  10    Infected
+         Emilia  Female  Spotted  10    Infected
+        Rosalie  Female  Spotted  10    Infected
+          Ianis    Male  Spotted  10    Infected
+        Juniper  Female    White   8    Infected
+           Diya  Female  Spotted   8    Infected
+          Arnie    Male  Spotted   8    Infected
+          Klara  Female    White   7    Infected
+          Lenny    Male  Spotted   7    Infected
+         Meghan  Female  Spotted   7    Infected
+           Cadi  Female    White   6    Infected
+          Haris    Male  Spotted   6    Infected
+          Ariel  Female  Spotted   6    Infected
+         Marcel    Male  Spotted   5    Infected
+         Hassan    Male    White   5    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 11
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  11    Infected
+        Vanessa  Female    White  11    Infected
+         Emilia  Female  Spotted  11    Infected
+        Rosalie  Female  Spotted  11    Infected
+          Ianis    Male  Spotted  11    Infected
+        Juniper  Female    White   9    Infected
+           Diya  Female  Spotted   9    Infected
+          Arnie    Male  Spotted   9    Infected
+          Klara  Female    White   8    Infected
+          Lenny    Male  Spotted   8    Infected
+         Meghan  Female  Spotted   8    Infected
+           Cadi  Female    White   7    Infected
+          Haris    Male  Spotted   7    Infected
+          Ariel  Female  Spotted   7    Infected
+         Marcel    Male  Spotted   6    Infected
+         Hassan    Male    White   6    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 12
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  12    Infected
+        Vanessa  Female    White  12    Infected
+         Emilia  Female  Spotted  12    Infected
+        Rosalie  Female  Spotted  12    Infected
+          Ianis    Male  Spotted  12    Infected
+        Juniper  Female    White  10    Infected
+           Diya  Female  Spotted  10    Infected
+          Arnie    Male  Spotted  10    Infected
+          Klara  Female    White   9    Infected
+          Lenny    Male  Spotted   9    Infected
+         Meghan  Female  Spotted   9    Infected
+           Cadi  Female    White   8    Infected
+          Haris    Male  Spotted   8    Infected
+          Ariel  Female  Spotted   8    Infected
+         Marcel    Male  Spotted   7    Infected
+         Hassan    Male    White   7    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 13
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  13    Infected
+        Vanessa  Female    White  13    Infected
+         Emilia  Female  Spotted  13    Infected
+        Rosalie  Female  Spotted  13    Infected
+          Ianis    Male  Spotted  13    Infected
+        Juniper  Female    White  11    Infected
+           Diya  Female  Spotted  11    Infected
+          Arnie    Male  Spotted  11    Infected
+          Klara  Female    White  10    Infected
+          Lenny    Male  Spotted  10    Infected
+         Meghan  Female  Spotted  10    Infected
+           Cadi  Female    White   9    Infected
+          Haris    Male  Spotted   9    Infected
+          Ariel  Female  Spotted   9    Infected
+         Marcel    Male  Spotted   8    Infected
+         Hassan    Male    White   8    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 14
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  14    Infected
+        Vanessa  Female    White  14    Infected
+         Emilia  Female  Spotted  14    Infected
+        Rosalie  Female  Spotted  14    Infected
+          Ianis    Male  Spotted  14    Infected
+        Juniper  Female    White  12    Infected
+           Diya  Female  Spotted  12    Infected
+          Arnie    Male  Spotted  12    Infected
+          Klara  Female    White  11    Infected
+          Lenny    Male  Spotted  11    Infected
+         Meghan  Female  Spotted  11    Infected
+           Cadi  Female    White  10    Infected
+          Haris    Male  Spotted  10    Infected
+          Ariel  Female  Spotted  10    Infected
+         Marcel    Male  Spotted   9    Infected
+         Hassan    Male    White   9    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 15
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  15    Infected
+        Vanessa  Female    White  15    Infected
+         Emilia  Female  Spotted  15    Infected
+        Rosalie  Female  Spotted  15    Infected
+          Ianis    Male  Spotted  15    Infected
+        Juniper  Female    White  13    Infected
+           Diya  Female  Spotted  13    Infected
+          Arnie    Male  Spotted  13    Infected
+          Klara  Female    White  12    Infected
+          Lenny    Male  Spotted  12    Infected
+         Meghan  Female  Spotted  12    Infected
+           Cadi  Female    White  11    Infected
+          Haris    Male  Spotted  11    Infected
+          Ariel  Female  Spotted  11    Infected
+         Marcel    Male  Spotted  10    Infected
+         Hassan    Male    White  10    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 16
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  16    Infected
+        Vanessa  Female    White  16    Infected
+         Emilia  Female  Spotted  16    Infected
+        Rosalie  Female  Spotted  16    Infected
+          Ianis    Male  Spotted  16    Infected
+        Juniper  Female    White  14    Infected
+           Diya  Female  Spotted  14    Infected
+          Arnie    Male  Spotted  14    Infected
+          Klara  Female    White  13    Infected
+          Lenny    Male  Spotted  13    Infected
+         Meghan  Female  Spotted  13    Infected
+           Cadi  Female    White  12    Infected
+          Haris    Male  Spotted  12    Infected
+          Ariel  Female  Spotted  12    Infected
+         Marcel    Male  Spotted  11    Infected
+         Hassan    Male    White  11    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 17
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  17    Infected
+        Vanessa  Female    White  17    Infected
+         Emilia  Female  Spotted  17    Infected
+        Rosalie  Female  Spotted  17    Infected
+          Ianis    Male  Spotted  17    Infected
+        Juniper  Female    White  15    Infected
+           Diya  Female  Spotted  15    Infected
+          Arnie    Male  Spotted  15    Infected
+          Klara  Female    White  14    Infected
+          Lenny    Male  Spotted  14    Infected
+         Meghan  Female  Spotted  14    Infected
+           Cadi  Female    White  13    Infected
+          Haris    Male  Spotted  13    Infected
+          Ariel  Female  Spotted  13    Infected
+         Marcel    Male  Spotted  12    Infected
+         Hassan    Male    White  12    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 18
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  18    Infected
+        Vanessa  Female    White  18    Infected
+         Emilia  Female  Spotted  18    Infected
+        Rosalie  Female  Spotted  18    Infected
+          Ianis    Male  Spotted  18    Infected
+        Juniper  Female    White  16    Infected
+           Diya  Female  Spotted  16    Infected
+          Arnie    Male  Spotted  16    Infected
+          Klara  Female    White  15    Infected
+          Lenny    Male  Spotted  15    Infected
+         Meghan  Female  Spotted  15    Infected
+           Cadi  Female    White  14    Infected
+          Haris    Male  Spotted  14    Infected
+          Ariel  Female  Spotted  14    Infected
+         Marcel    Male  Spotted  13    Infected
+         Hassan    Male    White  13    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 19
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  19    Infected
+        Vanessa  Female    White  19    Infected
+         Emilia  Female  Spotted  19    Infected
+        Rosalie  Female  Spotted  19    Infected
+          Ianis    Male  Spotted  19    Infected
+        Juniper  Female    White  17    Infected
+           Diya  Female  Spotted  17    Infected
+          Arnie    Male  Spotted  17    Infected
+          Klara  Female    White  16    Infected
+          Lenny    Male  Spotted  16    Infected
+         Meghan  Female  Spotted  16    Infected
+           Cadi  Female    White  15    Infected
+          Haris    Male  Spotted  15    Infected
+          Ariel  Female  Spotted  15    Infected
+         Marcel    Male  Spotted  14    Infected
+         Hassan    Male    White  14    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 20
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  20    Infected
+        Vanessa  Female    White  20    Infected
+         Emilia  Female  Spotted  20    Infected
+        Rosalie  Female  Spotted  20    Infected
+          Ianis    Male  Spotted  20    Infected
+        Juniper  Female    White  18    Infected
+           Diya  Female  Spotted  18    Infected
+          Arnie    Male  Spotted  18    Infected
+          Klara  Female    White  17    Infected
+          Lenny    Male  Spotted  17    Infected
+         Meghan  Female  Spotted  17    Infected
+           Cadi  Female    White  16    Infected
+          Haris    Male  Spotted  16    Infected
+          Ariel  Female  Spotted  16    Infected
+         Marcel    Male  Spotted  15    Infected
+         Hassan    Male    White  15    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 21
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  21    Infected
+        Vanessa  Female    White  21    Infected
+         Emilia  Female  Spotted  21    Infected
+        Rosalie  Female  Spotted  21    Infected
+          Ianis    Male  Spotted  21    Infected
+        Juniper  Female    White  19    Infected
+           Diya  Female  Spotted  19    Infected
+          Arnie    Male  Spotted  19    Infected
+          Klara  Female    White  18    Infected
+          Lenny    Male  Spotted  18    Infected
+         Meghan  Female  Spotted  18    Infected
+           Cadi  Female    White  17    Infected
+          Haris    Male  Spotted  17    Infected
+          Ariel  Female  Spotted  17    Infected
+         Marcel    Male  Spotted  16    Infected
+         Hassan    Male    White  16    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 22
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  22    Infected
+        Vanessa  Female    White  22    Infected
+         Emilia  Female  Spotted  22    Infected
+        Rosalie  Female  Spotted  22    Infected
+          Ianis    Male  Spotted  22    Infected
+        Juniper  Female    White  20    Infected
+           Diya  Female  Spotted  20    Infected
+          Arnie    Male  Spotted  20    Infected
+          Klara  Female    White  19    Infected
+          Lenny    Male  Spotted  19    Infected
+         Meghan  Female  Spotted  19    Infected
+           Cadi  Female    White  18    Infected
+          Haris    Male  Spotted  18    Infected
+          Ariel  Female  Spotted  18    Infected
+         Marcel    Male  Spotted  17    Infected
+         Hassan    Male    White  17    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 23
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  23    Infected
+        Vanessa  Female    White  23    Infected
+         Emilia  Female  Spotted  23    Infected
+        Rosalie  Female  Spotted  23    Infected
+          Ianis    Male  Spotted  23    Infected
+        Juniper  Female    White  21    Infected
+           Diya  Female  Spotted  21    Infected
+          Arnie    Male  Spotted  21    Infected
+          Klara  Female    White  20    Infected
+          Lenny    Male  Spotted  20    Infected
+         Meghan  Female  Spotted  20    Infected
+           Cadi  Female    White  19    Infected
+          Haris    Male  Spotted  19    Infected
+          Ariel  Female  Spotted  19    Infected
+         Marcel    Male  Spotted  18    Infected
+         Hassan    Male    White  18    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 24
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  24    Infected
+        Vanessa  Female    White  24    Infected
+         Emilia  Female  Spotted  24    Infected
+        Rosalie  Female  Spotted  24    Infected
+          Ianis    Male  Spotted  24    Infected
+        Juniper  Female    White  22    Infected
+           Diya  Female  Spotted  22    Infected
+          Arnie    Male  Spotted  22    Infected
+          Klara  Female    White  21    Infected
+          Lenny    Male  Spotted  21    Infected
+         Meghan  Female  Spotted  21    Infected
+           Cadi  Female    White  20    Infected
+          Haris    Male  Spotted  20    Infected
+          Ariel  Female  Spotted  20    Infected
+         Marcel    Male  Spotted  19    Infected
+         Hassan    Male    White  19    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 25
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  25    Infected
+        Vanessa  Female    White  25    Infected
+         Emilia  Female  Spotted  25    Infected
+        Rosalie  Female  Spotted  25    Infected
+          Ianis    Male  Spotted  25    Infected
+        Juniper  Female    White  23    Infected
+           Diya  Female  Spotted  23    Infected
+          Arnie    Male  Spotted  23    Infected
+          Klara  Female    White  22    Infected
+          Lenny    Male  Spotted  22    Infected
+         Meghan  Female  Spotted  22    Infected
+           Cadi  Female    White  21    Infected
+          Haris    Male  Spotted  21    Infected
+          Ariel  Female  Spotted  21    Infected
+         Marcel    Male  Spotted  20    Infected
+         Hassan    Male    White  20    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 26
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  26    Infected
+        Vanessa  Female    White  26    Infected
+         Emilia  Female  Spotted  26    Infected
+        Rosalie  Female  Spotted  26    Infected
+          Ianis    Male  Spotted  26    Infected
+        Juniper  Female    White  24    Infected
+           Diya  Female  Spotted  24    Infected
+          Arnie    Male  Spotted  24    Infected
+          Klara  Female    White  23    Infected
+          Lenny    Male  Spotted  23    Infected
+         Meghan  Female  Spotted  23    Infected
+           Cadi  Female    White  22    Infected
+          Haris    Male  Spotted  22    Infected
+          Ariel  Female  Spotted  22    Infected
+         Marcel    Male  Spotted  21    Infected
+         Hassan    Male    White  21    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 27
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  27    Infected
+        Vanessa  Female    White  27    Infected
+         Emilia  Female  Spotted  27    Infected
+        Rosalie  Female  Spotted  27    Infected
+          Ianis    Male  Spotted  27    Infected
+        Juniper  Female    White  25    Infected
+           Diya  Female  Spotted  25    Infected
+          Arnie    Male  Spotted  25    Infected
+          Klara  Female    White  24    Infected
+          Lenny    Male  Spotted  24    Infected
+         Meghan  Female  Spotted  24    Infected
+           Cadi  Female    White  23    Infected
+          Haris    Male  Spotted  23    Infected
+          Ariel  Female  Spotted  23    Infected
+         Marcel    Male  Spotted  22    Infected
+         Hassan    Male    White  22    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 28
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  28    Infected
+        Vanessa  Female    White  28    Infected
+         Emilia  Female  Spotted  28    Infected
+        Rosalie  Female  Spotted  28    Infected
+          Ianis    Male  Spotted  28    Infected
+        Juniper  Female    White  26    Infected
+           Diya  Female  Spotted  26    Infected
+          Arnie    Male  Spotted  26    Infected
+          Klara  Female    White  25    Infected
+          Lenny    Male  Spotted  25    Infected
+         Meghan  Female  Spotted  25    Infected
+           Cadi  Female    White  24    Infected
+          Haris    Male  Spotted  24    Infected
+          Ariel  Female  Spotted  24    Infected
+         Marcel    Male  Spotted  23    Infected
+         Hassan    Male    White  23    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 29
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  29    Infected
+        Vanessa  Female    White  29    Infected
+         Emilia  Female  Spotted  29    Infected
+        Rosalie  Female  Spotted  29    Infected
+          Ianis    Male  Spotted  29    Infected
+        Juniper  Female    White  27    Infected
+           Diya  Female  Spotted  27    Infected
+          Arnie    Male  Spotted  27    Infected
+          Klara  Female    White  26    Infected
+          Lenny    Male  Spotted  26    Infected
+         Meghan  Female  Spotted  26    Infected
+           Cadi  Female    White  25    Infected
+          Haris    Male  Spotted  25    Infected
+          Ariel  Female  Spotted  25    Infected
+         Marcel    Male  Spotted  24    Infected
+         Hassan    Male    White  24    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 30
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  30    Infected
+        Vanessa  Female    White  30    Infected
+         Emilia  Female  Spotted  30    Infected
+        Rosalie  Female  Spotted  30    Infected
+          Ianis    Male  Spotted  30    Infected
+        Juniper  Female    White  28    Infected
+           Diya  Female  Spotted  28    Infected
+          Arnie    Male  Spotted  28    Infected
+          Klara  Female    White  27    Infected
+          Lenny    Male  Spotted  27    Infected
+         Meghan  Female  Spotted  27    Infected
+           Cadi  Female    White  26    Infected
+          Haris    Male  Spotted  26    Infected
+          Ariel  Female  Spotted  26    Infected
+         Marcel    Male  Spotted  25    Infected
+         Hassan    Male    White  25    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 31
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  31    Infected
+        Vanessa  Female    White  31    Infected
+         Emilia  Female  Spotted  31    Infected
+        Rosalie  Female  Spotted  31    Infected
+          Ianis    Male  Spotted  31    Infected
+        Juniper  Female    White  29    Infected
+           Diya  Female  Spotted  29    Infected
+          Arnie    Male  Spotted  29    Infected
+          Klara  Female    White  28    Infected
+          Lenny    Male  Spotted  28    Infected
+         Meghan  Female  Spotted  28    Infected
+           Cadi  Female    White  27    Infected
+          Haris    Male  Spotted  27    Infected
+          Ariel  Female  Spotted  27    Infected
+         Marcel    Male  Spotted  26    Infected
+         Hassan    Male    White  26    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 32
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  32    Infected
+        Vanessa  Female    White  32    Infected
+         Emilia  Female  Spotted  32    Infected
+        Rosalie  Female  Spotted  32    Infected
+          Ianis    Male  Spotted  32    Infected
+        Juniper  Female    White  30    Infected
+           Diya  Female  Spotted  30    Infected
+          Arnie    Male  Spotted  30    Infected
+          Klara  Female    White  29    Infected
+          Lenny    Male  Spotted  29    Infected
+         Meghan  Female  Spotted  29    Infected
+           Cadi  Female    White  28    Infected
+          Haris    Male  Spotted  28    Infected
+          Ariel  Female  Spotted  28    Infected
+         Marcel    Male  Spotted  27    Infected
+         Hassan    Male    White  27    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 33
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  33    Infected
+        Vanessa  Female    White  33    Infected
+         Emilia  Female  Spotted  33    Infected
+        Rosalie  Female  Spotted  33    Infected
+          Ianis    Male  Spotted  33    Infected
+        Juniper  Female    White  31    Infected
+           Diya  Female  Spotted  31    Infected
+          Arnie    Male  Spotted  31    Infected
+          Klara  Female    White  30    Infected
+          Lenny    Male  Spotted  30    Infected
+         Meghan  Female  Spotted  30    Infected
+           Cadi  Female    White  29    Infected
+          Haris    Male  Spotted  29    Infected
+          Ariel  Female  Spotted  29    Infected
+         Marcel    Male  Spotted  28    Infected
+         Hassan    Male    White  28    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 34
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  34    Infected
+        Vanessa  Female    White  34    Infected
+         Emilia  Female  Spotted  34    Infected
+        Rosalie  Female  Spotted  34    Infected
+          Ianis    Male  Spotted  34    Infected
+        Juniper  Female    White  32    Infected
+           Diya  Female  Spotted  32    Infected
+          Arnie    Male  Spotted  32    Infected
+          Klara  Female    White  31    Infected
+          Lenny    Male  Spotted  31    Infected
+         Meghan  Female  Spotted  31    Infected
+           Cadi  Female    White  30    Infected
+          Haris    Male  Spotted  30    Infected
+          Ariel  Female  Spotted  30    Infected
+         Marcel    Male  Spotted  29    Infected
+         Hassan    Male    White  29    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 35
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  35    Infected
+        Vanessa  Female    White  35    Infected
+         Emilia  Female  Spotted  35    Infected
+        Rosalie  Female  Spotted  35    Infected
+          Ianis    Male  Spotted  35    Infected
+        Juniper  Female    White  33    Infected
+           Diya  Female  Spotted  33    Infected
+          Arnie    Male  Spotted  33    Infected
+          Klara  Female    White  32    Infected
+          Lenny    Male  Spotted  32    Infected
+         Meghan  Female  Spotted  32    Infected
+           Cadi  Female    White  31    Infected
+          Haris    Male  Spotted  31    Infected
+          Ariel  Female  Spotted  31    Infected
+         Marcel    Male  Spotted  30    Infected
+         Hassan    Male    White  30    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 36
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  36    Infected
+        Vanessa  Female    White  36    Infected
+         Emilia  Female  Spotted  36    Infected
+        Rosalie  Female  Spotted  36    Infected
+          Ianis    Male  Spotted  36    Infected
+        Juniper  Female    White  34    Infected
+           Diya  Female  Spotted  34    Infected
+          Arnie    Male  Spotted  34    Infected
+          Klara  Female    White  33    Infected
+          Lenny    Male  Spotted  33    Infected
+         Meghan  Female  Spotted  33    Infected
+           Cadi  Female    White  32    Infected
+          Haris    Male  Spotted  32    Infected
+          Ariel  Female  Spotted  32    Infected
+         Marcel    Male  Spotted  31    Infected
+         Hassan    Male    White  31    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 37
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  37    Infected
+        Vanessa  Female    White  37    Infected
+         Emilia  Female  Spotted  37    Infected
+        Rosalie  Female  Spotted  37    Infected
+          Ianis    Male  Spotted  37    Infected
+        Juniper  Female    White  35    Infected
+           Diya  Female  Spotted  35    Infected
+          Arnie    Male  Spotted  35    Infected
+          Klara  Female    White  34    Infected
+          Lenny    Male  Spotted  34    Infected
+         Meghan  Female  Spotted  34    Infected
+           Cadi  Female    White  33    Infected
+          Haris    Male  Spotted  33    Infected
+          Ariel  Female  Spotted  33    Infected
+         Marcel    Male  Spotted  32    Infected
+         Hassan    Male    White  32    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 38
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  38    Infected
+        Vanessa  Female    White  38    Infected
+         Emilia  Female  Spotted  38    Infected
+        Rosalie  Female  Spotted  38    Infected
+          Ianis    Male  Spotted  38    Infected
+        Juniper  Female    White  36    Infected
+           Diya  Female  Spotted  36    Infected
+          Arnie    Male  Spotted  36    Infected
+          Klara  Female    White  35    Infected
+          Lenny    Male  Spotted  35    Infected
+         Meghan  Female  Spotted  35    Infected
+           Cadi  Female    White  34    Infected
+          Haris    Male  Spotted  34    Infected
+          Ariel  Female  Spotted  34    Infected
+         Marcel    Male  Spotted  33    Infected
+         Hassan    Male    White  33    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 39
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  39    Infected
+        Vanessa  Female    White  39    Infected
+         Emilia  Female  Spotted  39    Infected
+        Rosalie  Female  Spotted  39    Infected
+          Ianis    Male  Spotted  39    Infected
+        Juniper  Female    White  37    Infected
+           Diya  Female  Spotted  37    Infected
+          Arnie    Male  Spotted  37    Infected
+          Klara  Female    White  36    Infected
+          Lenny    Male  Spotted  36    Infected
+         Meghan  Female  Spotted  36    Infected
+           Cadi  Female    White  35    Infected
+          Haris    Male  Spotted  35    Infected
+          Ariel  Female  Spotted  35    Infected
+         Marcel    Male  Spotted  34    Infected
+         Hassan    Male    White  34    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 40
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  40    Infected
+        Vanessa  Female    White  40    Infected
+         Emilia  Female  Spotted  40    Infected
+        Rosalie  Female  Spotted  40    Infected
+          Ianis    Male  Spotted  40    Infected
+        Juniper  Female    White  38    Infected
+           Diya  Female  Spotted  38    Infected
+          Arnie    Male  Spotted  38    Infected
+          Klara  Female    White  37    Infected
+          Lenny    Male  Spotted  37    Infected
+         Meghan  Female  Spotted  37    Infected
+           Cadi  Female    White  36    Infected
+          Haris    Male  Spotted  36    Infected
+          Ariel  Female  Spotted  36    Infected
+         Marcel    Male  Spotted  35    Infected
+         Hassan    Male    White  35    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 41
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  41    Infected
+        Vanessa  Female    White  41    Infected
+         Emilia  Female  Spotted  41    Infected
+        Rosalie  Female  Spotted  41    Infected
+          Ianis    Male  Spotted  41    Infected
+        Juniper  Female    White  39    Infected
+           Diya  Female  Spotted  39    Infected
+          Arnie    Male  Spotted  39    Infected
+          Klara  Female    White  38    Infected
+          Lenny    Male  Spotted  38    Infected
+         Meghan  Female  Spotted  38    Infected
+           Cadi  Female    White  37    Infected
+          Haris    Male  Spotted  37    Infected
+          Ariel  Female  Spotted  37    Infected
+         Marcel    Male  Spotted  36    Infected
+         Hassan    Male    White  36    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 42
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  42    Infected
+        Vanessa  Female    White  42    Infected
+         Emilia  Female  Spotted  42    Infected
+        Rosalie  Female  Spotted  42    Infected
+          Ianis    Male  Spotted  42    Infected
+        Juniper  Female    White  40    Infected
+           Diya  Female  Spotted  40    Infected
+          Arnie    Male  Spotted  40    Infected
+          Klara  Female    White  39    Infected
+          Lenny    Male  Spotted  39    Infected
+         Meghan  Female  Spotted  39    Infected
+           Cadi  Female    White  38    Infected
+          Haris    Male  Spotted  38    Infected
+          Ariel  Female  Spotted  38    Infected
+         Marcel    Male  Spotted  37    Infected
+         Hassan    Male    White  37    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 43
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  43    Infected
+        Vanessa  Female    White  43    Infected
+         Emilia  Female  Spotted  43    Infected
+        Rosalie  Female  Spotted  43    Infected
+          Ianis    Male  Spotted  43    Infected
+        Juniper  Female    White  41    Infected
+           Diya  Female  Spotted  41    Infected
+          Arnie    Male  Spotted  41    Infected
+          Klara  Female    White  40    Infected
+          Lenny    Male  Spotted  40    Infected
+         Meghan  Female  Spotted  40    Infected
+           Cadi  Female    White  39    Infected
+          Haris    Male  Spotted  39    Infected
+          Ariel  Female  Spotted  39    Infected
+         Marcel    Male  Spotted  38    Infected
+         Hassan    Male    White  38    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 44
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  44    Infected
+        Vanessa  Female    White  44    Infected
+         Emilia  Female  Spotted  44    Infected
+        Rosalie  Female  Spotted  44    Infected
+          Ianis    Male  Spotted  44    Infected
+        Juniper  Female    White  42    Infected
+           Diya  Female  Spotted  42    Infected
+          Arnie    Male  Spotted  42    Infected
+          Klara  Female    White  41    Infected
+          Lenny    Male  Spotted  41    Infected
+         Meghan  Female  Spotted  41    Infected
+           Cadi  Female    White  40    Infected
+          Haris    Male  Spotted  40    Infected
+          Ariel  Female  Spotted  40    Infected
+         Marcel    Male  Spotted  39    Infected
+         Hassan    Male    White  39    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 45
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  45    Infected
+        Vanessa  Female    White  45    Infected
+         Emilia  Female  Spotted  45    Infected
+        Rosalie  Female  Spotted  45    Infected
+          Ianis    Male  Spotted  45    Infected
+        Juniper  Female    White  43    Infected
+           Diya  Female  Spotted  43    Infected
+          Arnie    Male  Spotted  43    Infected
+          Klara  Female    White  42    Infected
+          Lenny    Male  Spotted  42    Infected
+         Meghan  Female  Spotted  42    Infected
+           Cadi  Female    White  41    Infected
+          Haris    Male  Spotted  41    Infected
+          Ariel  Female  Spotted  41    Infected
+         Marcel    Male  Spotted  40    Infected
+         Hassan    Male    White  40    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 46
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  46    Infected
+        Vanessa  Female    White  46    Infected
+         Emilia  Female  Spotted  46    Infected
+        Rosalie  Female  Spotted  46    Infected
+          Ianis    Male  Spotted  46    Infected
+        Juniper  Female    White  44    Infected
+           Diya  Female  Spotted  44    Infected
+          Arnie    Male  Spotted  44    Infected
+          Klara  Female    White  43    Infected
+          Lenny    Male  Spotted  43    Infected
+         Meghan  Female  Spotted  43    Infected
+           Cadi  Female    White  42    Infected
+          Haris    Male  Spotted  42    Infected
+          Ariel  Female  Spotted  42    Infected
+         Marcel    Male  Spotted  41    Infected
+         Hassan    Male    White  41    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 47
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  47    Infected
+        Vanessa  Female    White  47    Infected
+         Emilia  Female  Spotted  47    Infected
+        Rosalie  Female  Spotted  47    Infected
+          Ianis    Male  Spotted  47    Infected
+        Juniper  Female    White  45    Infected
+           Diya  Female  Spotted  45    Infected
+          Arnie    Male  Spotted  45    Infected
+          Klara  Female    White  44    Infected
+          Lenny    Male  Spotted  44    Infected
+         Meghan  Female  Spotted  44    Infected
+           Cadi  Female    White  43    Infected
+          Haris    Male  Spotted  43    Infected
+          Ariel  Female  Spotted  43    Infected
+         Marcel    Male  Spotted  42    Infected
+         Hassan    Male    White  42    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 48
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  48    Infected
+        Vanessa  Female    White  48    Infected
+         Emilia  Female  Spotted  48    Infected
+        Rosalie  Female  Spotted  48    Infected
+          Ianis    Male  Spotted  48    Infected
+        Juniper  Female    White  46    Infected
+           Diya  Female  Spotted  46    Infected
+          Arnie    Male  Spotted  46    Infected
+          Klara  Female    White  45    Infected
+          Lenny    Male  Spotted  45    Infected
+         Meghan  Female  Spotted  45    Infected
+           Cadi  Female    White  44    Infected
+          Haris    Male  Spotted  44    Infected
+          Ariel  Female  Spotted  44    Infected
+         Marcel    Male  Spotted  43    Infected
+         Hassan    Male    White  43    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 49
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  49    Infected
+        Vanessa  Female    White  49    Infected
+         Emilia  Female  Spotted  49    Infected
+        Rosalie  Female  Spotted  49    Infected
+          Ianis    Male  Spotted  49    Infected
+        Juniper  Female    White  47    Infected
+           Diya  Female  Spotted  47    Infected
+          Arnie    Male  Spotted  47    Infected
+          Klara  Female    White  46    Infected
+          Lenny    Male  Spotted  46    Infected
+         Meghan  Female  Spotted  46    Infected
+           Cadi  Female    White  45    Infected
+          Haris    Male  Spotted  45    Infected
+          Ariel  Female  Spotted  45    Infected
+         Marcel    Male  Spotted  44    Infected
+         Hassan    Male    White  44    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 50
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+         Ashton    Male    Black  50    Infected
+        Vanessa  Female    White  50    Infected
+         Emilia  Female  Spotted  50    Infected
+        Rosalie  Female  Spotted  50    Infected
+          Ianis    Male  Spotted  50    Infected
+        Juniper  Female    White  48    Infected
+           Diya  Female  Spotted  48    Infected
+          Arnie    Male  Spotted  48    Infected
+          Klara  Female    White  47    Infected
+          Lenny    Male  Spotted  47    Infected
+         Meghan  Female  Spotted  47    Infected
+           Cadi  Female    White  46    Infected
+          Haris    Male  Spotted  46    Infected
+          Ariel  Female  Spotted  46    Infected
+         Marcel    Male  Spotted  45    Infected
+         Hassan    Male    White  45    Infected
+Total: 16  Males: 7  Females: 9  Infected: 16     Current turn: 51
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Ashton has died.
+Infected Bunny Vanessa has died.
+Infected Bunny Emilia has died.
+Infected Bunny Rosalie has died.
+Infected Bunny Ianis has died.
+
+The current bunnies are: 
+        Juniper  Female    White  49    Infected
+           Diya  Female  Spotted  49    Infected
+          Arnie    Male  Spotted  49    Infected
+          Klara  Female    White  48    Infected
+          Lenny    Male  Spotted  48    Infected
+         Meghan  Female  Spotted  48    Infected
+           Cadi  Female    White  47    Infected
+          Haris    Male  Spotted  47    Infected
+          Ariel  Female  Spotted  47    Infected
+         Marcel    Male  Spotted  46    Infected
+         Hassan    Male    White  46    Infected
+Total: 11  Males: 5  Females: 6  Infected: 11     Current turn: 52
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+        Juniper  Female    White  50    Infected
+           Diya  Female  Spotted  50    Infected
+          Arnie    Male  Spotted  50    Infected
+          Klara  Female    White  49    Infected
+          Lenny    Male  Spotted  49    Infected
+         Meghan  Female  Spotted  49    Infected
+           Cadi  Female    White  48    Infected
+          Haris    Male  Spotted  48    Infected
+          Ariel  Female  Spotted  48    Infected
+         Marcel    Male  Spotted  47    Infected
+         Hassan    Male    White  47    Infected
+Total: 11  Males: 5  Females: 6  Infected: 11     Current turn: 53
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Juniper has died.
+Infected Bunny Diya has died.
+Infected Bunny Arnie has died.
+
+The current bunnies are: 
+          Klara  Female    White  50    Infected
+          Lenny    Male  Spotted  50    Infected
+         Meghan  Female  Spotted  50    Infected
+           Cadi  Female    White  49    Infected
+          Haris    Male  Spotted  49    Infected
+          Ariel  Female  Spotted  49    Infected
+         Marcel    Male  Spotted  48    Infected
+         Hassan    Male    White  48    Infected
+Total: 8  Males: 4  Females: 4  Infected: 8     Current turn: 54
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Klara has died.
+Infected Bunny Lenny has died.
+Infected Bunny Meghan has died.
+
+The current bunnies are: 
+           Cadi  Female    White  50    Infected
+          Haris    Male  Spotted  50    Infected
+          Ariel  Female  Spotted  50    Infected
+         Marcel    Male  Spotted  49    Infected
+         Hassan    Male    White  49    Infected
+Total: 5  Males: 3  Females: 2  Infected: 5     Current turn: 55
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Cadi has died.
+Infected Bunny Haris has died.
+Infected Bunny Ariel has died.
+
+The current bunnies are: 
+         Marcel    Male  Spotted  50    Infected
+         Hassan    Male    White  50    Infected
+Total: 2  Males: 2  Females: 0  Infected: 2     Current turn: 56
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Marcel has died.
+Infected Bunny Hassan has died.
+
+All of the bunnies are dead.
+Simulation over.

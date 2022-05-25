@@ -1,0 +1,910 @@
+The current bunnies are: 
+       Theodore    Male    Brown   0     Healthy
+          Alaya  Female    Black   0     Healthy
+       Evie-Mae  Female    White   0     Healthy
+          Raees    Male    Brown   0     Healthy
+           Rafe    Male    White   0     Healthy
+Total: 5  Males: 3  Females: 2  Infected: 0     Current turn: 1
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown   1     Healthy
+          Alaya  Female    Black   1     Healthy
+       Evie-Mae  Female    White   1     Healthy
+          Raees    Male    Brown   1     Healthy
+           Rafe    Male    White   1     Healthy
+Total: 5  Males: 3  Females: 2  Infected: 0     Current turn: 2
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Infected Bunny Juniper was born.
+Bunny Diya was born.
+The current bunnies are: 
+       Theodore    Male    Brown   2     Healthy
+          Alaya  Female    Black   2     Healthy
+       Evie-Mae  Female    White   2     Healthy
+          Raees    Male    Brown   2     Healthy
+           Rafe    Male    White   2     Healthy
+        Juniper  Female    Black   0    Infected
+           Diya  Female    White   0     Healthy
+Total: 7  Males: 3  Females: 4  Infected: 1     Current turn: 3
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Bunny Jiya was born.
+Bunny Soren was born.
+The current bunnies are: 
+       Theodore    Male    Brown   3     Healthy
+          Alaya  Female    Black   3     Healthy
+       Evie-Mae  Female    White   3     Healthy
+          Raees    Male    Brown   3     Healthy
+           Rafe    Male    White   3    Infected
+        Juniper  Female    Black   1    Infected
+           Diya  Female    White   1     Healthy
+           Jiya  Female    Black   0     Healthy
+          Soren    Male    White   0     Healthy
+Total: 9  Males: 4  Females: 5  Infected: 2     Current turn: 4
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Bunny King was born.
+Bunny Jaylen was born.
+The current bunnies are: 
+       Theodore    Male    Brown   4     Healthy
+          Alaya  Female    Black   4    Infected
+       Evie-Mae  Female    White   4     Healthy
+          Raees    Male    Brown   4    Infected
+           Rafe    Male    White   4    Infected
+        Juniper  Female    Black   2    Infected
+           Diya  Female    White   2     Healthy
+           Jiya  Female    Black   1     Healthy
+          Soren    Male    White   1     Healthy
+           King    Male    White   0     Healthy
+         Jaylen    Male    White   0     Healthy
+Total: 11  Males: 6  Females: 5  Infected: 4     Current turn: 5
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Bunny Jemima was born.
+Bunny Marley was born.
+The current bunnies are: 
+       Theodore    Male    Brown   5    Infected
+          Alaya  Female    Black   5    Infected
+       Evie-Mae  Female    White   5     Healthy
+          Raees    Male    Brown   5    Infected
+           Rafe    Male    White   5    Infected
+        Juniper  Female    Black   3    Infected
+           Diya  Female    White   3    Infected
+           Jiya  Female    Black   2     Healthy
+          Soren    Male    White   2     Healthy
+           King    Male    White   1    Infected
+         Jaylen    Male    White   1    Infected
+         Jemima  Female    White   0     Healthy
+         Marley    Male    Black   0     Healthy
+Total: 13  Males: 7  Females: 6  Infected: 8     Current turn: 6
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown   6    Infected
+          Alaya  Female    Black   6    Infected
+       Evie-Mae  Female    White   6    Infected
+          Raees    Male    Brown   6    Infected
+           Rafe    Male    White   6    Infected
+        Juniper  Female    Black   4    Infected
+           Diya  Female    White   4    Infected
+           Jiya  Female    Black   3    Infected
+          Soren    Male    White   3    Infected
+           King    Male    White   2    Infected
+         Jaylen    Male    White   2    Infected
+         Jemima  Female    White   1    Infected
+         Marley    Male    Black   1    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 7
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown   7    Infected
+          Alaya  Female    Black   7    Infected
+       Evie-Mae  Female    White   7    Infected
+          Raees    Male    Brown   7    Infected
+           Rafe    Male    White   7    Infected
+        Juniper  Female    Black   5    Infected
+           Diya  Female    White   5    Infected
+           Jiya  Female    Black   4    Infected
+          Soren    Male    White   4    Infected
+           King    Male    White   3    Infected
+         Jaylen    Male    White   3    Infected
+         Jemima  Female    White   2    Infected
+         Marley    Male    Black   2    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 8
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown   8    Infected
+          Alaya  Female    Black   8    Infected
+       Evie-Mae  Female    White   8    Infected
+          Raees    Male    Brown   8    Infected
+           Rafe    Male    White   8    Infected
+        Juniper  Female    Black   6    Infected
+           Diya  Female    White   6    Infected
+           Jiya  Female    Black   5    Infected
+          Soren    Male    White   5    Infected
+           King    Male    White   4    Infected
+         Jaylen    Male    White   4    Infected
+         Jemima  Female    White   3    Infected
+         Marley    Male    Black   3    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 9
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown   9    Infected
+          Alaya  Female    Black   9    Infected
+       Evie-Mae  Female    White   9    Infected
+          Raees    Male    Brown   9    Infected
+           Rafe    Male    White   9    Infected
+        Juniper  Female    Black   7    Infected
+           Diya  Female    White   7    Infected
+           Jiya  Female    Black   6    Infected
+          Soren    Male    White   6    Infected
+           King    Male    White   5    Infected
+         Jaylen    Male    White   5    Infected
+         Jemima  Female    White   4    Infected
+         Marley    Male    Black   4    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 10
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  10    Infected
+          Alaya  Female    Black  10    Infected
+       Evie-Mae  Female    White  10    Infected
+          Raees    Male    Brown  10    Infected
+           Rafe    Male    White  10    Infected
+        Juniper  Female    Black   8    Infected
+           Diya  Female    White   8    Infected
+           Jiya  Female    Black   7    Infected
+          Soren    Male    White   7    Infected
+           King    Male    White   6    Infected
+         Jaylen    Male    White   6    Infected
+         Jemima  Female    White   5    Infected
+         Marley    Male    Black   5    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 11
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  11    Infected
+          Alaya  Female    Black  11    Infected
+       Evie-Mae  Female    White  11    Infected
+          Raees    Male    Brown  11    Infected
+           Rafe    Male    White  11    Infected
+        Juniper  Female    Black   9    Infected
+           Diya  Female    White   9    Infected
+           Jiya  Female    Black   8    Infected
+          Soren    Male    White   8    Infected
+           King    Male    White   7    Infected
+         Jaylen    Male    White   7    Infected
+         Jemima  Female    White   6    Infected
+         Marley    Male    Black   6    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 12
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  12    Infected
+          Alaya  Female    Black  12    Infected
+       Evie-Mae  Female    White  12    Infected
+          Raees    Male    Brown  12    Infected
+           Rafe    Male    White  12    Infected
+        Juniper  Female    Black  10    Infected
+           Diya  Female    White  10    Infected
+           Jiya  Female    Black   9    Infected
+          Soren    Male    White   9    Infected
+           King    Male    White   8    Infected
+         Jaylen    Male    White   8    Infected
+         Jemima  Female    White   7    Infected
+         Marley    Male    Black   7    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 13
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  13    Infected
+          Alaya  Female    Black  13    Infected
+       Evie-Mae  Female    White  13    Infected
+          Raees    Male    Brown  13    Infected
+           Rafe    Male    White  13    Infected
+        Juniper  Female    Black  11    Infected
+           Diya  Female    White  11    Infected
+           Jiya  Female    Black  10    Infected
+          Soren    Male    White  10    Infected
+           King    Male    White   9    Infected
+         Jaylen    Male    White   9    Infected
+         Jemima  Female    White   8    Infected
+         Marley    Male    Black   8    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 14
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  14    Infected
+          Alaya  Female    Black  14    Infected
+       Evie-Mae  Female    White  14    Infected
+          Raees    Male    Brown  14    Infected
+           Rafe    Male    White  14    Infected
+        Juniper  Female    Black  12    Infected
+           Diya  Female    White  12    Infected
+           Jiya  Female    Black  11    Infected
+          Soren    Male    White  11    Infected
+           King    Male    White  10    Infected
+         Jaylen    Male    White  10    Infected
+         Jemima  Female    White   9    Infected
+         Marley    Male    Black   9    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 15
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  15    Infected
+          Alaya  Female    Black  15    Infected
+       Evie-Mae  Female    White  15    Infected
+          Raees    Male    Brown  15    Infected
+           Rafe    Male    White  15    Infected
+        Juniper  Female    Black  13    Infected
+           Diya  Female    White  13    Infected
+           Jiya  Female    Black  12    Infected
+          Soren    Male    White  12    Infected
+           King    Male    White  11    Infected
+         Jaylen    Male    White  11    Infected
+         Jemima  Female    White  10    Infected
+         Marley    Male    Black  10    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 16
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  16    Infected
+          Alaya  Female    Black  16    Infected
+       Evie-Mae  Female    White  16    Infected
+          Raees    Male    Brown  16    Infected
+           Rafe    Male    White  16    Infected
+        Juniper  Female    Black  14    Infected
+           Diya  Female    White  14    Infected
+           Jiya  Female    Black  13    Infected
+          Soren    Male    White  13    Infected
+           King    Male    White  12    Infected
+         Jaylen    Male    White  12    Infected
+         Jemima  Female    White  11    Infected
+         Marley    Male    Black  11    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 17
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  17    Infected
+          Alaya  Female    Black  17    Infected
+       Evie-Mae  Female    White  17    Infected
+          Raees    Male    Brown  17    Infected
+           Rafe    Male    White  17    Infected
+        Juniper  Female    Black  15    Infected
+           Diya  Female    White  15    Infected
+           Jiya  Female    Black  14    Infected
+          Soren    Male    White  14    Infected
+           King    Male    White  13    Infected
+         Jaylen    Male    White  13    Infected
+         Jemima  Female    White  12    Infected
+         Marley    Male    Black  12    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 18
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  18    Infected
+          Alaya  Female    Black  18    Infected
+       Evie-Mae  Female    White  18    Infected
+          Raees    Male    Brown  18    Infected
+           Rafe    Male    White  18    Infected
+        Juniper  Female    Black  16    Infected
+           Diya  Female    White  16    Infected
+           Jiya  Female    Black  15    Infected
+          Soren    Male    White  15    Infected
+           King    Male    White  14    Infected
+         Jaylen    Male    White  14    Infected
+         Jemima  Female    White  13    Infected
+         Marley    Male    Black  13    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 19
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  19    Infected
+          Alaya  Female    Black  19    Infected
+       Evie-Mae  Female    White  19    Infected
+          Raees    Male    Brown  19    Infected
+           Rafe    Male    White  19    Infected
+        Juniper  Female    Black  17    Infected
+           Diya  Female    White  17    Infected
+           Jiya  Female    Black  16    Infected
+          Soren    Male    White  16    Infected
+           King    Male    White  15    Infected
+         Jaylen    Male    White  15    Infected
+         Jemima  Female    White  14    Infected
+         Marley    Male    Black  14    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 20
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  20    Infected
+          Alaya  Female    Black  20    Infected
+       Evie-Mae  Female    White  20    Infected
+          Raees    Male    Brown  20    Infected
+           Rafe    Male    White  20    Infected
+        Juniper  Female    Black  18    Infected
+           Diya  Female    White  18    Infected
+           Jiya  Female    Black  17    Infected
+          Soren    Male    White  17    Infected
+           King    Male    White  16    Infected
+         Jaylen    Male    White  16    Infected
+         Jemima  Female    White  15    Infected
+         Marley    Male    Black  15    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 21
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  21    Infected
+          Alaya  Female    Black  21    Infected
+       Evie-Mae  Female    White  21    Infected
+          Raees    Male    Brown  21    Infected
+           Rafe    Male    White  21    Infected
+        Juniper  Female    Black  19    Infected
+           Diya  Female    White  19    Infected
+           Jiya  Female    Black  18    Infected
+          Soren    Male    White  18    Infected
+           King    Male    White  17    Infected
+         Jaylen    Male    White  17    Infected
+         Jemima  Female    White  16    Infected
+         Marley    Male    Black  16    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 22
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  22    Infected
+          Alaya  Female    Black  22    Infected
+       Evie-Mae  Female    White  22    Infected
+          Raees    Male    Brown  22    Infected
+           Rafe    Male    White  22    Infected
+        Juniper  Female    Black  20    Infected
+           Diya  Female    White  20    Infected
+           Jiya  Female    Black  19    Infected
+          Soren    Male    White  19    Infected
+           King    Male    White  18    Infected
+         Jaylen    Male    White  18    Infected
+         Jemima  Female    White  17    Infected
+         Marley    Male    Black  17    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 23
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  23    Infected
+          Alaya  Female    Black  23    Infected
+       Evie-Mae  Female    White  23    Infected
+          Raees    Male    Brown  23    Infected
+           Rafe    Male    White  23    Infected
+        Juniper  Female    Black  21    Infected
+           Diya  Female    White  21    Infected
+           Jiya  Female    Black  20    Infected
+          Soren    Male    White  20    Infected
+           King    Male    White  19    Infected
+         Jaylen    Male    White  19    Infected
+         Jemima  Female    White  18    Infected
+         Marley    Male    Black  18    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 24
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  24    Infected
+          Alaya  Female    Black  24    Infected
+       Evie-Mae  Female    White  24    Infected
+          Raees    Male    Brown  24    Infected
+           Rafe    Male    White  24    Infected
+        Juniper  Female    Black  22    Infected
+           Diya  Female    White  22    Infected
+           Jiya  Female    Black  21    Infected
+          Soren    Male    White  21    Infected
+           King    Male    White  20    Infected
+         Jaylen    Male    White  20    Infected
+         Jemima  Female    White  19    Infected
+         Marley    Male    Black  19    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 25
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  25    Infected
+          Alaya  Female    Black  25    Infected
+       Evie-Mae  Female    White  25    Infected
+          Raees    Male    Brown  25    Infected
+           Rafe    Male    White  25    Infected
+        Juniper  Female    Black  23    Infected
+           Diya  Female    White  23    Infected
+           Jiya  Female    Black  22    Infected
+          Soren    Male    White  22    Infected
+           King    Male    White  21    Infected
+         Jaylen    Male    White  21    Infected
+         Jemima  Female    White  20    Infected
+         Marley    Male    Black  20    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 26
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  26    Infected
+          Alaya  Female    Black  26    Infected
+       Evie-Mae  Female    White  26    Infected
+          Raees    Male    Brown  26    Infected
+           Rafe    Male    White  26    Infected
+        Juniper  Female    Black  24    Infected
+           Diya  Female    White  24    Infected
+           Jiya  Female    Black  23    Infected
+          Soren    Male    White  23    Infected
+           King    Male    White  22    Infected
+         Jaylen    Male    White  22    Infected
+         Jemima  Female    White  21    Infected
+         Marley    Male    Black  21    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 27
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  27    Infected
+          Alaya  Female    Black  27    Infected
+       Evie-Mae  Female    White  27    Infected
+          Raees    Male    Brown  27    Infected
+           Rafe    Male    White  27    Infected
+        Juniper  Female    Black  25    Infected
+           Diya  Female    White  25    Infected
+           Jiya  Female    Black  24    Infected
+          Soren    Male    White  24    Infected
+           King    Male    White  23    Infected
+         Jaylen    Male    White  23    Infected
+         Jemima  Female    White  22    Infected
+         Marley    Male    Black  22    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 28
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  28    Infected
+          Alaya  Female    Black  28    Infected
+       Evie-Mae  Female    White  28    Infected
+          Raees    Male    Brown  28    Infected
+           Rafe    Male    White  28    Infected
+        Juniper  Female    Black  26    Infected
+           Diya  Female    White  26    Infected
+           Jiya  Female    Black  25    Infected
+          Soren    Male    White  25    Infected
+           King    Male    White  24    Infected
+         Jaylen    Male    White  24    Infected
+         Jemima  Female    White  23    Infected
+         Marley    Male    Black  23    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 29
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  29    Infected
+          Alaya  Female    Black  29    Infected
+       Evie-Mae  Female    White  29    Infected
+          Raees    Male    Brown  29    Infected
+           Rafe    Male    White  29    Infected
+        Juniper  Female    Black  27    Infected
+           Diya  Female    White  27    Infected
+           Jiya  Female    Black  26    Infected
+          Soren    Male    White  26    Infected
+           King    Male    White  25    Infected
+         Jaylen    Male    White  25    Infected
+         Jemima  Female    White  24    Infected
+         Marley    Male    Black  24    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 30
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  30    Infected
+          Alaya  Female    Black  30    Infected
+       Evie-Mae  Female    White  30    Infected
+          Raees    Male    Brown  30    Infected
+           Rafe    Male    White  30    Infected
+        Juniper  Female    Black  28    Infected
+           Diya  Female    White  28    Infected
+           Jiya  Female    Black  27    Infected
+          Soren    Male    White  27    Infected
+           King    Male    White  26    Infected
+         Jaylen    Male    White  26    Infected
+         Jemima  Female    White  25    Infected
+         Marley    Male    Black  25    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 31
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  31    Infected
+          Alaya  Female    Black  31    Infected
+       Evie-Mae  Female    White  31    Infected
+          Raees    Male    Brown  31    Infected
+           Rafe    Male    White  31    Infected
+        Juniper  Female    Black  29    Infected
+           Diya  Female    White  29    Infected
+           Jiya  Female    Black  28    Infected
+          Soren    Male    White  28    Infected
+           King    Male    White  27    Infected
+         Jaylen    Male    White  27    Infected
+         Jemima  Female    White  26    Infected
+         Marley    Male    Black  26    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 32
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  32    Infected
+          Alaya  Female    Black  32    Infected
+       Evie-Mae  Female    White  32    Infected
+          Raees    Male    Brown  32    Infected
+           Rafe    Male    White  32    Infected
+        Juniper  Female    Black  30    Infected
+           Diya  Female    White  30    Infected
+           Jiya  Female    Black  29    Infected
+          Soren    Male    White  29    Infected
+           King    Male    White  28    Infected
+         Jaylen    Male    White  28    Infected
+         Jemima  Female    White  27    Infected
+         Marley    Male    Black  27    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 33
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  33    Infected
+          Alaya  Female    Black  33    Infected
+       Evie-Mae  Female    White  33    Infected
+          Raees    Male    Brown  33    Infected
+           Rafe    Male    White  33    Infected
+        Juniper  Female    Black  31    Infected
+           Diya  Female    White  31    Infected
+           Jiya  Female    Black  30    Infected
+          Soren    Male    White  30    Infected
+           King    Male    White  29    Infected
+         Jaylen    Male    White  29    Infected
+         Jemima  Female    White  28    Infected
+         Marley    Male    Black  28    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 34
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  34    Infected
+          Alaya  Female    Black  34    Infected
+       Evie-Mae  Female    White  34    Infected
+          Raees    Male    Brown  34    Infected
+           Rafe    Male    White  34    Infected
+        Juniper  Female    Black  32    Infected
+           Diya  Female    White  32    Infected
+           Jiya  Female    Black  31    Infected
+          Soren    Male    White  31    Infected
+           King    Male    White  30    Infected
+         Jaylen    Male    White  30    Infected
+         Jemima  Female    White  29    Infected
+         Marley    Male    Black  29    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 35
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  35    Infected
+          Alaya  Female    Black  35    Infected
+       Evie-Mae  Female    White  35    Infected
+          Raees    Male    Brown  35    Infected
+           Rafe    Male    White  35    Infected
+        Juniper  Female    Black  33    Infected
+           Diya  Female    White  33    Infected
+           Jiya  Female    Black  32    Infected
+          Soren    Male    White  32    Infected
+           King    Male    White  31    Infected
+         Jaylen    Male    White  31    Infected
+         Jemima  Female    White  30    Infected
+         Marley    Male    Black  30    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 36
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  36    Infected
+          Alaya  Female    Black  36    Infected
+       Evie-Mae  Female    White  36    Infected
+          Raees    Male    Brown  36    Infected
+           Rafe    Male    White  36    Infected
+        Juniper  Female    Black  34    Infected
+           Diya  Female    White  34    Infected
+           Jiya  Female    Black  33    Infected
+          Soren    Male    White  33    Infected
+           King    Male    White  32    Infected
+         Jaylen    Male    White  32    Infected
+         Jemima  Female    White  31    Infected
+         Marley    Male    Black  31    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 37
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  37    Infected
+          Alaya  Female    Black  37    Infected
+       Evie-Mae  Female    White  37    Infected
+          Raees    Male    Brown  37    Infected
+           Rafe    Male    White  37    Infected
+        Juniper  Female    Black  35    Infected
+           Diya  Female    White  35    Infected
+           Jiya  Female    Black  34    Infected
+          Soren    Male    White  34    Infected
+           King    Male    White  33    Infected
+         Jaylen    Male    White  33    Infected
+         Jemima  Female    White  32    Infected
+         Marley    Male    Black  32    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 38
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  38    Infected
+          Alaya  Female    Black  38    Infected
+       Evie-Mae  Female    White  38    Infected
+          Raees    Male    Brown  38    Infected
+           Rafe    Male    White  38    Infected
+        Juniper  Female    Black  36    Infected
+           Diya  Female    White  36    Infected
+           Jiya  Female    Black  35    Infected
+          Soren    Male    White  35    Infected
+           King    Male    White  34    Infected
+         Jaylen    Male    White  34    Infected
+         Jemima  Female    White  33    Infected
+         Marley    Male    Black  33    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 39
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  39    Infected
+          Alaya  Female    Black  39    Infected
+       Evie-Mae  Female    White  39    Infected
+          Raees    Male    Brown  39    Infected
+           Rafe    Male    White  39    Infected
+        Juniper  Female    Black  37    Infected
+           Diya  Female    White  37    Infected
+           Jiya  Female    Black  36    Infected
+          Soren    Male    White  36    Infected
+           King    Male    White  35    Infected
+         Jaylen    Male    White  35    Infected
+         Jemima  Female    White  34    Infected
+         Marley    Male    Black  34    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 40
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  40    Infected
+          Alaya  Female    Black  40    Infected
+       Evie-Mae  Female    White  40    Infected
+          Raees    Male    Brown  40    Infected
+           Rafe    Male    White  40    Infected
+        Juniper  Female    Black  38    Infected
+           Diya  Female    White  38    Infected
+           Jiya  Female    Black  37    Infected
+          Soren    Male    White  37    Infected
+           King    Male    White  36    Infected
+         Jaylen    Male    White  36    Infected
+         Jemima  Female    White  35    Infected
+         Marley    Male    Black  35    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 41
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  41    Infected
+          Alaya  Female    Black  41    Infected
+       Evie-Mae  Female    White  41    Infected
+          Raees    Male    Brown  41    Infected
+           Rafe    Male    White  41    Infected
+        Juniper  Female    Black  39    Infected
+           Diya  Female    White  39    Infected
+           Jiya  Female    Black  38    Infected
+          Soren    Male    White  38    Infected
+           King    Male    White  37    Infected
+         Jaylen    Male    White  37    Infected
+         Jemima  Female    White  36    Infected
+         Marley    Male    Black  36    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 42
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  42    Infected
+          Alaya  Female    Black  42    Infected
+       Evie-Mae  Female    White  42    Infected
+          Raees    Male    Brown  42    Infected
+           Rafe    Male    White  42    Infected
+        Juniper  Female    Black  40    Infected
+           Diya  Female    White  40    Infected
+           Jiya  Female    Black  39    Infected
+          Soren    Male    White  39    Infected
+           King    Male    White  38    Infected
+         Jaylen    Male    White  38    Infected
+         Jemima  Female    White  37    Infected
+         Marley    Male    Black  37    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 43
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  43    Infected
+          Alaya  Female    Black  43    Infected
+       Evie-Mae  Female    White  43    Infected
+          Raees    Male    Brown  43    Infected
+           Rafe    Male    White  43    Infected
+        Juniper  Female    Black  41    Infected
+           Diya  Female    White  41    Infected
+           Jiya  Female    Black  40    Infected
+          Soren    Male    White  40    Infected
+           King    Male    White  39    Infected
+         Jaylen    Male    White  39    Infected
+         Jemima  Female    White  38    Infected
+         Marley    Male    Black  38    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 44
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  44    Infected
+          Alaya  Female    Black  44    Infected
+       Evie-Mae  Female    White  44    Infected
+          Raees    Male    Brown  44    Infected
+           Rafe    Male    White  44    Infected
+        Juniper  Female    Black  42    Infected
+           Diya  Female    White  42    Infected
+           Jiya  Female    Black  41    Infected
+          Soren    Male    White  41    Infected
+           King    Male    White  40    Infected
+         Jaylen    Male    White  40    Infected
+         Jemima  Female    White  39    Infected
+         Marley    Male    Black  39    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 45
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  45    Infected
+          Alaya  Female    Black  45    Infected
+       Evie-Mae  Female    White  45    Infected
+          Raees    Male    Brown  45    Infected
+           Rafe    Male    White  45    Infected
+        Juniper  Female    Black  43    Infected
+           Diya  Female    White  43    Infected
+           Jiya  Female    Black  42    Infected
+          Soren    Male    White  42    Infected
+           King    Male    White  41    Infected
+         Jaylen    Male    White  41    Infected
+         Jemima  Female    White  40    Infected
+         Marley    Male    Black  40    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 46
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  46    Infected
+          Alaya  Female    Black  46    Infected
+       Evie-Mae  Female    White  46    Infected
+          Raees    Male    Brown  46    Infected
+           Rafe    Male    White  46    Infected
+        Juniper  Female    Black  44    Infected
+           Diya  Female    White  44    Infected
+           Jiya  Female    Black  43    Infected
+          Soren    Male    White  43    Infected
+           King    Male    White  42    Infected
+         Jaylen    Male    White  42    Infected
+         Jemima  Female    White  41    Infected
+         Marley    Male    Black  41    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 47
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  47    Infected
+          Alaya  Female    Black  47    Infected
+       Evie-Mae  Female    White  47    Infected
+          Raees    Male    Brown  47    Infected
+           Rafe    Male    White  47    Infected
+        Juniper  Female    Black  45    Infected
+           Diya  Female    White  45    Infected
+           Jiya  Female    Black  44    Infected
+          Soren    Male    White  44    Infected
+           King    Male    White  43    Infected
+         Jaylen    Male    White  43    Infected
+         Jemima  Female    White  42    Infected
+         Marley    Male    Black  42    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 48
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  48    Infected
+          Alaya  Female    Black  48    Infected
+       Evie-Mae  Female    White  48    Infected
+          Raees    Male    Brown  48    Infected
+           Rafe    Male    White  48    Infected
+        Juniper  Female    Black  46    Infected
+           Diya  Female    White  46    Infected
+           Jiya  Female    Black  45    Infected
+          Soren    Male    White  45    Infected
+           King    Male    White  44    Infected
+         Jaylen    Male    White  44    Infected
+         Jemima  Female    White  43    Infected
+         Marley    Male    Black  43    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 49
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  49    Infected
+          Alaya  Female    Black  49    Infected
+       Evie-Mae  Female    White  49    Infected
+          Raees    Male    Brown  49    Infected
+           Rafe    Male    White  49    Infected
+        Juniper  Female    Black  47    Infected
+           Diya  Female    White  47    Infected
+           Jiya  Female    Black  46    Infected
+          Soren    Male    White  46    Infected
+           King    Male    White  45    Infected
+         Jaylen    Male    White  45    Infected
+         Jemima  Female    White  44    Infected
+         Marley    Male    Black  44    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 50
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+       Theodore    Male    Brown  50    Infected
+          Alaya  Female    Black  50    Infected
+       Evie-Mae  Female    White  50    Infected
+          Raees    Male    Brown  50    Infected
+           Rafe    Male    White  50    Infected
+        Juniper  Female    Black  48    Infected
+           Diya  Female    White  48    Infected
+           Jiya  Female    Black  47    Infected
+          Soren    Male    White  47    Infected
+           King    Male    White  46    Infected
+         Jaylen    Male    White  46    Infected
+         Jemima  Female    White  45    Infected
+         Marley    Male    Black  45    Infected
+Total: 13  Males: 7  Females: 6  Infected: 13     Current turn: 51
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Theodore has died.
+Infected Bunny Alaya has died.
+Infected Bunny Evie-Mae has died.
+Infected Bunny Raees has died.
+Infected Bunny Rafe has died.
+
+The current bunnies are: 
+        Juniper  Female    Black  49    Infected
+           Diya  Female    White  49    Infected
+           Jiya  Female    Black  48    Infected
+          Soren    Male    White  48    Infected
+           King    Male    White  47    Infected
+         Jaylen    Male    White  47    Infected
+         Jemima  Female    White  46    Infected
+         Marley    Male    Black  46    Infected
+Total: 8  Males: 4  Females: 4  Infected: 8     Current turn: 52
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+        Juniper  Female    Black  50    Infected
+           Diya  Female    White  50    Infected
+           Jiya  Female    Black  49    Infected
+          Soren    Male    White  49    Infected
+           King    Male    White  48    Infected
+         Jaylen    Male    White  48    Infected
+         Jemima  Female    White  47    Infected
+         Marley    Male    Black  47    Infected
+Total: 8  Males: 4  Females: 4  Infected: 8     Current turn: 53
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Juniper has died.
+Infected Bunny Diya has died.
+
+The current bunnies are: 
+           Jiya  Female    Black  50    Infected
+          Soren    Male    White  50    Infected
+           King    Male    White  49    Infected
+         Jaylen    Male    White  49    Infected
+         Jemima  Female    White  48    Infected
+         Marley    Male    Black  48    Infected
+Total: 6  Males: 4  Females: 2  Infected: 6     Current turn: 54
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Jiya has died.
+Infected Bunny Soren has died.
+
+The current bunnies are: 
+           King    Male    White  50    Infected
+         Jaylen    Male    White  50    Infected
+         Jemima  Female    White  49    Infected
+         Marley    Male    Black  49    Infected
+Total: 4  Males: 3  Females: 1  Infected: 4     Current turn: 55
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny King has died.
+Infected Bunny Jaylen has died.
+
+The current bunnies are: 
+         Jemima  Female    White  50    Infected
+         Marley    Male    Black  50    Infected
+Total: 2  Males: 1  Females: 1  Infected: 2     Current turn: 56
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Jemima has died.
+Infected Bunny Marley has died.
+
+All of the bunnies are dead.
+Simulation over.

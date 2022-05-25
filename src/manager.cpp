@@ -35,6 +35,34 @@ manager::manager(int num_of_bunnies)
         ++i1;
     }
 }
+void manager::run(std::string output_file, std::string stats_file)
+{
+    std::ofstream stats, output;
+    stats.open (stats_file);
+    output.open (output_file);
+    stats << "Total Males Females Infected";
+    bool simulation = true; //The simulation tracker.
+    while(simulation == true){ //The start of the simulation loop.
+        simulation = print_out(output); //The print out and entry option.
+        calculate_infected_total(), calculate_male(), calculate_female(), calculate_total();
+        stats << std::endl << get_total() << " " << get_male() << " " << get_female() << " " << get_infected_total();
+        if(simulation == true){ //If the simulation is ongoing.
+            aging(output); //Handles aging and dieing.
+            calculate_infected_total(); //Update this value before using it.
+            if(get_infected_total() > 0){ //If there are infected bunnies.
+                infect(); //Handles the infection spreading.
+            }
+            breed(output); //Handles the breeding.
+            //system("pause"); //A pause so the user can read the death and birth messages.
+            calculate_total(); //Update this value before using it.
+            if(get_total() > 1000){ //If overpopulated.
+                cull(output); //Handles the bunnies dieing from overpopulation.
+            }
+        }
+    }
+    stats.close();
+    output.close();
+}
 bool manager::print_out(std::ofstream &output)
 {
     total = 0, male = 0, female = 0, infected_total = 0;
@@ -42,16 +70,16 @@ bool manager::print_out(std::ofstream &output)
     bool simulation = true;
     if(bunny_list.size() > 0){
         bunny_list.sort(bunny_sorter_internal);
-        std::cout << "The current bunnies are: " << std::endl;
+        //std::cout << "The current bunnies are: " << std::endl;
         output << "The current bunnies are: " << std::endl;
         std::list<std::shared_ptr<bunny>>::iterator i1 = bunny_list.begin();
         for(int i = 0; i < bunny_list.size(); i++){
-            std::cout << std::setw(15) << (*i1)->get_name() << "  " << std::setw(6) << (*i1)->get_gender() << "  " << std::setw(7) << (*i1)->get_colour() << "  " << std::setw(2) << (*i1)->get_age() << "  ";
+            //std::cout << std::setw(15) << (*i1)->get_name() << "  " << std::setw(6) << (*i1)->get_gender() << "  " << std::setw(7) << (*i1)->get_colour() << "  " << std::setw(2) << (*i1)->get_age() << "  ";
             if((*i1)->get_infected() == true){
-                std::cout << std::setw(10) << "Infected" << std::endl;
+                //std::cout << std::setw(10) << "Infected" << std::endl;
             }
             else{
-                std::cout << std::setw(10) << "Healthy" << std::endl;
+                //std::cout << std::setw(10) << "Healthy" << std::endl;
             }
             output << std::setw(15) << (*i1)->get_name() << "  " << std::setw(6) << (*i1)->get_gender() << "  " << std::setw(7) << (*i1)->get_colour() << "  " << std::setw(2) << (*i1)->get_age() << "  ";
             if((*i1)->get_infected() == true){
@@ -72,11 +100,11 @@ bool manager::print_out(std::ofstream &output)
             }
             ++i1;
         }
-        std::cout << "Total: " << total << "  Males: " << male << "  Females: " << female << "  Infected: " << infected_total << "     Current turn: " << turns << std::endl;
-        std::cout << "Press q to quit, k to perform a cull, or any other key to continue: ";
+        //std::cout << "Total: " << total << "  Males: " << male << "  Females: " << female << "  Infected: " << infected_total << "     Current turn: " << turns << std::endl;
+        //std::cout << "Press q to quit, k to perform a cull, or any other key to continue: ";
         output << "Total: " << total << "  Males: " << male << "  Females: " << female << "  Infected: " << infected_total << "     Current turn: " << turns << std::endl;
         output << "Press q to quit, k to perform a cull, or any other key to continue: ";
-        char input;
+        /*char input;
         std::cin >> input;
         output << input << std::endl;
         if((input == 'q') || (input == 'Q')){
@@ -84,11 +112,11 @@ bool manager::print_out(std::ofstream &output)
         }
         if((input == 'k') || (input == 'K')){
             cull(output);
-        }
+        }*/
     }
     else{
-        std::cout << "All of the bunnies are dead." << std::endl;
-        std::cout << "Simulation over." << std::endl;
+        //std::cout << "All of the bunnies are dead." << std::endl;
+        //std::cout << "Simulation over." << std::endl;
         output << "All of the bunnies are dead." << std::endl;
         output << "Simulation over." << std::endl;
         simulation = false;
@@ -112,26 +140,26 @@ void manager::aging(std::ofstream &output)
         }
         ++i1;
     }
-    std::cout << std::endl;
+    //std::cout << std::endl;
     output << std::endl;
     int to_count_through = bunny_list.size();
     for(int i = 0; i < to_count_through; i++){
         if(is_dead[i] == true){
             std::list<std::shared_ptr<bunny>>::iterator die = bunny_list.begin();
             if((*die)->get_infected() == false){
-                std::cout << "Bunny ";
+                //std::cout << "Bunny ";
                 output << "Bunny ";
             }
             else{
-                std::cout << "Infected Bunny ";
+                //std::cout << "Infected Bunny ";
                 output << "Infected Bunny ";
             }
-            std::cout << (*die)->get_name() << " has died." << std::endl;
+            //std::cout << (*die)->get_name() << " has died." << std::endl;
             output << (*die)->get_name() << " has died." << std::endl;
             bunny_list.pop_front();
         }
     }
-    std::cout << std::endl;
+    //std::cout << std::endl;
     output << std::endl;
 }
 void manager::infect()
@@ -167,7 +195,7 @@ void manager::breed(std::ofstream &output)
     }
     std::list<std::shared_ptr<bunny>>::iterator i3 = bunny_list.begin();
     if(is_adult_male == true){
-        std::cout << std::endl;
+        //std::cout << std::endl;
         for(int i = 0; i < to_count_through_2; i++){
             if(((*i3)->get_gender() == "Female") && ((*i3)->get_age() > 1) && ((*i3)->get_infected() == false)){
                 bunny_list.push_back(std::make_shared<bunny>());
@@ -175,14 +203,14 @@ void manager::breed(std::ofstream &output)
                 advance(i4, -1);
                 (*i4)->set_colour((*i3)->get_colour());
                 if((*i4)->get_infected() == false){
-                    std::cout << "Bunny ";
+                    //std::cout << "Bunny ";
                     output << "Bunny ";
                 }
                 else{
-                    std::cout << "Infected Bunny ";
+                    //std::cout << "Infected Bunny ";
                     output << "Infected Bunny ";
                 }
-                std::cout << (*i4)->get_name() << " was born." << std::endl;
+                //std::cout << (*i4)->get_name() << " was born." << std::endl;
                 output << (*i4)->get_name() << " was born." << std::endl;
             }
             ++i3;
@@ -224,9 +252,9 @@ void manager::cull(std::ofstream &output)
         difference = die - survive;
         counter++;
     }
-    std::cout << "Culling " << die << " bunnies, " << survive << " survive." << std::endl;
+    //std::cout << "Culling " << die << " bunnies, " << survive << " survive." << std::endl;
     output << "Culling " << die << " bunnies, " << survive << " survive." << std::endl;
-    system("pause");
+    //system("pause");
     int to_count_through_2 = bunny_list.size();
     for(int i = 0; i < to_count_through_2; i++){
         if(to_die[i] == true){

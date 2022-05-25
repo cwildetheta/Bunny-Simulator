@@ -3,39 +3,31 @@
 #include <ctime>
 #include <fstream>
 #include <iomanip>
+#include <vector>
+#include <thread>
 
 int main()
 {
     system("cls");
     std::srand(time(0)); //Seeding the random number generation.
-    std::ofstream stats, output;
-    stats.open ("Turn stats.txt");
-    output.open ("Output.txt");
-    stats << "Total Males Females Infected";
-    manager controller(5); //Setting up the simulation with 5 initial bunnies.
-    bool simulation = true; //The simulation tracker.
-    while(simulation == true){ //The start of the simulation loop.
-        simulation = controller.print_out(output); //The print out and entry option.
-        controller.calculate_infected_total(), controller.calculate_male(), controller.calculate_female(), controller.calculate_total();
-        stats << std::endl << controller.get_total() << " " << controller.get_male() << " " << controller.get_female() << " " << controller.get_infected_total();
-        if(simulation == true){ //If the simulation is ongoing.
-            controller.aging(output); //Handles aging and dieing.
-            controller.calculate_infected_total(); //Update this value before using it.
-            if(controller.get_infected_total() > 0){ //If there are infected bunnies.
-                controller.infect(); //Handles the infection spreading.
-            }
-            controller.breed(output); //Handles the breeding.
-            system("pause"); //A pause so the user can read the death and birth messages.
-            controller.calculate_total(); //Update this value before using it.
-            if(controller.get_total() > 1000){ //If overpopulated.
-                controller.cull(output); //Handles the bunnies dieing from overpopulation.
-            }
-        }
+    std::string delete_command = R"(del .\output\*.txt)";
+    system(delete_command.c_str());
+    std::vector<manager> manager_vector;
+    std::vector<std::thread> thread_vector;
+    for(int i = 0; i < 10; i++){
+        manager_vector.push_back(manager(5));
     }
-    stats.close();
-    output.close();
-    //std::string filename = "C:/msys64/home/Connor/Bunny Simulator/graph.py";
-    std::string filename = "graph.py";
+
+    std::vector<manager>::iterator i1 = manager_vector.begin();
+    //manager controller(5); //Setting up the simulation with 5 initial bunnies.
+    std::thread thread1(&manager::run, i1, R"(output\output_1.txt)", R"(output\run_1_stats.txt)");
+    thread1.join();
+    ++i1;
+    //manager controller2(5);
+    std::thread thread2(&manager::run, i1, R"(output\output_2.txt)", R"(output\run_2_stats.txt)");
+    thread2.join();
+    //i1->run(R"(output\output_2.txt)", R"(output\run_2_stats.txt)");
+    std::string filename = "./src/graph.py";
     std::string command = "python ";
     command += filename;
     char input;
