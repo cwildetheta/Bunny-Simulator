@@ -1,0 +1,466 @@
+The current bunnies are: 
+           Kaya  Female    Brown   0     Healthy
+            Noa  Female  Spotted   0    Infected
+           Iman  Female    Black   0     Healthy
+       Kornelia  Female    Brown   0     Healthy
+          Jamal    Male  Spotted   0     Healthy
+Total: 5  Males: 1  Females: 4  Infected: 1     Current turn: 1
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown   1     Healthy
+            Noa  Female  Spotted   1    Infected
+           Iman  Female    Black   1     Healthy
+       Kornelia  Female    Brown   1    Infected
+          Jamal    Male  Spotted   1     Healthy
+Total: 5  Males: 1  Females: 4  Infected: 2     Current turn: 2
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown   2    Infected
+            Noa  Female  Spotted   2    Infected
+           Iman  Female    Black   2    Infected
+       Kornelia  Female    Brown   2    Infected
+          Jamal    Male  Spotted   2     Healthy
+Total: 5  Males: 1  Females: 4  Infected: 4     Current turn: 3
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown   3    Infected
+            Noa  Female  Spotted   3    Infected
+           Iman  Female    Black   3    Infected
+       Kornelia  Female    Brown   3    Infected
+          Jamal    Male  Spotted   3    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 4
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown   4    Infected
+            Noa  Female  Spotted   4    Infected
+           Iman  Female    Black   4    Infected
+       Kornelia  Female    Brown   4    Infected
+          Jamal    Male  Spotted   4    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 5
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown   5    Infected
+            Noa  Female  Spotted   5    Infected
+           Iman  Female    Black   5    Infected
+       Kornelia  Female    Brown   5    Infected
+          Jamal    Male  Spotted   5    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 6
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown   6    Infected
+            Noa  Female  Spotted   6    Infected
+           Iman  Female    Black   6    Infected
+       Kornelia  Female    Brown   6    Infected
+          Jamal    Male  Spotted   6    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 7
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown   7    Infected
+            Noa  Female  Spotted   7    Infected
+           Iman  Female    Black   7    Infected
+       Kornelia  Female    Brown   7    Infected
+          Jamal    Male  Spotted   7    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 8
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown   8    Infected
+            Noa  Female  Spotted   8    Infected
+           Iman  Female    Black   8    Infected
+       Kornelia  Female    Brown   8    Infected
+          Jamal    Male  Spotted   8    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 9
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown   9    Infected
+            Noa  Female  Spotted   9    Infected
+           Iman  Female    Black   9    Infected
+       Kornelia  Female    Brown   9    Infected
+          Jamal    Male  Spotted   9    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 10
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  10    Infected
+            Noa  Female  Spotted  10    Infected
+           Iman  Female    Black  10    Infected
+       Kornelia  Female    Brown  10    Infected
+          Jamal    Male  Spotted  10    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 11
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  11    Infected
+            Noa  Female  Spotted  11    Infected
+           Iman  Female    Black  11    Infected
+       Kornelia  Female    Brown  11    Infected
+          Jamal    Male  Spotted  11    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 12
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  12    Infected
+            Noa  Female  Spotted  12    Infected
+           Iman  Female    Black  12    Infected
+       Kornelia  Female    Brown  12    Infected
+          Jamal    Male  Spotted  12    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 13
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  13    Infected
+            Noa  Female  Spotted  13    Infected
+           Iman  Female    Black  13    Infected
+       Kornelia  Female    Brown  13    Infected
+          Jamal    Male  Spotted  13    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 14
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  14    Infected
+            Noa  Female  Spotted  14    Infected
+           Iman  Female    Black  14    Infected
+       Kornelia  Female    Brown  14    Infected
+          Jamal    Male  Spotted  14    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 15
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  15    Infected
+            Noa  Female  Spotted  15    Infected
+           Iman  Female    Black  15    Infected
+       Kornelia  Female    Brown  15    Infected
+          Jamal    Male  Spotted  15    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 16
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  16    Infected
+            Noa  Female  Spotted  16    Infected
+           Iman  Female    Black  16    Infected
+       Kornelia  Female    Brown  16    Infected
+          Jamal    Male  Spotted  16    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 17
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  17    Infected
+            Noa  Female  Spotted  17    Infected
+           Iman  Female    Black  17    Infected
+       Kornelia  Female    Brown  17    Infected
+          Jamal    Male  Spotted  17    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 18
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  18    Infected
+            Noa  Female  Spotted  18    Infected
+           Iman  Female    Black  18    Infected
+       Kornelia  Female    Brown  18    Infected
+          Jamal    Male  Spotted  18    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 19
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  19    Infected
+            Noa  Female  Spotted  19    Infected
+           Iman  Female    Black  19    Infected
+       Kornelia  Female    Brown  19    Infected
+          Jamal    Male  Spotted  19    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 20
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  20    Infected
+            Noa  Female  Spotted  20    Infected
+           Iman  Female    Black  20    Infected
+       Kornelia  Female    Brown  20    Infected
+          Jamal    Male  Spotted  20    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 21
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  21    Infected
+            Noa  Female  Spotted  21    Infected
+           Iman  Female    Black  21    Infected
+       Kornelia  Female    Brown  21    Infected
+          Jamal    Male  Spotted  21    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 22
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  22    Infected
+            Noa  Female  Spotted  22    Infected
+           Iman  Female    Black  22    Infected
+       Kornelia  Female    Brown  22    Infected
+          Jamal    Male  Spotted  22    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 23
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  23    Infected
+            Noa  Female  Spotted  23    Infected
+           Iman  Female    Black  23    Infected
+       Kornelia  Female    Brown  23    Infected
+          Jamal    Male  Spotted  23    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 24
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  24    Infected
+            Noa  Female  Spotted  24    Infected
+           Iman  Female    Black  24    Infected
+       Kornelia  Female    Brown  24    Infected
+          Jamal    Male  Spotted  24    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 25
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  25    Infected
+            Noa  Female  Spotted  25    Infected
+           Iman  Female    Black  25    Infected
+       Kornelia  Female    Brown  25    Infected
+          Jamal    Male  Spotted  25    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 26
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  26    Infected
+            Noa  Female  Spotted  26    Infected
+           Iman  Female    Black  26    Infected
+       Kornelia  Female    Brown  26    Infected
+          Jamal    Male  Spotted  26    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 27
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  27    Infected
+            Noa  Female  Spotted  27    Infected
+           Iman  Female    Black  27    Infected
+       Kornelia  Female    Brown  27    Infected
+          Jamal    Male  Spotted  27    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 28
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  28    Infected
+            Noa  Female  Spotted  28    Infected
+           Iman  Female    Black  28    Infected
+       Kornelia  Female    Brown  28    Infected
+          Jamal    Male  Spotted  28    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 29
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  29    Infected
+            Noa  Female  Spotted  29    Infected
+           Iman  Female    Black  29    Infected
+       Kornelia  Female    Brown  29    Infected
+          Jamal    Male  Spotted  29    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 30
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  30    Infected
+            Noa  Female  Spotted  30    Infected
+           Iman  Female    Black  30    Infected
+       Kornelia  Female    Brown  30    Infected
+          Jamal    Male  Spotted  30    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 31
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  31    Infected
+            Noa  Female  Spotted  31    Infected
+           Iman  Female    Black  31    Infected
+       Kornelia  Female    Brown  31    Infected
+          Jamal    Male  Spotted  31    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 32
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  32    Infected
+            Noa  Female  Spotted  32    Infected
+           Iman  Female    Black  32    Infected
+       Kornelia  Female    Brown  32    Infected
+          Jamal    Male  Spotted  32    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 33
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  33    Infected
+            Noa  Female  Spotted  33    Infected
+           Iman  Female    Black  33    Infected
+       Kornelia  Female    Brown  33    Infected
+          Jamal    Male  Spotted  33    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 34
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  34    Infected
+            Noa  Female  Spotted  34    Infected
+           Iman  Female    Black  34    Infected
+       Kornelia  Female    Brown  34    Infected
+          Jamal    Male  Spotted  34    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 35
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  35    Infected
+            Noa  Female  Spotted  35    Infected
+           Iman  Female    Black  35    Infected
+       Kornelia  Female    Brown  35    Infected
+          Jamal    Male  Spotted  35    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 36
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  36    Infected
+            Noa  Female  Spotted  36    Infected
+           Iman  Female    Black  36    Infected
+       Kornelia  Female    Brown  36    Infected
+          Jamal    Male  Spotted  36    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 37
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  37    Infected
+            Noa  Female  Spotted  37    Infected
+           Iman  Female    Black  37    Infected
+       Kornelia  Female    Brown  37    Infected
+          Jamal    Male  Spotted  37    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 38
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  38    Infected
+            Noa  Female  Spotted  38    Infected
+           Iman  Female    Black  38    Infected
+       Kornelia  Female    Brown  38    Infected
+          Jamal    Male  Spotted  38    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 39
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  39    Infected
+            Noa  Female  Spotted  39    Infected
+           Iman  Female    Black  39    Infected
+       Kornelia  Female    Brown  39    Infected
+          Jamal    Male  Spotted  39    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 40
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  40    Infected
+            Noa  Female  Spotted  40    Infected
+           Iman  Female    Black  40    Infected
+       Kornelia  Female    Brown  40    Infected
+          Jamal    Male  Spotted  40    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 41
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  41    Infected
+            Noa  Female  Spotted  41    Infected
+           Iman  Female    Black  41    Infected
+       Kornelia  Female    Brown  41    Infected
+          Jamal    Male  Spotted  41    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 42
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  42    Infected
+            Noa  Female  Spotted  42    Infected
+           Iman  Female    Black  42    Infected
+       Kornelia  Female    Brown  42    Infected
+          Jamal    Male  Spotted  42    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 43
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  43    Infected
+            Noa  Female  Spotted  43    Infected
+           Iman  Female    Black  43    Infected
+       Kornelia  Female    Brown  43    Infected
+          Jamal    Male  Spotted  43    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 44
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  44    Infected
+            Noa  Female  Spotted  44    Infected
+           Iman  Female    Black  44    Infected
+       Kornelia  Female    Brown  44    Infected
+          Jamal    Male  Spotted  44    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 45
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  45    Infected
+            Noa  Female  Spotted  45    Infected
+           Iman  Female    Black  45    Infected
+       Kornelia  Female    Brown  45    Infected
+          Jamal    Male  Spotted  45    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 46
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  46    Infected
+            Noa  Female  Spotted  46    Infected
+           Iman  Female    Black  46    Infected
+       Kornelia  Female    Brown  46    Infected
+          Jamal    Male  Spotted  46    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 47
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  47    Infected
+            Noa  Female  Spotted  47    Infected
+           Iman  Female    Black  47    Infected
+       Kornelia  Female    Brown  47    Infected
+          Jamal    Male  Spotted  47    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 48
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  48    Infected
+            Noa  Female  Spotted  48    Infected
+           Iman  Female    Black  48    Infected
+       Kornelia  Female    Brown  48    Infected
+          Jamal    Male  Spotted  48    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 49
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  49    Infected
+            Noa  Female  Spotted  49    Infected
+           Iman  Female    Black  49    Infected
+       Kornelia  Female    Brown  49    Infected
+          Jamal    Male  Spotted  49    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 50
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Kaya  Female    Brown  50    Infected
+            Noa  Female  Spotted  50    Infected
+           Iman  Female    Black  50    Infected
+       Kornelia  Female    Brown  50    Infected
+          Jamal    Male  Spotted  50    Infected
+Total: 5  Males: 1  Females: 4  Infected: 5     Current turn: 51
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Kaya has died.
+Infected Bunny Noa has died.
+Infected Bunny Iman has died.
+Infected Bunny Kornelia has died.
+Infected Bunny Jamal has died.
+
+All of the bunnies are dead.
+Simulation over.

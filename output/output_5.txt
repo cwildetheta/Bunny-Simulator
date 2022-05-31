@@ -1,0 +1,2088 @@
+The current bunnies are: 
+           Lucy  Female    White   0     Healthy
+         Jenson    Male    White   0     Healthy
+         Amirah  Female  Spotted   0     Healthy
+       Sumayyah  Female    Black   0     Healthy
+           Zaki    Male  Spotted   0     Healthy
+Total: 5  Males: 2  Females: 3  Infected: 0     Current turn: 1
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White   1     Healthy
+         Jenson    Male    White   1     Healthy
+         Amirah  Female  Spotted   1     Healthy
+       Sumayyah  Female    Black   1     Healthy
+           Zaki    Male  Spotted   1     Healthy
+Total: 5  Males: 2  Females: 3  Infected: 0     Current turn: 2
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Bunny Rudy was born.
+Bunny Indi was born.
+Bunny Marnie was born.
+The current bunnies are: 
+           Lucy  Female    White   2     Healthy
+         Jenson    Male    White   2     Healthy
+         Amirah  Female  Spotted   2     Healthy
+       Sumayyah  Female    Black   2     Healthy
+           Zaki    Male  Spotted   2     Healthy
+           Rudy    Male    White   0     Healthy
+           Indi  Female  Spotted   0     Healthy
+         Marnie  Female    Black   0     Healthy
+Total: 8  Males: 3  Females: 5  Infected: 0     Current turn: 3
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Bunny Lennon was born.
+Bunny Harri was born.
+Bunny Ayoub was born.
+The current bunnies are: 
+           Lucy  Female    White   3     Healthy
+         Jenson    Male    White   3     Healthy
+         Amirah  Female  Spotted   3     Healthy
+       Sumayyah  Female    Black   3     Healthy
+           Zaki    Male  Spotted   3     Healthy
+           Rudy    Male    White   1     Healthy
+           Indi  Female  Spotted   1     Healthy
+         Marnie  Female    Black   1     Healthy
+         Lennon    Male    White   0     Healthy
+          Harri    Male  Spotted   0     Healthy
+          Ayoub    Male    Black   0     Healthy
+Total: 11  Males: 6  Females: 5  Infected: 0     Current turn: 4
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Bunny Romi was born.
+Infected Bunny Zoya was born.
+Bunny Dougie was born.
+Bunny Yuvraj was born.
+Bunny Harun was born.
+The current bunnies are: 
+           Lucy  Female    White   4     Healthy
+         Jenson    Male    White   4     Healthy
+         Amirah  Female  Spotted   4     Healthy
+       Sumayyah  Female    Black   4     Healthy
+           Zaki    Male  Spotted   4     Healthy
+           Rudy    Male    White   2     Healthy
+           Indi  Female  Spotted   2     Healthy
+         Marnie  Female    Black   2     Healthy
+         Lennon    Male    White   1     Healthy
+          Harri    Male  Spotted   1     Healthy
+          Ayoub    Male    Black   1     Healthy
+           Romi  Female    White   0     Healthy
+           Zoya  Female  Spotted   0    Infected
+         Dougie    Male    Black   0     Healthy
+         Yuvraj    Male  Spotted   0     Healthy
+          Harun    Male    Black   0     Healthy
+Total: 16  Males: 9  Females: 7  Infected: 1     Current turn: 5
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Bunny Rowan was born.
+Bunny Matteo was born.
+Bunny Alannah was born.
+Bunny Theodore was born.
+Bunny Arianna was born.
+The current bunnies are: 
+           Lucy  Female    White   5     Healthy
+         Jenson    Male    White   5     Healthy
+         Amirah  Female  Spotted   5     Healthy
+       Sumayyah  Female    Black   5     Healthy
+           Zaki    Male  Spotted   5     Healthy
+           Rudy    Male    White   3     Healthy
+           Indi  Female  Spotted   3     Healthy
+         Marnie  Female    Black   3     Healthy
+         Lennon    Male    White   2     Healthy
+          Harri    Male  Spotted   2     Healthy
+          Ayoub    Male    Black   2     Healthy
+           Romi  Female    White   1     Healthy
+           Zoya  Female  Spotted   1    Infected
+         Dougie    Male    Black   1     Healthy
+         Yuvraj    Male  Spotted   1    Infected
+          Harun    Male    Black   1     Healthy
+          Rowan  Female    White   0     Healthy
+         Matteo    Male  Spotted   0     Healthy
+        Alannah  Female    Black   0     Healthy
+       Theodore    Male  Spotted   0     Healthy
+        Arianna  Female    Black   0     Healthy
+Total: 21  Males: 11  Females: 10  Infected: 2     Current turn: 6
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Bunny Philip was born.
+Bunny Marlie was born.
+Bunny Nila was born.
+Bunny Blake was born.
+Bunny Avery was born.
+The current bunnies are: 
+           Lucy  Female    White   6     Healthy
+         Jenson    Male    White   6     Healthy
+         Amirah  Female  Spotted   6     Healthy
+       Sumayyah  Female    Black   6     Healthy
+           Zaki    Male  Spotted   6     Healthy
+           Rudy    Male    White   4     Healthy
+           Indi  Female  Spotted   4     Healthy
+         Marnie  Female    Black   4     Healthy
+         Lennon    Male    White   3     Healthy
+          Harri    Male  Spotted   3     Healthy
+          Ayoub    Male    Black   3     Healthy
+           Romi  Female    White   2    Infected
+           Zoya  Female  Spotted   2    Infected
+         Dougie    Male    Black   2     Healthy
+         Yuvraj    Male  Spotted   2    Infected
+          Harun    Male    Black   2     Healthy
+          Rowan  Female    White   1     Healthy
+         Matteo    Male  Spotted   1     Healthy
+        Alannah  Female    Black   1     Healthy
+       Theodore    Male  Spotted   1     Healthy
+        Arianna  Female    Black   1    Infected
+         Philip    Male    White   0     Healthy
+         Marlie  Female  Spotted   0     Healthy
+           Nila  Female    Black   0     Healthy
+          Blake    Male  Spotted   0     Healthy
+          Avery  Female    Black   0     Healthy
+Total: 26  Males: 13  Females: 13  Infected: 4     Current turn: 7
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Bunny Levi was born.
+Bunny Leonardo was born.
+Bunny Erica was born.
+Bunny Pixie was born.
+Bunny Leyla was born.
+The current bunnies are: 
+           Lucy  Female    White   7    Infected
+         Jenson    Male    White   7     Healthy
+         Amirah  Female  Spotted   7     Healthy
+       Sumayyah  Female    Black   7     Healthy
+           Zaki    Male  Spotted   7     Healthy
+           Rudy    Male    White   5     Healthy
+           Indi  Female  Spotted   5    Infected
+         Marnie  Female    Black   5     Healthy
+         Lennon    Male    White   4     Healthy
+          Harri    Male  Spotted   4     Healthy
+          Ayoub    Male    Black   4     Healthy
+           Romi  Female    White   3    Infected
+           Zoya  Female  Spotted   3    Infected
+         Dougie    Male    Black   3     Healthy
+         Yuvraj    Male  Spotted   3    Infected
+          Harun    Male    Black   3     Healthy
+          Rowan  Female    White   2     Healthy
+         Matteo    Male  Spotted   2     Healthy
+        Alannah  Female    Black   2     Healthy
+       Theodore    Male  Spotted   2    Infected
+        Arianna  Female    Black   2    Infected
+         Philip    Male    White   1     Healthy
+         Marlie  Female  Spotted   1     Healthy
+           Nila  Female    Black   1     Healthy
+          Blake    Male  Spotted   1     Healthy
+          Avery  Female    Black   1    Infected
+           Levi    Male  Spotted   0     Healthy
+       Leonardo    Male    Black   0     Healthy
+          Erica  Female    Black   0     Healthy
+          Pixie  Female    White   0     Healthy
+          Leyla  Female    Black   0     Healthy
+Total: 31  Males: 15  Females: 16  Infected: 8     Current turn: 8
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+Infected Bunny Khloe was born.
+Bunny Nadia was born.
+Bunny Raja was born.
+Bunny Mustafa was born.
+The current bunnies are: 
+           Lucy  Female    White   8    Infected
+         Jenson    Male    White   8    Infected
+         Amirah  Female  Spotted   8     Healthy
+       Sumayyah  Female    Black   8    Infected
+           Zaki    Male  Spotted   8     Healthy
+           Rudy    Male    White   6     Healthy
+           Indi  Female  Spotted   6    Infected
+         Marnie  Female    Black   6     Healthy
+         Lennon    Male    White   5    Infected
+          Harri    Male  Spotted   5     Healthy
+          Ayoub    Male    Black   5     Healthy
+           Romi  Female    White   4    Infected
+           Zoya  Female  Spotted   4    Infected
+         Dougie    Male    Black   4     Healthy
+         Yuvraj    Male  Spotted   4    Infected
+          Harun    Male    Black   4     Healthy
+          Rowan  Female    White   3     Healthy
+         Matteo    Male  Spotted   3     Healthy
+        Alannah  Female    Black   3    Infected
+       Theodore    Male  Spotted   3    Infected
+        Arianna  Female    Black   3    Infected
+         Philip    Male    White   2    Infected
+         Marlie  Female  Spotted   2     Healthy
+           Nila  Female    Black   2    Infected
+          Blake    Male  Spotted   2     Healthy
+          Avery  Female    Black   2    Infected
+           Levi    Male  Spotted   1     Healthy
+       Leonardo    Male    Black   1    Infected
+          Erica  Female    Black   1     Healthy
+          Pixie  Female    White   1     Healthy
+          Leyla  Female    Black   1    Infected
+          Khloe  Female  Spotted   0    Infected
+          Nadia  Female    Black   0     Healthy
+           Raja    Male    White   0     Healthy
+        Mustafa    Male  Spotted   0     Healthy
+Total: 35  Males: 17  Females: 18  Infected: 17     Current turn: 9
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White   9    Infected
+         Jenson    Male    White   9    Infected
+         Amirah  Female  Spotted   9    Infected
+       Sumayyah  Female    Black   9    Infected
+           Zaki    Male  Spotted   9    Infected
+           Rudy    Male    White   7    Infected
+           Indi  Female  Spotted   7    Infected
+         Marnie  Female    Black   7    Infected
+         Lennon    Male    White   6    Infected
+          Harri    Male  Spotted   6    Infected
+          Ayoub    Male    Black   6    Infected
+           Romi  Female    White   5    Infected
+           Zoya  Female  Spotted   5    Infected
+         Dougie    Male    Black   5    Infected
+         Yuvraj    Male  Spotted   5    Infected
+          Harun    Male    Black   5     Healthy
+          Rowan  Female    White   4    Infected
+         Matteo    Male  Spotted   4    Infected
+        Alannah  Female    Black   4    Infected
+       Theodore    Male  Spotted   4    Infected
+        Arianna  Female    Black   4    Infected
+         Philip    Male    White   3    Infected
+         Marlie  Female  Spotted   3    Infected
+           Nila  Female    Black   3    Infected
+          Blake    Male  Spotted   3    Infected
+          Avery  Female    Black   3    Infected
+           Levi    Male  Spotted   2    Infected
+       Leonardo    Male    Black   2    Infected
+          Erica  Female    Black   2    Infected
+          Pixie  Female    White   2    Infected
+          Leyla  Female    Black   2    Infected
+          Khloe  Female  Spotted   1    Infected
+          Nadia  Female    Black   1    Infected
+           Raja    Male    White   1    Infected
+        Mustafa    Male  Spotted   1    Infected
+Total: 35  Males: 17  Females: 18  Infected: 34     Current turn: 10
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  10    Infected
+         Jenson    Male    White  10    Infected
+         Amirah  Female  Spotted  10    Infected
+       Sumayyah  Female    Black  10    Infected
+           Zaki    Male  Spotted  10    Infected
+           Rudy    Male    White   8    Infected
+           Indi  Female  Spotted   8    Infected
+         Marnie  Female    Black   8    Infected
+         Lennon    Male    White   7    Infected
+          Harri    Male  Spotted   7    Infected
+          Ayoub    Male    Black   7    Infected
+           Romi  Female    White   6    Infected
+           Zoya  Female  Spotted   6    Infected
+         Dougie    Male    Black   6    Infected
+         Yuvraj    Male  Spotted   6    Infected
+          Harun    Male    Black   6    Infected
+          Rowan  Female    White   5    Infected
+         Matteo    Male  Spotted   5    Infected
+        Alannah  Female    Black   5    Infected
+       Theodore    Male  Spotted   5    Infected
+        Arianna  Female    Black   5    Infected
+         Philip    Male    White   4    Infected
+         Marlie  Female  Spotted   4    Infected
+           Nila  Female    Black   4    Infected
+          Blake    Male  Spotted   4    Infected
+          Avery  Female    Black   4    Infected
+           Levi    Male  Spotted   3    Infected
+       Leonardo    Male    Black   3    Infected
+          Erica  Female    Black   3    Infected
+          Pixie  Female    White   3    Infected
+          Leyla  Female    Black   3    Infected
+          Khloe  Female  Spotted   2    Infected
+          Nadia  Female    Black   2    Infected
+           Raja    Male    White   2    Infected
+        Mustafa    Male  Spotted   2    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 11
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  11    Infected
+         Jenson    Male    White  11    Infected
+         Amirah  Female  Spotted  11    Infected
+       Sumayyah  Female    Black  11    Infected
+           Zaki    Male  Spotted  11    Infected
+           Rudy    Male    White   9    Infected
+           Indi  Female  Spotted   9    Infected
+         Marnie  Female    Black   9    Infected
+         Lennon    Male    White   8    Infected
+          Harri    Male  Spotted   8    Infected
+          Ayoub    Male    Black   8    Infected
+           Romi  Female    White   7    Infected
+           Zoya  Female  Spotted   7    Infected
+         Dougie    Male    Black   7    Infected
+         Yuvraj    Male  Spotted   7    Infected
+          Harun    Male    Black   7    Infected
+          Rowan  Female    White   6    Infected
+         Matteo    Male  Spotted   6    Infected
+        Alannah  Female    Black   6    Infected
+       Theodore    Male  Spotted   6    Infected
+        Arianna  Female    Black   6    Infected
+         Philip    Male    White   5    Infected
+         Marlie  Female  Spotted   5    Infected
+           Nila  Female    Black   5    Infected
+          Blake    Male  Spotted   5    Infected
+          Avery  Female    Black   5    Infected
+           Levi    Male  Spotted   4    Infected
+       Leonardo    Male    Black   4    Infected
+          Erica  Female    Black   4    Infected
+          Pixie  Female    White   4    Infected
+          Leyla  Female    Black   4    Infected
+          Khloe  Female  Spotted   3    Infected
+          Nadia  Female    Black   3    Infected
+           Raja    Male    White   3    Infected
+        Mustafa    Male  Spotted   3    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 12
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  12    Infected
+         Jenson    Male    White  12    Infected
+         Amirah  Female  Spotted  12    Infected
+       Sumayyah  Female    Black  12    Infected
+           Zaki    Male  Spotted  12    Infected
+           Rudy    Male    White  10    Infected
+           Indi  Female  Spotted  10    Infected
+         Marnie  Female    Black  10    Infected
+         Lennon    Male    White   9    Infected
+          Harri    Male  Spotted   9    Infected
+          Ayoub    Male    Black   9    Infected
+           Romi  Female    White   8    Infected
+           Zoya  Female  Spotted   8    Infected
+         Dougie    Male    Black   8    Infected
+         Yuvraj    Male  Spotted   8    Infected
+          Harun    Male    Black   8    Infected
+          Rowan  Female    White   7    Infected
+         Matteo    Male  Spotted   7    Infected
+        Alannah  Female    Black   7    Infected
+       Theodore    Male  Spotted   7    Infected
+        Arianna  Female    Black   7    Infected
+         Philip    Male    White   6    Infected
+         Marlie  Female  Spotted   6    Infected
+           Nila  Female    Black   6    Infected
+          Blake    Male  Spotted   6    Infected
+          Avery  Female    Black   6    Infected
+           Levi    Male  Spotted   5    Infected
+       Leonardo    Male    Black   5    Infected
+          Erica  Female    Black   5    Infected
+          Pixie  Female    White   5    Infected
+          Leyla  Female    Black   5    Infected
+          Khloe  Female  Spotted   4    Infected
+          Nadia  Female    Black   4    Infected
+           Raja    Male    White   4    Infected
+        Mustafa    Male  Spotted   4    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 13
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  13    Infected
+         Jenson    Male    White  13    Infected
+         Amirah  Female  Spotted  13    Infected
+       Sumayyah  Female    Black  13    Infected
+           Zaki    Male  Spotted  13    Infected
+           Rudy    Male    White  11    Infected
+           Indi  Female  Spotted  11    Infected
+         Marnie  Female    Black  11    Infected
+         Lennon    Male    White  10    Infected
+          Harri    Male  Spotted  10    Infected
+          Ayoub    Male    Black  10    Infected
+           Romi  Female    White   9    Infected
+           Zoya  Female  Spotted   9    Infected
+         Dougie    Male    Black   9    Infected
+         Yuvraj    Male  Spotted   9    Infected
+          Harun    Male    Black   9    Infected
+          Rowan  Female    White   8    Infected
+         Matteo    Male  Spotted   8    Infected
+        Alannah  Female    Black   8    Infected
+       Theodore    Male  Spotted   8    Infected
+        Arianna  Female    Black   8    Infected
+         Philip    Male    White   7    Infected
+         Marlie  Female  Spotted   7    Infected
+           Nila  Female    Black   7    Infected
+          Blake    Male  Spotted   7    Infected
+          Avery  Female    Black   7    Infected
+           Levi    Male  Spotted   6    Infected
+       Leonardo    Male    Black   6    Infected
+          Erica  Female    Black   6    Infected
+          Pixie  Female    White   6    Infected
+          Leyla  Female    Black   6    Infected
+          Khloe  Female  Spotted   5    Infected
+          Nadia  Female    Black   5    Infected
+           Raja    Male    White   5    Infected
+        Mustafa    Male  Spotted   5    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 14
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  14    Infected
+         Jenson    Male    White  14    Infected
+         Amirah  Female  Spotted  14    Infected
+       Sumayyah  Female    Black  14    Infected
+           Zaki    Male  Spotted  14    Infected
+           Rudy    Male    White  12    Infected
+           Indi  Female  Spotted  12    Infected
+         Marnie  Female    Black  12    Infected
+         Lennon    Male    White  11    Infected
+          Harri    Male  Spotted  11    Infected
+          Ayoub    Male    Black  11    Infected
+           Romi  Female    White  10    Infected
+           Zoya  Female  Spotted  10    Infected
+         Dougie    Male    Black  10    Infected
+         Yuvraj    Male  Spotted  10    Infected
+          Harun    Male    Black  10    Infected
+          Rowan  Female    White   9    Infected
+         Matteo    Male  Spotted   9    Infected
+        Alannah  Female    Black   9    Infected
+       Theodore    Male  Spotted   9    Infected
+        Arianna  Female    Black   9    Infected
+         Philip    Male    White   8    Infected
+         Marlie  Female  Spotted   8    Infected
+           Nila  Female    Black   8    Infected
+          Blake    Male  Spotted   8    Infected
+          Avery  Female    Black   8    Infected
+           Levi    Male  Spotted   7    Infected
+       Leonardo    Male    Black   7    Infected
+          Erica  Female    Black   7    Infected
+          Pixie  Female    White   7    Infected
+          Leyla  Female    Black   7    Infected
+          Khloe  Female  Spotted   6    Infected
+          Nadia  Female    Black   6    Infected
+           Raja    Male    White   6    Infected
+        Mustafa    Male  Spotted   6    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 15
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  15    Infected
+         Jenson    Male    White  15    Infected
+         Amirah  Female  Spotted  15    Infected
+       Sumayyah  Female    Black  15    Infected
+           Zaki    Male  Spotted  15    Infected
+           Rudy    Male    White  13    Infected
+           Indi  Female  Spotted  13    Infected
+         Marnie  Female    Black  13    Infected
+         Lennon    Male    White  12    Infected
+          Harri    Male  Spotted  12    Infected
+          Ayoub    Male    Black  12    Infected
+           Romi  Female    White  11    Infected
+           Zoya  Female  Spotted  11    Infected
+         Dougie    Male    Black  11    Infected
+         Yuvraj    Male  Spotted  11    Infected
+          Harun    Male    Black  11    Infected
+          Rowan  Female    White  10    Infected
+         Matteo    Male  Spotted  10    Infected
+        Alannah  Female    Black  10    Infected
+       Theodore    Male  Spotted  10    Infected
+        Arianna  Female    Black  10    Infected
+         Philip    Male    White   9    Infected
+         Marlie  Female  Spotted   9    Infected
+           Nila  Female    Black   9    Infected
+          Blake    Male  Spotted   9    Infected
+          Avery  Female    Black   9    Infected
+           Levi    Male  Spotted   8    Infected
+       Leonardo    Male    Black   8    Infected
+          Erica  Female    Black   8    Infected
+          Pixie  Female    White   8    Infected
+          Leyla  Female    Black   8    Infected
+          Khloe  Female  Spotted   7    Infected
+          Nadia  Female    Black   7    Infected
+           Raja    Male    White   7    Infected
+        Mustafa    Male  Spotted   7    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 16
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  16    Infected
+         Jenson    Male    White  16    Infected
+         Amirah  Female  Spotted  16    Infected
+       Sumayyah  Female    Black  16    Infected
+           Zaki    Male  Spotted  16    Infected
+           Rudy    Male    White  14    Infected
+           Indi  Female  Spotted  14    Infected
+         Marnie  Female    Black  14    Infected
+         Lennon    Male    White  13    Infected
+          Harri    Male  Spotted  13    Infected
+          Ayoub    Male    Black  13    Infected
+           Romi  Female    White  12    Infected
+           Zoya  Female  Spotted  12    Infected
+         Dougie    Male    Black  12    Infected
+         Yuvraj    Male  Spotted  12    Infected
+          Harun    Male    Black  12    Infected
+          Rowan  Female    White  11    Infected
+         Matteo    Male  Spotted  11    Infected
+        Alannah  Female    Black  11    Infected
+       Theodore    Male  Spotted  11    Infected
+        Arianna  Female    Black  11    Infected
+         Philip    Male    White  10    Infected
+         Marlie  Female  Spotted  10    Infected
+           Nila  Female    Black  10    Infected
+          Blake    Male  Spotted  10    Infected
+          Avery  Female    Black  10    Infected
+           Levi    Male  Spotted   9    Infected
+       Leonardo    Male    Black   9    Infected
+          Erica  Female    Black   9    Infected
+          Pixie  Female    White   9    Infected
+          Leyla  Female    Black   9    Infected
+          Khloe  Female  Spotted   8    Infected
+          Nadia  Female    Black   8    Infected
+           Raja    Male    White   8    Infected
+        Mustafa    Male  Spotted   8    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 17
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  17    Infected
+         Jenson    Male    White  17    Infected
+         Amirah  Female  Spotted  17    Infected
+       Sumayyah  Female    Black  17    Infected
+           Zaki    Male  Spotted  17    Infected
+           Rudy    Male    White  15    Infected
+           Indi  Female  Spotted  15    Infected
+         Marnie  Female    Black  15    Infected
+         Lennon    Male    White  14    Infected
+          Harri    Male  Spotted  14    Infected
+          Ayoub    Male    Black  14    Infected
+           Romi  Female    White  13    Infected
+           Zoya  Female  Spotted  13    Infected
+         Dougie    Male    Black  13    Infected
+         Yuvraj    Male  Spotted  13    Infected
+          Harun    Male    Black  13    Infected
+          Rowan  Female    White  12    Infected
+         Matteo    Male  Spotted  12    Infected
+        Alannah  Female    Black  12    Infected
+       Theodore    Male  Spotted  12    Infected
+        Arianna  Female    Black  12    Infected
+         Philip    Male    White  11    Infected
+         Marlie  Female  Spotted  11    Infected
+           Nila  Female    Black  11    Infected
+          Blake    Male  Spotted  11    Infected
+          Avery  Female    Black  11    Infected
+           Levi    Male  Spotted  10    Infected
+       Leonardo    Male    Black  10    Infected
+          Erica  Female    Black  10    Infected
+          Pixie  Female    White  10    Infected
+          Leyla  Female    Black  10    Infected
+          Khloe  Female  Spotted   9    Infected
+          Nadia  Female    Black   9    Infected
+           Raja    Male    White   9    Infected
+        Mustafa    Male  Spotted   9    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 18
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  18    Infected
+         Jenson    Male    White  18    Infected
+         Amirah  Female  Spotted  18    Infected
+       Sumayyah  Female    Black  18    Infected
+           Zaki    Male  Spotted  18    Infected
+           Rudy    Male    White  16    Infected
+           Indi  Female  Spotted  16    Infected
+         Marnie  Female    Black  16    Infected
+         Lennon    Male    White  15    Infected
+          Harri    Male  Spotted  15    Infected
+          Ayoub    Male    Black  15    Infected
+           Romi  Female    White  14    Infected
+           Zoya  Female  Spotted  14    Infected
+         Dougie    Male    Black  14    Infected
+         Yuvraj    Male  Spotted  14    Infected
+          Harun    Male    Black  14    Infected
+          Rowan  Female    White  13    Infected
+         Matteo    Male  Spotted  13    Infected
+        Alannah  Female    Black  13    Infected
+       Theodore    Male  Spotted  13    Infected
+        Arianna  Female    Black  13    Infected
+         Philip    Male    White  12    Infected
+         Marlie  Female  Spotted  12    Infected
+           Nila  Female    Black  12    Infected
+          Blake    Male  Spotted  12    Infected
+          Avery  Female    Black  12    Infected
+           Levi    Male  Spotted  11    Infected
+       Leonardo    Male    Black  11    Infected
+          Erica  Female    Black  11    Infected
+          Pixie  Female    White  11    Infected
+          Leyla  Female    Black  11    Infected
+          Khloe  Female  Spotted  10    Infected
+          Nadia  Female    Black  10    Infected
+           Raja    Male    White  10    Infected
+        Mustafa    Male  Spotted  10    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 19
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  19    Infected
+         Jenson    Male    White  19    Infected
+         Amirah  Female  Spotted  19    Infected
+       Sumayyah  Female    Black  19    Infected
+           Zaki    Male  Spotted  19    Infected
+           Rudy    Male    White  17    Infected
+           Indi  Female  Spotted  17    Infected
+         Marnie  Female    Black  17    Infected
+         Lennon    Male    White  16    Infected
+          Harri    Male  Spotted  16    Infected
+          Ayoub    Male    Black  16    Infected
+           Romi  Female    White  15    Infected
+           Zoya  Female  Spotted  15    Infected
+         Dougie    Male    Black  15    Infected
+         Yuvraj    Male  Spotted  15    Infected
+          Harun    Male    Black  15    Infected
+          Rowan  Female    White  14    Infected
+         Matteo    Male  Spotted  14    Infected
+        Alannah  Female    Black  14    Infected
+       Theodore    Male  Spotted  14    Infected
+        Arianna  Female    Black  14    Infected
+         Philip    Male    White  13    Infected
+         Marlie  Female  Spotted  13    Infected
+           Nila  Female    Black  13    Infected
+          Blake    Male  Spotted  13    Infected
+          Avery  Female    Black  13    Infected
+           Levi    Male  Spotted  12    Infected
+       Leonardo    Male    Black  12    Infected
+          Erica  Female    Black  12    Infected
+          Pixie  Female    White  12    Infected
+          Leyla  Female    Black  12    Infected
+          Khloe  Female  Spotted  11    Infected
+          Nadia  Female    Black  11    Infected
+           Raja    Male    White  11    Infected
+        Mustafa    Male  Spotted  11    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 20
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  20    Infected
+         Jenson    Male    White  20    Infected
+         Amirah  Female  Spotted  20    Infected
+       Sumayyah  Female    Black  20    Infected
+           Zaki    Male  Spotted  20    Infected
+           Rudy    Male    White  18    Infected
+           Indi  Female  Spotted  18    Infected
+         Marnie  Female    Black  18    Infected
+         Lennon    Male    White  17    Infected
+          Harri    Male  Spotted  17    Infected
+          Ayoub    Male    Black  17    Infected
+           Romi  Female    White  16    Infected
+           Zoya  Female  Spotted  16    Infected
+         Dougie    Male    Black  16    Infected
+         Yuvraj    Male  Spotted  16    Infected
+          Harun    Male    Black  16    Infected
+          Rowan  Female    White  15    Infected
+         Matteo    Male  Spotted  15    Infected
+        Alannah  Female    Black  15    Infected
+       Theodore    Male  Spotted  15    Infected
+        Arianna  Female    Black  15    Infected
+         Philip    Male    White  14    Infected
+         Marlie  Female  Spotted  14    Infected
+           Nila  Female    Black  14    Infected
+          Blake    Male  Spotted  14    Infected
+          Avery  Female    Black  14    Infected
+           Levi    Male  Spotted  13    Infected
+       Leonardo    Male    Black  13    Infected
+          Erica  Female    Black  13    Infected
+          Pixie  Female    White  13    Infected
+          Leyla  Female    Black  13    Infected
+          Khloe  Female  Spotted  12    Infected
+          Nadia  Female    Black  12    Infected
+           Raja    Male    White  12    Infected
+        Mustafa    Male  Spotted  12    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 21
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  21    Infected
+         Jenson    Male    White  21    Infected
+         Amirah  Female  Spotted  21    Infected
+       Sumayyah  Female    Black  21    Infected
+           Zaki    Male  Spotted  21    Infected
+           Rudy    Male    White  19    Infected
+           Indi  Female  Spotted  19    Infected
+         Marnie  Female    Black  19    Infected
+         Lennon    Male    White  18    Infected
+          Harri    Male  Spotted  18    Infected
+          Ayoub    Male    Black  18    Infected
+           Romi  Female    White  17    Infected
+           Zoya  Female  Spotted  17    Infected
+         Dougie    Male    Black  17    Infected
+         Yuvraj    Male  Spotted  17    Infected
+          Harun    Male    Black  17    Infected
+          Rowan  Female    White  16    Infected
+         Matteo    Male  Spotted  16    Infected
+        Alannah  Female    Black  16    Infected
+       Theodore    Male  Spotted  16    Infected
+        Arianna  Female    Black  16    Infected
+         Philip    Male    White  15    Infected
+         Marlie  Female  Spotted  15    Infected
+           Nila  Female    Black  15    Infected
+          Blake    Male  Spotted  15    Infected
+          Avery  Female    Black  15    Infected
+           Levi    Male  Spotted  14    Infected
+       Leonardo    Male    Black  14    Infected
+          Erica  Female    Black  14    Infected
+          Pixie  Female    White  14    Infected
+          Leyla  Female    Black  14    Infected
+          Khloe  Female  Spotted  13    Infected
+          Nadia  Female    Black  13    Infected
+           Raja    Male    White  13    Infected
+        Mustafa    Male  Spotted  13    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 22
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  22    Infected
+         Jenson    Male    White  22    Infected
+         Amirah  Female  Spotted  22    Infected
+       Sumayyah  Female    Black  22    Infected
+           Zaki    Male  Spotted  22    Infected
+           Rudy    Male    White  20    Infected
+           Indi  Female  Spotted  20    Infected
+         Marnie  Female    Black  20    Infected
+         Lennon    Male    White  19    Infected
+          Harri    Male  Spotted  19    Infected
+          Ayoub    Male    Black  19    Infected
+           Romi  Female    White  18    Infected
+           Zoya  Female  Spotted  18    Infected
+         Dougie    Male    Black  18    Infected
+         Yuvraj    Male  Spotted  18    Infected
+          Harun    Male    Black  18    Infected
+          Rowan  Female    White  17    Infected
+         Matteo    Male  Spotted  17    Infected
+        Alannah  Female    Black  17    Infected
+       Theodore    Male  Spotted  17    Infected
+        Arianna  Female    Black  17    Infected
+         Philip    Male    White  16    Infected
+         Marlie  Female  Spotted  16    Infected
+           Nila  Female    Black  16    Infected
+          Blake    Male  Spotted  16    Infected
+          Avery  Female    Black  16    Infected
+           Levi    Male  Spotted  15    Infected
+       Leonardo    Male    Black  15    Infected
+          Erica  Female    Black  15    Infected
+          Pixie  Female    White  15    Infected
+          Leyla  Female    Black  15    Infected
+          Khloe  Female  Spotted  14    Infected
+          Nadia  Female    Black  14    Infected
+           Raja    Male    White  14    Infected
+        Mustafa    Male  Spotted  14    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 23
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  23    Infected
+         Jenson    Male    White  23    Infected
+         Amirah  Female  Spotted  23    Infected
+       Sumayyah  Female    Black  23    Infected
+           Zaki    Male  Spotted  23    Infected
+           Rudy    Male    White  21    Infected
+           Indi  Female  Spotted  21    Infected
+         Marnie  Female    Black  21    Infected
+         Lennon    Male    White  20    Infected
+          Harri    Male  Spotted  20    Infected
+          Ayoub    Male    Black  20    Infected
+           Romi  Female    White  19    Infected
+           Zoya  Female  Spotted  19    Infected
+         Dougie    Male    Black  19    Infected
+         Yuvraj    Male  Spotted  19    Infected
+          Harun    Male    Black  19    Infected
+          Rowan  Female    White  18    Infected
+         Matteo    Male  Spotted  18    Infected
+        Alannah  Female    Black  18    Infected
+       Theodore    Male  Spotted  18    Infected
+        Arianna  Female    Black  18    Infected
+         Philip    Male    White  17    Infected
+         Marlie  Female  Spotted  17    Infected
+           Nila  Female    Black  17    Infected
+          Blake    Male  Spotted  17    Infected
+          Avery  Female    Black  17    Infected
+           Levi    Male  Spotted  16    Infected
+       Leonardo    Male    Black  16    Infected
+          Erica  Female    Black  16    Infected
+          Pixie  Female    White  16    Infected
+          Leyla  Female    Black  16    Infected
+          Khloe  Female  Spotted  15    Infected
+          Nadia  Female    Black  15    Infected
+           Raja    Male    White  15    Infected
+        Mustafa    Male  Spotted  15    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 24
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  24    Infected
+         Jenson    Male    White  24    Infected
+         Amirah  Female  Spotted  24    Infected
+       Sumayyah  Female    Black  24    Infected
+           Zaki    Male  Spotted  24    Infected
+           Rudy    Male    White  22    Infected
+           Indi  Female  Spotted  22    Infected
+         Marnie  Female    Black  22    Infected
+         Lennon    Male    White  21    Infected
+          Harri    Male  Spotted  21    Infected
+          Ayoub    Male    Black  21    Infected
+           Romi  Female    White  20    Infected
+           Zoya  Female  Spotted  20    Infected
+         Dougie    Male    Black  20    Infected
+         Yuvraj    Male  Spotted  20    Infected
+          Harun    Male    Black  20    Infected
+          Rowan  Female    White  19    Infected
+         Matteo    Male  Spotted  19    Infected
+        Alannah  Female    Black  19    Infected
+       Theodore    Male  Spotted  19    Infected
+        Arianna  Female    Black  19    Infected
+         Philip    Male    White  18    Infected
+         Marlie  Female  Spotted  18    Infected
+           Nila  Female    Black  18    Infected
+          Blake    Male  Spotted  18    Infected
+          Avery  Female    Black  18    Infected
+           Levi    Male  Spotted  17    Infected
+       Leonardo    Male    Black  17    Infected
+          Erica  Female    Black  17    Infected
+          Pixie  Female    White  17    Infected
+          Leyla  Female    Black  17    Infected
+          Khloe  Female  Spotted  16    Infected
+          Nadia  Female    Black  16    Infected
+           Raja    Male    White  16    Infected
+        Mustafa    Male  Spotted  16    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 25
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  25    Infected
+         Jenson    Male    White  25    Infected
+         Amirah  Female  Spotted  25    Infected
+       Sumayyah  Female    Black  25    Infected
+           Zaki    Male  Spotted  25    Infected
+           Rudy    Male    White  23    Infected
+           Indi  Female  Spotted  23    Infected
+         Marnie  Female    Black  23    Infected
+         Lennon    Male    White  22    Infected
+          Harri    Male  Spotted  22    Infected
+          Ayoub    Male    Black  22    Infected
+           Romi  Female    White  21    Infected
+           Zoya  Female  Spotted  21    Infected
+         Dougie    Male    Black  21    Infected
+         Yuvraj    Male  Spotted  21    Infected
+          Harun    Male    Black  21    Infected
+          Rowan  Female    White  20    Infected
+         Matteo    Male  Spotted  20    Infected
+        Alannah  Female    Black  20    Infected
+       Theodore    Male  Spotted  20    Infected
+        Arianna  Female    Black  20    Infected
+         Philip    Male    White  19    Infected
+         Marlie  Female  Spotted  19    Infected
+           Nila  Female    Black  19    Infected
+          Blake    Male  Spotted  19    Infected
+          Avery  Female    Black  19    Infected
+           Levi    Male  Spotted  18    Infected
+       Leonardo    Male    Black  18    Infected
+          Erica  Female    Black  18    Infected
+          Pixie  Female    White  18    Infected
+          Leyla  Female    Black  18    Infected
+          Khloe  Female  Spotted  17    Infected
+          Nadia  Female    Black  17    Infected
+           Raja    Male    White  17    Infected
+        Mustafa    Male  Spotted  17    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 26
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  26    Infected
+         Jenson    Male    White  26    Infected
+         Amirah  Female  Spotted  26    Infected
+       Sumayyah  Female    Black  26    Infected
+           Zaki    Male  Spotted  26    Infected
+           Rudy    Male    White  24    Infected
+           Indi  Female  Spotted  24    Infected
+         Marnie  Female    Black  24    Infected
+         Lennon    Male    White  23    Infected
+          Harri    Male  Spotted  23    Infected
+          Ayoub    Male    Black  23    Infected
+           Romi  Female    White  22    Infected
+           Zoya  Female  Spotted  22    Infected
+         Dougie    Male    Black  22    Infected
+         Yuvraj    Male  Spotted  22    Infected
+          Harun    Male    Black  22    Infected
+          Rowan  Female    White  21    Infected
+         Matteo    Male  Spotted  21    Infected
+        Alannah  Female    Black  21    Infected
+       Theodore    Male  Spotted  21    Infected
+        Arianna  Female    Black  21    Infected
+         Philip    Male    White  20    Infected
+         Marlie  Female  Spotted  20    Infected
+           Nila  Female    Black  20    Infected
+          Blake    Male  Spotted  20    Infected
+          Avery  Female    Black  20    Infected
+           Levi    Male  Spotted  19    Infected
+       Leonardo    Male    Black  19    Infected
+          Erica  Female    Black  19    Infected
+          Pixie  Female    White  19    Infected
+          Leyla  Female    Black  19    Infected
+          Khloe  Female  Spotted  18    Infected
+          Nadia  Female    Black  18    Infected
+           Raja    Male    White  18    Infected
+        Mustafa    Male  Spotted  18    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 27
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  27    Infected
+         Jenson    Male    White  27    Infected
+         Amirah  Female  Spotted  27    Infected
+       Sumayyah  Female    Black  27    Infected
+           Zaki    Male  Spotted  27    Infected
+           Rudy    Male    White  25    Infected
+           Indi  Female  Spotted  25    Infected
+         Marnie  Female    Black  25    Infected
+         Lennon    Male    White  24    Infected
+          Harri    Male  Spotted  24    Infected
+          Ayoub    Male    Black  24    Infected
+           Romi  Female    White  23    Infected
+           Zoya  Female  Spotted  23    Infected
+         Dougie    Male    Black  23    Infected
+         Yuvraj    Male  Spotted  23    Infected
+          Harun    Male    Black  23    Infected
+          Rowan  Female    White  22    Infected
+         Matteo    Male  Spotted  22    Infected
+        Alannah  Female    Black  22    Infected
+       Theodore    Male  Spotted  22    Infected
+        Arianna  Female    Black  22    Infected
+         Philip    Male    White  21    Infected
+         Marlie  Female  Spotted  21    Infected
+           Nila  Female    Black  21    Infected
+          Blake    Male  Spotted  21    Infected
+          Avery  Female    Black  21    Infected
+           Levi    Male  Spotted  20    Infected
+       Leonardo    Male    Black  20    Infected
+          Erica  Female    Black  20    Infected
+          Pixie  Female    White  20    Infected
+          Leyla  Female    Black  20    Infected
+          Khloe  Female  Spotted  19    Infected
+          Nadia  Female    Black  19    Infected
+           Raja    Male    White  19    Infected
+        Mustafa    Male  Spotted  19    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 28
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  28    Infected
+         Jenson    Male    White  28    Infected
+         Amirah  Female  Spotted  28    Infected
+       Sumayyah  Female    Black  28    Infected
+           Zaki    Male  Spotted  28    Infected
+           Rudy    Male    White  26    Infected
+           Indi  Female  Spotted  26    Infected
+         Marnie  Female    Black  26    Infected
+         Lennon    Male    White  25    Infected
+          Harri    Male  Spotted  25    Infected
+          Ayoub    Male    Black  25    Infected
+           Romi  Female    White  24    Infected
+           Zoya  Female  Spotted  24    Infected
+         Dougie    Male    Black  24    Infected
+         Yuvraj    Male  Spotted  24    Infected
+          Harun    Male    Black  24    Infected
+          Rowan  Female    White  23    Infected
+         Matteo    Male  Spotted  23    Infected
+        Alannah  Female    Black  23    Infected
+       Theodore    Male  Spotted  23    Infected
+        Arianna  Female    Black  23    Infected
+         Philip    Male    White  22    Infected
+         Marlie  Female  Spotted  22    Infected
+           Nila  Female    Black  22    Infected
+          Blake    Male  Spotted  22    Infected
+          Avery  Female    Black  22    Infected
+           Levi    Male  Spotted  21    Infected
+       Leonardo    Male    Black  21    Infected
+          Erica  Female    Black  21    Infected
+          Pixie  Female    White  21    Infected
+          Leyla  Female    Black  21    Infected
+          Khloe  Female  Spotted  20    Infected
+          Nadia  Female    Black  20    Infected
+           Raja    Male    White  20    Infected
+        Mustafa    Male  Spotted  20    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 29
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  29    Infected
+         Jenson    Male    White  29    Infected
+         Amirah  Female  Spotted  29    Infected
+       Sumayyah  Female    Black  29    Infected
+           Zaki    Male  Spotted  29    Infected
+           Rudy    Male    White  27    Infected
+           Indi  Female  Spotted  27    Infected
+         Marnie  Female    Black  27    Infected
+         Lennon    Male    White  26    Infected
+          Harri    Male  Spotted  26    Infected
+          Ayoub    Male    Black  26    Infected
+           Romi  Female    White  25    Infected
+           Zoya  Female  Spotted  25    Infected
+         Dougie    Male    Black  25    Infected
+         Yuvraj    Male  Spotted  25    Infected
+          Harun    Male    Black  25    Infected
+          Rowan  Female    White  24    Infected
+         Matteo    Male  Spotted  24    Infected
+        Alannah  Female    Black  24    Infected
+       Theodore    Male  Spotted  24    Infected
+        Arianna  Female    Black  24    Infected
+         Philip    Male    White  23    Infected
+         Marlie  Female  Spotted  23    Infected
+           Nila  Female    Black  23    Infected
+          Blake    Male  Spotted  23    Infected
+          Avery  Female    Black  23    Infected
+           Levi    Male  Spotted  22    Infected
+       Leonardo    Male    Black  22    Infected
+          Erica  Female    Black  22    Infected
+          Pixie  Female    White  22    Infected
+          Leyla  Female    Black  22    Infected
+          Khloe  Female  Spotted  21    Infected
+          Nadia  Female    Black  21    Infected
+           Raja    Male    White  21    Infected
+        Mustafa    Male  Spotted  21    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 30
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  30    Infected
+         Jenson    Male    White  30    Infected
+         Amirah  Female  Spotted  30    Infected
+       Sumayyah  Female    Black  30    Infected
+           Zaki    Male  Spotted  30    Infected
+           Rudy    Male    White  28    Infected
+           Indi  Female  Spotted  28    Infected
+         Marnie  Female    Black  28    Infected
+         Lennon    Male    White  27    Infected
+          Harri    Male  Spotted  27    Infected
+          Ayoub    Male    Black  27    Infected
+           Romi  Female    White  26    Infected
+           Zoya  Female  Spotted  26    Infected
+         Dougie    Male    Black  26    Infected
+         Yuvraj    Male  Spotted  26    Infected
+          Harun    Male    Black  26    Infected
+          Rowan  Female    White  25    Infected
+         Matteo    Male  Spotted  25    Infected
+        Alannah  Female    Black  25    Infected
+       Theodore    Male  Spotted  25    Infected
+        Arianna  Female    Black  25    Infected
+         Philip    Male    White  24    Infected
+         Marlie  Female  Spotted  24    Infected
+           Nila  Female    Black  24    Infected
+          Blake    Male  Spotted  24    Infected
+          Avery  Female    Black  24    Infected
+           Levi    Male  Spotted  23    Infected
+       Leonardo    Male    Black  23    Infected
+          Erica  Female    Black  23    Infected
+          Pixie  Female    White  23    Infected
+          Leyla  Female    Black  23    Infected
+          Khloe  Female  Spotted  22    Infected
+          Nadia  Female    Black  22    Infected
+           Raja    Male    White  22    Infected
+        Mustafa    Male  Spotted  22    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 31
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  31    Infected
+         Jenson    Male    White  31    Infected
+         Amirah  Female  Spotted  31    Infected
+       Sumayyah  Female    Black  31    Infected
+           Zaki    Male  Spotted  31    Infected
+           Rudy    Male    White  29    Infected
+           Indi  Female  Spotted  29    Infected
+         Marnie  Female    Black  29    Infected
+         Lennon    Male    White  28    Infected
+          Harri    Male  Spotted  28    Infected
+          Ayoub    Male    Black  28    Infected
+           Romi  Female    White  27    Infected
+           Zoya  Female  Spotted  27    Infected
+         Dougie    Male    Black  27    Infected
+         Yuvraj    Male  Spotted  27    Infected
+          Harun    Male    Black  27    Infected
+          Rowan  Female    White  26    Infected
+         Matteo    Male  Spotted  26    Infected
+        Alannah  Female    Black  26    Infected
+       Theodore    Male  Spotted  26    Infected
+        Arianna  Female    Black  26    Infected
+         Philip    Male    White  25    Infected
+         Marlie  Female  Spotted  25    Infected
+           Nila  Female    Black  25    Infected
+          Blake    Male  Spotted  25    Infected
+          Avery  Female    Black  25    Infected
+           Levi    Male  Spotted  24    Infected
+       Leonardo    Male    Black  24    Infected
+          Erica  Female    Black  24    Infected
+          Pixie  Female    White  24    Infected
+          Leyla  Female    Black  24    Infected
+          Khloe  Female  Spotted  23    Infected
+          Nadia  Female    Black  23    Infected
+           Raja    Male    White  23    Infected
+        Mustafa    Male  Spotted  23    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 32
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  32    Infected
+         Jenson    Male    White  32    Infected
+         Amirah  Female  Spotted  32    Infected
+       Sumayyah  Female    Black  32    Infected
+           Zaki    Male  Spotted  32    Infected
+           Rudy    Male    White  30    Infected
+           Indi  Female  Spotted  30    Infected
+         Marnie  Female    Black  30    Infected
+         Lennon    Male    White  29    Infected
+          Harri    Male  Spotted  29    Infected
+          Ayoub    Male    Black  29    Infected
+           Romi  Female    White  28    Infected
+           Zoya  Female  Spotted  28    Infected
+         Dougie    Male    Black  28    Infected
+         Yuvraj    Male  Spotted  28    Infected
+          Harun    Male    Black  28    Infected
+          Rowan  Female    White  27    Infected
+         Matteo    Male  Spotted  27    Infected
+        Alannah  Female    Black  27    Infected
+       Theodore    Male  Spotted  27    Infected
+        Arianna  Female    Black  27    Infected
+         Philip    Male    White  26    Infected
+         Marlie  Female  Spotted  26    Infected
+           Nila  Female    Black  26    Infected
+          Blake    Male  Spotted  26    Infected
+          Avery  Female    Black  26    Infected
+           Levi    Male  Spotted  25    Infected
+       Leonardo    Male    Black  25    Infected
+          Erica  Female    Black  25    Infected
+          Pixie  Female    White  25    Infected
+          Leyla  Female    Black  25    Infected
+          Khloe  Female  Spotted  24    Infected
+          Nadia  Female    Black  24    Infected
+           Raja    Male    White  24    Infected
+        Mustafa    Male  Spotted  24    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 33
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  33    Infected
+         Jenson    Male    White  33    Infected
+         Amirah  Female  Spotted  33    Infected
+       Sumayyah  Female    Black  33    Infected
+           Zaki    Male  Spotted  33    Infected
+           Rudy    Male    White  31    Infected
+           Indi  Female  Spotted  31    Infected
+         Marnie  Female    Black  31    Infected
+         Lennon    Male    White  30    Infected
+          Harri    Male  Spotted  30    Infected
+          Ayoub    Male    Black  30    Infected
+           Romi  Female    White  29    Infected
+           Zoya  Female  Spotted  29    Infected
+         Dougie    Male    Black  29    Infected
+         Yuvraj    Male  Spotted  29    Infected
+          Harun    Male    Black  29    Infected
+          Rowan  Female    White  28    Infected
+         Matteo    Male  Spotted  28    Infected
+        Alannah  Female    Black  28    Infected
+       Theodore    Male  Spotted  28    Infected
+        Arianna  Female    Black  28    Infected
+         Philip    Male    White  27    Infected
+         Marlie  Female  Spotted  27    Infected
+           Nila  Female    Black  27    Infected
+          Blake    Male  Spotted  27    Infected
+          Avery  Female    Black  27    Infected
+           Levi    Male  Spotted  26    Infected
+       Leonardo    Male    Black  26    Infected
+          Erica  Female    Black  26    Infected
+          Pixie  Female    White  26    Infected
+          Leyla  Female    Black  26    Infected
+          Khloe  Female  Spotted  25    Infected
+          Nadia  Female    Black  25    Infected
+           Raja    Male    White  25    Infected
+        Mustafa    Male  Spotted  25    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 34
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  34    Infected
+         Jenson    Male    White  34    Infected
+         Amirah  Female  Spotted  34    Infected
+       Sumayyah  Female    Black  34    Infected
+           Zaki    Male  Spotted  34    Infected
+           Rudy    Male    White  32    Infected
+           Indi  Female  Spotted  32    Infected
+         Marnie  Female    Black  32    Infected
+         Lennon    Male    White  31    Infected
+          Harri    Male  Spotted  31    Infected
+          Ayoub    Male    Black  31    Infected
+           Romi  Female    White  30    Infected
+           Zoya  Female  Spotted  30    Infected
+         Dougie    Male    Black  30    Infected
+         Yuvraj    Male  Spotted  30    Infected
+          Harun    Male    Black  30    Infected
+          Rowan  Female    White  29    Infected
+         Matteo    Male  Spotted  29    Infected
+        Alannah  Female    Black  29    Infected
+       Theodore    Male  Spotted  29    Infected
+        Arianna  Female    Black  29    Infected
+         Philip    Male    White  28    Infected
+         Marlie  Female  Spotted  28    Infected
+           Nila  Female    Black  28    Infected
+          Blake    Male  Spotted  28    Infected
+          Avery  Female    Black  28    Infected
+           Levi    Male  Spotted  27    Infected
+       Leonardo    Male    Black  27    Infected
+          Erica  Female    Black  27    Infected
+          Pixie  Female    White  27    Infected
+          Leyla  Female    Black  27    Infected
+          Khloe  Female  Spotted  26    Infected
+          Nadia  Female    Black  26    Infected
+           Raja    Male    White  26    Infected
+        Mustafa    Male  Spotted  26    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 35
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  35    Infected
+         Jenson    Male    White  35    Infected
+         Amirah  Female  Spotted  35    Infected
+       Sumayyah  Female    Black  35    Infected
+           Zaki    Male  Spotted  35    Infected
+           Rudy    Male    White  33    Infected
+           Indi  Female  Spotted  33    Infected
+         Marnie  Female    Black  33    Infected
+         Lennon    Male    White  32    Infected
+          Harri    Male  Spotted  32    Infected
+          Ayoub    Male    Black  32    Infected
+           Romi  Female    White  31    Infected
+           Zoya  Female  Spotted  31    Infected
+         Dougie    Male    Black  31    Infected
+         Yuvraj    Male  Spotted  31    Infected
+          Harun    Male    Black  31    Infected
+          Rowan  Female    White  30    Infected
+         Matteo    Male  Spotted  30    Infected
+        Alannah  Female    Black  30    Infected
+       Theodore    Male  Spotted  30    Infected
+        Arianna  Female    Black  30    Infected
+         Philip    Male    White  29    Infected
+         Marlie  Female  Spotted  29    Infected
+           Nila  Female    Black  29    Infected
+          Blake    Male  Spotted  29    Infected
+          Avery  Female    Black  29    Infected
+           Levi    Male  Spotted  28    Infected
+       Leonardo    Male    Black  28    Infected
+          Erica  Female    Black  28    Infected
+          Pixie  Female    White  28    Infected
+          Leyla  Female    Black  28    Infected
+          Khloe  Female  Spotted  27    Infected
+          Nadia  Female    Black  27    Infected
+           Raja    Male    White  27    Infected
+        Mustafa    Male  Spotted  27    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 36
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  36    Infected
+         Jenson    Male    White  36    Infected
+         Amirah  Female  Spotted  36    Infected
+       Sumayyah  Female    Black  36    Infected
+           Zaki    Male  Spotted  36    Infected
+           Rudy    Male    White  34    Infected
+           Indi  Female  Spotted  34    Infected
+         Marnie  Female    Black  34    Infected
+         Lennon    Male    White  33    Infected
+          Harri    Male  Spotted  33    Infected
+          Ayoub    Male    Black  33    Infected
+           Romi  Female    White  32    Infected
+           Zoya  Female  Spotted  32    Infected
+         Dougie    Male    Black  32    Infected
+         Yuvraj    Male  Spotted  32    Infected
+          Harun    Male    Black  32    Infected
+          Rowan  Female    White  31    Infected
+         Matteo    Male  Spotted  31    Infected
+        Alannah  Female    Black  31    Infected
+       Theodore    Male  Spotted  31    Infected
+        Arianna  Female    Black  31    Infected
+         Philip    Male    White  30    Infected
+         Marlie  Female  Spotted  30    Infected
+           Nila  Female    Black  30    Infected
+          Blake    Male  Spotted  30    Infected
+          Avery  Female    Black  30    Infected
+           Levi    Male  Spotted  29    Infected
+       Leonardo    Male    Black  29    Infected
+          Erica  Female    Black  29    Infected
+          Pixie  Female    White  29    Infected
+          Leyla  Female    Black  29    Infected
+          Khloe  Female  Spotted  28    Infected
+          Nadia  Female    Black  28    Infected
+           Raja    Male    White  28    Infected
+        Mustafa    Male  Spotted  28    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 37
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  37    Infected
+         Jenson    Male    White  37    Infected
+         Amirah  Female  Spotted  37    Infected
+       Sumayyah  Female    Black  37    Infected
+           Zaki    Male  Spotted  37    Infected
+           Rudy    Male    White  35    Infected
+           Indi  Female  Spotted  35    Infected
+         Marnie  Female    Black  35    Infected
+         Lennon    Male    White  34    Infected
+          Harri    Male  Spotted  34    Infected
+          Ayoub    Male    Black  34    Infected
+           Romi  Female    White  33    Infected
+           Zoya  Female  Spotted  33    Infected
+         Dougie    Male    Black  33    Infected
+         Yuvraj    Male  Spotted  33    Infected
+          Harun    Male    Black  33    Infected
+          Rowan  Female    White  32    Infected
+         Matteo    Male  Spotted  32    Infected
+        Alannah  Female    Black  32    Infected
+       Theodore    Male  Spotted  32    Infected
+        Arianna  Female    Black  32    Infected
+         Philip    Male    White  31    Infected
+         Marlie  Female  Spotted  31    Infected
+           Nila  Female    Black  31    Infected
+          Blake    Male  Spotted  31    Infected
+          Avery  Female    Black  31    Infected
+           Levi    Male  Spotted  30    Infected
+       Leonardo    Male    Black  30    Infected
+          Erica  Female    Black  30    Infected
+          Pixie  Female    White  30    Infected
+          Leyla  Female    Black  30    Infected
+          Khloe  Female  Spotted  29    Infected
+          Nadia  Female    Black  29    Infected
+           Raja    Male    White  29    Infected
+        Mustafa    Male  Spotted  29    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 38
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  38    Infected
+         Jenson    Male    White  38    Infected
+         Amirah  Female  Spotted  38    Infected
+       Sumayyah  Female    Black  38    Infected
+           Zaki    Male  Spotted  38    Infected
+           Rudy    Male    White  36    Infected
+           Indi  Female  Spotted  36    Infected
+         Marnie  Female    Black  36    Infected
+         Lennon    Male    White  35    Infected
+          Harri    Male  Spotted  35    Infected
+          Ayoub    Male    Black  35    Infected
+           Romi  Female    White  34    Infected
+           Zoya  Female  Spotted  34    Infected
+         Dougie    Male    Black  34    Infected
+         Yuvraj    Male  Spotted  34    Infected
+          Harun    Male    Black  34    Infected
+          Rowan  Female    White  33    Infected
+         Matteo    Male  Spotted  33    Infected
+        Alannah  Female    Black  33    Infected
+       Theodore    Male  Spotted  33    Infected
+        Arianna  Female    Black  33    Infected
+         Philip    Male    White  32    Infected
+         Marlie  Female  Spotted  32    Infected
+           Nila  Female    Black  32    Infected
+          Blake    Male  Spotted  32    Infected
+          Avery  Female    Black  32    Infected
+           Levi    Male  Spotted  31    Infected
+       Leonardo    Male    Black  31    Infected
+          Erica  Female    Black  31    Infected
+          Pixie  Female    White  31    Infected
+          Leyla  Female    Black  31    Infected
+          Khloe  Female  Spotted  30    Infected
+          Nadia  Female    Black  30    Infected
+           Raja    Male    White  30    Infected
+        Mustafa    Male  Spotted  30    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 39
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  39    Infected
+         Jenson    Male    White  39    Infected
+         Amirah  Female  Spotted  39    Infected
+       Sumayyah  Female    Black  39    Infected
+           Zaki    Male  Spotted  39    Infected
+           Rudy    Male    White  37    Infected
+           Indi  Female  Spotted  37    Infected
+         Marnie  Female    Black  37    Infected
+         Lennon    Male    White  36    Infected
+          Harri    Male  Spotted  36    Infected
+          Ayoub    Male    Black  36    Infected
+           Romi  Female    White  35    Infected
+           Zoya  Female  Spotted  35    Infected
+         Dougie    Male    Black  35    Infected
+         Yuvraj    Male  Spotted  35    Infected
+          Harun    Male    Black  35    Infected
+          Rowan  Female    White  34    Infected
+         Matteo    Male  Spotted  34    Infected
+        Alannah  Female    Black  34    Infected
+       Theodore    Male  Spotted  34    Infected
+        Arianna  Female    Black  34    Infected
+         Philip    Male    White  33    Infected
+         Marlie  Female  Spotted  33    Infected
+           Nila  Female    Black  33    Infected
+          Blake    Male  Spotted  33    Infected
+          Avery  Female    Black  33    Infected
+           Levi    Male  Spotted  32    Infected
+       Leonardo    Male    Black  32    Infected
+          Erica  Female    Black  32    Infected
+          Pixie  Female    White  32    Infected
+          Leyla  Female    Black  32    Infected
+          Khloe  Female  Spotted  31    Infected
+          Nadia  Female    Black  31    Infected
+           Raja    Male    White  31    Infected
+        Mustafa    Male  Spotted  31    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 40
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  40    Infected
+         Jenson    Male    White  40    Infected
+         Amirah  Female  Spotted  40    Infected
+       Sumayyah  Female    Black  40    Infected
+           Zaki    Male  Spotted  40    Infected
+           Rudy    Male    White  38    Infected
+           Indi  Female  Spotted  38    Infected
+         Marnie  Female    Black  38    Infected
+         Lennon    Male    White  37    Infected
+          Harri    Male  Spotted  37    Infected
+          Ayoub    Male    Black  37    Infected
+           Romi  Female    White  36    Infected
+           Zoya  Female  Spotted  36    Infected
+         Dougie    Male    Black  36    Infected
+         Yuvraj    Male  Spotted  36    Infected
+          Harun    Male    Black  36    Infected
+          Rowan  Female    White  35    Infected
+         Matteo    Male  Spotted  35    Infected
+        Alannah  Female    Black  35    Infected
+       Theodore    Male  Spotted  35    Infected
+        Arianna  Female    Black  35    Infected
+         Philip    Male    White  34    Infected
+         Marlie  Female  Spotted  34    Infected
+           Nila  Female    Black  34    Infected
+          Blake    Male  Spotted  34    Infected
+          Avery  Female    Black  34    Infected
+           Levi    Male  Spotted  33    Infected
+       Leonardo    Male    Black  33    Infected
+          Erica  Female    Black  33    Infected
+          Pixie  Female    White  33    Infected
+          Leyla  Female    Black  33    Infected
+          Khloe  Female  Spotted  32    Infected
+          Nadia  Female    Black  32    Infected
+           Raja    Male    White  32    Infected
+        Mustafa    Male  Spotted  32    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 41
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  41    Infected
+         Jenson    Male    White  41    Infected
+         Amirah  Female  Spotted  41    Infected
+       Sumayyah  Female    Black  41    Infected
+           Zaki    Male  Spotted  41    Infected
+           Rudy    Male    White  39    Infected
+           Indi  Female  Spotted  39    Infected
+         Marnie  Female    Black  39    Infected
+         Lennon    Male    White  38    Infected
+          Harri    Male  Spotted  38    Infected
+          Ayoub    Male    Black  38    Infected
+           Romi  Female    White  37    Infected
+           Zoya  Female  Spotted  37    Infected
+         Dougie    Male    Black  37    Infected
+         Yuvraj    Male  Spotted  37    Infected
+          Harun    Male    Black  37    Infected
+          Rowan  Female    White  36    Infected
+         Matteo    Male  Spotted  36    Infected
+        Alannah  Female    Black  36    Infected
+       Theodore    Male  Spotted  36    Infected
+        Arianna  Female    Black  36    Infected
+         Philip    Male    White  35    Infected
+         Marlie  Female  Spotted  35    Infected
+           Nila  Female    Black  35    Infected
+          Blake    Male  Spotted  35    Infected
+          Avery  Female    Black  35    Infected
+           Levi    Male  Spotted  34    Infected
+       Leonardo    Male    Black  34    Infected
+          Erica  Female    Black  34    Infected
+          Pixie  Female    White  34    Infected
+          Leyla  Female    Black  34    Infected
+          Khloe  Female  Spotted  33    Infected
+          Nadia  Female    Black  33    Infected
+           Raja    Male    White  33    Infected
+        Mustafa    Male  Spotted  33    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 42
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  42    Infected
+         Jenson    Male    White  42    Infected
+         Amirah  Female  Spotted  42    Infected
+       Sumayyah  Female    Black  42    Infected
+           Zaki    Male  Spotted  42    Infected
+           Rudy    Male    White  40    Infected
+           Indi  Female  Spotted  40    Infected
+         Marnie  Female    Black  40    Infected
+         Lennon    Male    White  39    Infected
+          Harri    Male  Spotted  39    Infected
+          Ayoub    Male    Black  39    Infected
+           Romi  Female    White  38    Infected
+           Zoya  Female  Spotted  38    Infected
+         Dougie    Male    Black  38    Infected
+         Yuvraj    Male  Spotted  38    Infected
+          Harun    Male    Black  38    Infected
+          Rowan  Female    White  37    Infected
+         Matteo    Male  Spotted  37    Infected
+        Alannah  Female    Black  37    Infected
+       Theodore    Male  Spotted  37    Infected
+        Arianna  Female    Black  37    Infected
+         Philip    Male    White  36    Infected
+         Marlie  Female  Spotted  36    Infected
+           Nila  Female    Black  36    Infected
+          Blake    Male  Spotted  36    Infected
+          Avery  Female    Black  36    Infected
+           Levi    Male  Spotted  35    Infected
+       Leonardo    Male    Black  35    Infected
+          Erica  Female    Black  35    Infected
+          Pixie  Female    White  35    Infected
+          Leyla  Female    Black  35    Infected
+          Khloe  Female  Spotted  34    Infected
+          Nadia  Female    Black  34    Infected
+           Raja    Male    White  34    Infected
+        Mustafa    Male  Spotted  34    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 43
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  43    Infected
+         Jenson    Male    White  43    Infected
+         Amirah  Female  Spotted  43    Infected
+       Sumayyah  Female    Black  43    Infected
+           Zaki    Male  Spotted  43    Infected
+           Rudy    Male    White  41    Infected
+           Indi  Female  Spotted  41    Infected
+         Marnie  Female    Black  41    Infected
+         Lennon    Male    White  40    Infected
+          Harri    Male  Spotted  40    Infected
+          Ayoub    Male    Black  40    Infected
+           Romi  Female    White  39    Infected
+           Zoya  Female  Spotted  39    Infected
+         Dougie    Male    Black  39    Infected
+         Yuvraj    Male  Spotted  39    Infected
+          Harun    Male    Black  39    Infected
+          Rowan  Female    White  38    Infected
+         Matteo    Male  Spotted  38    Infected
+        Alannah  Female    Black  38    Infected
+       Theodore    Male  Spotted  38    Infected
+        Arianna  Female    Black  38    Infected
+         Philip    Male    White  37    Infected
+         Marlie  Female  Spotted  37    Infected
+           Nila  Female    Black  37    Infected
+          Blake    Male  Spotted  37    Infected
+          Avery  Female    Black  37    Infected
+           Levi    Male  Spotted  36    Infected
+       Leonardo    Male    Black  36    Infected
+          Erica  Female    Black  36    Infected
+          Pixie  Female    White  36    Infected
+          Leyla  Female    Black  36    Infected
+          Khloe  Female  Spotted  35    Infected
+          Nadia  Female    Black  35    Infected
+           Raja    Male    White  35    Infected
+        Mustafa    Male  Spotted  35    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 44
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  44    Infected
+         Jenson    Male    White  44    Infected
+         Amirah  Female  Spotted  44    Infected
+       Sumayyah  Female    Black  44    Infected
+           Zaki    Male  Spotted  44    Infected
+           Rudy    Male    White  42    Infected
+           Indi  Female  Spotted  42    Infected
+         Marnie  Female    Black  42    Infected
+         Lennon    Male    White  41    Infected
+          Harri    Male  Spotted  41    Infected
+          Ayoub    Male    Black  41    Infected
+           Romi  Female    White  40    Infected
+           Zoya  Female  Spotted  40    Infected
+         Dougie    Male    Black  40    Infected
+         Yuvraj    Male  Spotted  40    Infected
+          Harun    Male    Black  40    Infected
+          Rowan  Female    White  39    Infected
+         Matteo    Male  Spotted  39    Infected
+        Alannah  Female    Black  39    Infected
+       Theodore    Male  Spotted  39    Infected
+        Arianna  Female    Black  39    Infected
+         Philip    Male    White  38    Infected
+         Marlie  Female  Spotted  38    Infected
+           Nila  Female    Black  38    Infected
+          Blake    Male  Spotted  38    Infected
+          Avery  Female    Black  38    Infected
+           Levi    Male  Spotted  37    Infected
+       Leonardo    Male    Black  37    Infected
+          Erica  Female    Black  37    Infected
+          Pixie  Female    White  37    Infected
+          Leyla  Female    Black  37    Infected
+          Khloe  Female  Spotted  36    Infected
+          Nadia  Female    Black  36    Infected
+           Raja    Male    White  36    Infected
+        Mustafa    Male  Spotted  36    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 45
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  45    Infected
+         Jenson    Male    White  45    Infected
+         Amirah  Female  Spotted  45    Infected
+       Sumayyah  Female    Black  45    Infected
+           Zaki    Male  Spotted  45    Infected
+           Rudy    Male    White  43    Infected
+           Indi  Female  Spotted  43    Infected
+         Marnie  Female    Black  43    Infected
+         Lennon    Male    White  42    Infected
+          Harri    Male  Spotted  42    Infected
+          Ayoub    Male    Black  42    Infected
+           Romi  Female    White  41    Infected
+           Zoya  Female  Spotted  41    Infected
+         Dougie    Male    Black  41    Infected
+         Yuvraj    Male  Spotted  41    Infected
+          Harun    Male    Black  41    Infected
+          Rowan  Female    White  40    Infected
+         Matteo    Male  Spotted  40    Infected
+        Alannah  Female    Black  40    Infected
+       Theodore    Male  Spotted  40    Infected
+        Arianna  Female    Black  40    Infected
+         Philip    Male    White  39    Infected
+         Marlie  Female  Spotted  39    Infected
+           Nila  Female    Black  39    Infected
+          Blake    Male  Spotted  39    Infected
+          Avery  Female    Black  39    Infected
+           Levi    Male  Spotted  38    Infected
+       Leonardo    Male    Black  38    Infected
+          Erica  Female    Black  38    Infected
+          Pixie  Female    White  38    Infected
+          Leyla  Female    Black  38    Infected
+          Khloe  Female  Spotted  37    Infected
+          Nadia  Female    Black  37    Infected
+           Raja    Male    White  37    Infected
+        Mustafa    Male  Spotted  37    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 46
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  46    Infected
+         Jenson    Male    White  46    Infected
+         Amirah  Female  Spotted  46    Infected
+       Sumayyah  Female    Black  46    Infected
+           Zaki    Male  Spotted  46    Infected
+           Rudy    Male    White  44    Infected
+           Indi  Female  Spotted  44    Infected
+         Marnie  Female    Black  44    Infected
+         Lennon    Male    White  43    Infected
+          Harri    Male  Spotted  43    Infected
+          Ayoub    Male    Black  43    Infected
+           Romi  Female    White  42    Infected
+           Zoya  Female  Spotted  42    Infected
+         Dougie    Male    Black  42    Infected
+         Yuvraj    Male  Spotted  42    Infected
+          Harun    Male    Black  42    Infected
+          Rowan  Female    White  41    Infected
+         Matteo    Male  Spotted  41    Infected
+        Alannah  Female    Black  41    Infected
+       Theodore    Male  Spotted  41    Infected
+        Arianna  Female    Black  41    Infected
+         Philip    Male    White  40    Infected
+         Marlie  Female  Spotted  40    Infected
+           Nila  Female    Black  40    Infected
+          Blake    Male  Spotted  40    Infected
+          Avery  Female    Black  40    Infected
+           Levi    Male  Spotted  39    Infected
+       Leonardo    Male    Black  39    Infected
+          Erica  Female    Black  39    Infected
+          Pixie  Female    White  39    Infected
+          Leyla  Female    Black  39    Infected
+          Khloe  Female  Spotted  38    Infected
+          Nadia  Female    Black  38    Infected
+           Raja    Male    White  38    Infected
+        Mustafa    Male  Spotted  38    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 47
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  47    Infected
+         Jenson    Male    White  47    Infected
+         Amirah  Female  Spotted  47    Infected
+       Sumayyah  Female    Black  47    Infected
+           Zaki    Male  Spotted  47    Infected
+           Rudy    Male    White  45    Infected
+           Indi  Female  Spotted  45    Infected
+         Marnie  Female    Black  45    Infected
+         Lennon    Male    White  44    Infected
+          Harri    Male  Spotted  44    Infected
+          Ayoub    Male    Black  44    Infected
+           Romi  Female    White  43    Infected
+           Zoya  Female  Spotted  43    Infected
+         Dougie    Male    Black  43    Infected
+         Yuvraj    Male  Spotted  43    Infected
+          Harun    Male    Black  43    Infected
+          Rowan  Female    White  42    Infected
+         Matteo    Male  Spotted  42    Infected
+        Alannah  Female    Black  42    Infected
+       Theodore    Male  Spotted  42    Infected
+        Arianna  Female    Black  42    Infected
+         Philip    Male    White  41    Infected
+         Marlie  Female  Spotted  41    Infected
+           Nila  Female    Black  41    Infected
+          Blake    Male  Spotted  41    Infected
+          Avery  Female    Black  41    Infected
+           Levi    Male  Spotted  40    Infected
+       Leonardo    Male    Black  40    Infected
+          Erica  Female    Black  40    Infected
+          Pixie  Female    White  40    Infected
+          Leyla  Female    Black  40    Infected
+          Khloe  Female  Spotted  39    Infected
+          Nadia  Female    Black  39    Infected
+           Raja    Male    White  39    Infected
+        Mustafa    Male  Spotted  39    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 48
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  48    Infected
+         Jenson    Male    White  48    Infected
+         Amirah  Female  Spotted  48    Infected
+       Sumayyah  Female    Black  48    Infected
+           Zaki    Male  Spotted  48    Infected
+           Rudy    Male    White  46    Infected
+           Indi  Female  Spotted  46    Infected
+         Marnie  Female    Black  46    Infected
+         Lennon    Male    White  45    Infected
+          Harri    Male  Spotted  45    Infected
+          Ayoub    Male    Black  45    Infected
+           Romi  Female    White  44    Infected
+           Zoya  Female  Spotted  44    Infected
+         Dougie    Male    Black  44    Infected
+         Yuvraj    Male  Spotted  44    Infected
+          Harun    Male    Black  44    Infected
+          Rowan  Female    White  43    Infected
+         Matteo    Male  Spotted  43    Infected
+        Alannah  Female    Black  43    Infected
+       Theodore    Male  Spotted  43    Infected
+        Arianna  Female    Black  43    Infected
+         Philip    Male    White  42    Infected
+         Marlie  Female  Spotted  42    Infected
+           Nila  Female    Black  42    Infected
+          Blake    Male  Spotted  42    Infected
+          Avery  Female    Black  42    Infected
+           Levi    Male  Spotted  41    Infected
+       Leonardo    Male    Black  41    Infected
+          Erica  Female    Black  41    Infected
+          Pixie  Female    White  41    Infected
+          Leyla  Female    Black  41    Infected
+          Khloe  Female  Spotted  40    Infected
+          Nadia  Female    Black  40    Infected
+           Raja    Male    White  40    Infected
+        Mustafa    Male  Spotted  40    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 49
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  49    Infected
+         Jenson    Male    White  49    Infected
+         Amirah  Female  Spotted  49    Infected
+       Sumayyah  Female    Black  49    Infected
+           Zaki    Male  Spotted  49    Infected
+           Rudy    Male    White  47    Infected
+           Indi  Female  Spotted  47    Infected
+         Marnie  Female    Black  47    Infected
+         Lennon    Male    White  46    Infected
+          Harri    Male  Spotted  46    Infected
+          Ayoub    Male    Black  46    Infected
+           Romi  Female    White  45    Infected
+           Zoya  Female  Spotted  45    Infected
+         Dougie    Male    Black  45    Infected
+         Yuvraj    Male  Spotted  45    Infected
+          Harun    Male    Black  45    Infected
+          Rowan  Female    White  44    Infected
+         Matteo    Male  Spotted  44    Infected
+        Alannah  Female    Black  44    Infected
+       Theodore    Male  Spotted  44    Infected
+        Arianna  Female    Black  44    Infected
+         Philip    Male    White  43    Infected
+         Marlie  Female  Spotted  43    Infected
+           Nila  Female    Black  43    Infected
+          Blake    Male  Spotted  43    Infected
+          Avery  Female    Black  43    Infected
+           Levi    Male  Spotted  42    Infected
+       Leonardo    Male    Black  42    Infected
+          Erica  Female    Black  42    Infected
+          Pixie  Female    White  42    Infected
+          Leyla  Female    Black  42    Infected
+          Khloe  Female  Spotted  41    Infected
+          Nadia  Female    Black  41    Infected
+           Raja    Male    White  41    Infected
+        Mustafa    Male  Spotted  41    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 50
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Lucy  Female    White  50    Infected
+         Jenson    Male    White  50    Infected
+         Amirah  Female  Spotted  50    Infected
+       Sumayyah  Female    Black  50    Infected
+           Zaki    Male  Spotted  50    Infected
+           Rudy    Male    White  48    Infected
+           Indi  Female  Spotted  48    Infected
+         Marnie  Female    Black  48    Infected
+         Lennon    Male    White  47    Infected
+          Harri    Male  Spotted  47    Infected
+          Ayoub    Male    Black  47    Infected
+           Romi  Female    White  46    Infected
+           Zoya  Female  Spotted  46    Infected
+         Dougie    Male    Black  46    Infected
+         Yuvraj    Male  Spotted  46    Infected
+          Harun    Male    Black  46    Infected
+          Rowan  Female    White  45    Infected
+         Matteo    Male  Spotted  45    Infected
+        Alannah  Female    Black  45    Infected
+       Theodore    Male  Spotted  45    Infected
+        Arianna  Female    Black  45    Infected
+         Philip    Male    White  44    Infected
+         Marlie  Female  Spotted  44    Infected
+           Nila  Female    Black  44    Infected
+          Blake    Male  Spotted  44    Infected
+          Avery  Female    Black  44    Infected
+           Levi    Male  Spotted  43    Infected
+       Leonardo    Male    Black  43    Infected
+          Erica  Female    Black  43    Infected
+          Pixie  Female    White  43    Infected
+          Leyla  Female    Black  43    Infected
+          Khloe  Female  Spotted  42    Infected
+          Nadia  Female    Black  42    Infected
+           Raja    Male    White  42    Infected
+        Mustafa    Male  Spotted  42    Infected
+Total: 35  Males: 17  Females: 18  Infected: 35     Current turn: 51
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Lucy has died.
+Infected Bunny Jenson has died.
+Infected Bunny Amirah has died.
+Infected Bunny Sumayyah has died.
+Infected Bunny Zaki has died.
+
+The current bunnies are: 
+           Rudy    Male    White  49    Infected
+           Indi  Female  Spotted  49    Infected
+         Marnie  Female    Black  49    Infected
+         Lennon    Male    White  48    Infected
+          Harri    Male  Spotted  48    Infected
+          Ayoub    Male    Black  48    Infected
+           Romi  Female    White  47    Infected
+           Zoya  Female  Spotted  47    Infected
+         Dougie    Male    Black  47    Infected
+         Yuvraj    Male  Spotted  47    Infected
+          Harun    Male    Black  47    Infected
+          Rowan  Female    White  46    Infected
+         Matteo    Male  Spotted  46    Infected
+        Alannah  Female    Black  46    Infected
+       Theodore    Male  Spotted  46    Infected
+        Arianna  Female    Black  46    Infected
+         Philip    Male    White  45    Infected
+         Marlie  Female  Spotted  45    Infected
+           Nila  Female    Black  45    Infected
+          Blake    Male  Spotted  45    Infected
+          Avery  Female    Black  45    Infected
+           Levi    Male  Spotted  44    Infected
+       Leonardo    Male    Black  44    Infected
+          Erica  Female    Black  44    Infected
+          Pixie  Female    White  44    Infected
+          Leyla  Female    Black  44    Infected
+          Khloe  Female  Spotted  43    Infected
+          Nadia  Female    Black  43    Infected
+           Raja    Male    White  43    Infected
+        Mustafa    Male  Spotted  43    Infected
+Total: 30  Males: 15  Females: 15  Infected: 30     Current turn: 52
+Press q to quit, k to perform a cull, or any other key to continue: 
+
+The current bunnies are: 
+           Rudy    Male    White  50    Infected
+           Indi  Female  Spotted  50    Infected
+         Marnie  Female    Black  50    Infected
+         Lennon    Male    White  49    Infected
+          Harri    Male  Spotted  49    Infected
+          Ayoub    Male    Black  49    Infected
+           Romi  Female    White  48    Infected
+           Zoya  Female  Spotted  48    Infected
+         Dougie    Male    Black  48    Infected
+         Yuvraj    Male  Spotted  48    Infected
+          Harun    Male    Black  48    Infected
+          Rowan  Female    White  47    Infected
+         Matteo    Male  Spotted  47    Infected
+        Alannah  Female    Black  47    Infected
+       Theodore    Male  Spotted  47    Infected
+        Arianna  Female    Black  47    Infected
+         Philip    Male    White  46    Infected
+         Marlie  Female  Spotted  46    Infected
+           Nila  Female    Black  46    Infected
+          Blake    Male  Spotted  46    Infected
+          Avery  Female    Black  46    Infected
+           Levi    Male  Spotted  45    Infected
+       Leonardo    Male    Black  45    Infected
+          Erica  Female    Black  45    Infected
+          Pixie  Female    White  45    Infected
+          Leyla  Female    Black  45    Infected
+          Khloe  Female  Spotted  44    Infected
+          Nadia  Female    Black  44    Infected
+           Raja    Male    White  44    Infected
+        Mustafa    Male  Spotted  44    Infected
+Total: 30  Males: 15  Females: 15  Infected: 30     Current turn: 53
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Rudy has died.
+Infected Bunny Indi has died.
+Infected Bunny Marnie has died.
+
+The current bunnies are: 
+         Lennon    Male    White  50    Infected
+          Harri    Male  Spotted  50    Infected
+          Ayoub    Male    Black  50    Infected
+           Romi  Female    White  49    Infected
+           Zoya  Female  Spotted  49    Infected
+         Dougie    Male    Black  49    Infected
+         Yuvraj    Male  Spotted  49    Infected
+          Harun    Male    Black  49    Infected
+          Rowan  Female    White  48    Infected
+         Matteo    Male  Spotted  48    Infected
+        Alannah  Female    Black  48    Infected
+       Theodore    Male  Spotted  48    Infected
+        Arianna  Female    Black  48    Infected
+         Philip    Male    White  47    Infected
+         Marlie  Female  Spotted  47    Infected
+           Nila  Female    Black  47    Infected
+          Blake    Male  Spotted  47    Infected
+          Avery  Female    Black  47    Infected
+           Levi    Male  Spotted  46    Infected
+       Leonardo    Male    Black  46    Infected
+          Erica  Female    Black  46    Infected
+          Pixie  Female    White  46    Infected
+          Leyla  Female    Black  46    Infected
+          Khloe  Female  Spotted  45    Infected
+          Nadia  Female    Black  45    Infected
+           Raja    Male    White  45    Infected
+        Mustafa    Male  Spotted  45    Infected
+Total: 27  Males: 14  Females: 13  Infected: 27     Current turn: 54
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Lennon has died.
+Infected Bunny Harri has died.
+Infected Bunny Ayoub has died.
+
+The current bunnies are: 
+           Romi  Female    White  50    Infected
+           Zoya  Female  Spotted  50    Infected
+         Dougie    Male    Black  50    Infected
+         Yuvraj    Male  Spotted  50    Infected
+          Harun    Male    Black  50    Infected
+          Rowan  Female    White  49    Infected
+         Matteo    Male  Spotted  49    Infected
+        Alannah  Female    Black  49    Infected
+       Theodore    Male  Spotted  49    Infected
+        Arianna  Female    Black  49    Infected
+         Philip    Male    White  48    Infected
+         Marlie  Female  Spotted  48    Infected
+           Nila  Female    Black  48    Infected
+          Blake    Male  Spotted  48    Infected
+          Avery  Female    Black  48    Infected
+           Levi    Male  Spotted  47    Infected
+       Leonardo    Male    Black  47    Infected
+          Erica  Female    Black  47    Infected
+          Pixie  Female    White  47    Infected
+          Leyla  Female    Black  47    Infected
+          Khloe  Female  Spotted  46    Infected
+          Nadia  Female    Black  46    Infected
+           Raja    Male    White  46    Infected
+        Mustafa    Male  Spotted  46    Infected
+Total: 24  Males: 11  Females: 13  Infected: 24     Current turn: 55
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Romi has died.
+Infected Bunny Zoya has died.
+Infected Bunny Dougie has died.
+Infected Bunny Yuvraj has died.
+Infected Bunny Harun has died.
+
+The current bunnies are: 
+          Rowan  Female    White  50    Infected
+         Matteo    Male  Spotted  50    Infected
+        Alannah  Female    Black  50    Infected
+       Theodore    Male  Spotted  50    Infected
+        Arianna  Female    Black  50    Infected
+         Philip    Male    White  49    Infected
+         Marlie  Female  Spotted  49    Infected
+           Nila  Female    Black  49    Infected
+          Blake    Male  Spotted  49    Infected
+          Avery  Female    Black  49    Infected
+           Levi    Male  Spotted  48    Infected
+       Leonardo    Male    Black  48    Infected
+          Erica  Female    Black  48    Infected
+          Pixie  Female    White  48    Infected
+          Leyla  Female    Black  48    Infected
+          Khloe  Female  Spotted  47    Infected
+          Nadia  Female    Black  47    Infected
+           Raja    Male    White  47    Infected
+        Mustafa    Male  Spotted  47    Infected
+Total: 19  Males: 8  Females: 11  Infected: 19     Current turn: 56
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Rowan has died.
+Infected Bunny Matteo has died.
+Infected Bunny Alannah has died.
+Infected Bunny Theodore has died.
+Infected Bunny Arianna has died.
+
+The current bunnies are: 
+         Philip    Male    White  50    Infected
+         Marlie  Female  Spotted  50    Infected
+           Nila  Female    Black  50    Infected
+          Blake    Male  Spotted  50    Infected
+          Avery  Female    Black  50    Infected
+           Levi    Male  Spotted  49    Infected
+       Leonardo    Male    Black  49    Infected
+          Erica  Female    Black  49    Infected
+          Pixie  Female    White  49    Infected
+          Leyla  Female    Black  49    Infected
+          Khloe  Female  Spotted  48    Infected
+          Nadia  Female    Black  48    Infected
+           Raja    Male    White  48    Infected
+        Mustafa    Male  Spotted  48    Infected
+Total: 14  Males: 6  Females: 8  Infected: 14     Current turn: 57
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Philip has died.
+Infected Bunny Marlie has died.
+Infected Bunny Nila has died.
+Infected Bunny Blake has died.
+Infected Bunny Avery has died.
+
+The current bunnies are: 
+           Levi    Male  Spotted  50    Infected
+       Leonardo    Male    Black  50    Infected
+          Erica  Female    Black  50    Infected
+          Pixie  Female    White  50    Infected
+          Leyla  Female    Black  50    Infected
+          Khloe  Female  Spotted  49    Infected
+          Nadia  Female    Black  49    Infected
+           Raja    Male    White  49    Infected
+        Mustafa    Male  Spotted  49    Infected
+Total: 9  Males: 4  Females: 5  Infected: 9     Current turn: 58
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Levi has died.
+Infected Bunny Leonardo has died.
+Infected Bunny Erica has died.
+Infected Bunny Pixie has died.
+Infected Bunny Leyla has died.
+
+The current bunnies are: 
+          Khloe  Female  Spotted  50    Infected
+          Nadia  Female    Black  50    Infected
+           Raja    Male    White  50    Infected
+        Mustafa    Male  Spotted  50    Infected
+Total: 4  Males: 2  Females: 2  Infected: 4     Current turn: 59
+Press q to quit, k to perform a cull, or any other key to continue: 
+Infected Bunny Khloe has died.
+Infected Bunny Nadia has died.
+Infected Bunny Raja has died.
+Infected Bunny Mustafa has died.
+
+All of the bunnies are dead.
+Simulation over.

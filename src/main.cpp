@@ -1,4 +1,5 @@
 #include "manager.h"
+#include "base_functions.h"
 #include <iostream>
 #include <ctime>
 #include <fstream>
@@ -9,24 +10,28 @@
 int main()
 {
     system("cls");
-    std::srand(time(0)); //Seeding the random number generation.
+    std::srand(time(NULL)); //Seeding the random number generation.
     std::string delete_command = R"(del .\output\*.txt)";
     system(delete_command.c_str());
     std::vector<manager> manager_vector;
     std::vector<std::thread> thread_vector;
-    for(int i = 0; i < 10; i++){
+    std::cout << "How many instances of the program would you like to run?" << std::endl;
+    int number_of_threads = int_value_checker("Enter a number between 1 and 100: ", 1, 100);
+    for(int i = 0; i < number_of_threads; i++){
         manager_vector.push_back(manager(5));
     }
 
     std::vector<manager>::iterator i1 = manager_vector.begin();
-    //manager controller(5); //Setting up the simulation with 5 initial bunnies.
-    std::thread thread1(&manager::run, i1, R"(output\output_1.txt)", R"(output\run_1_stats.txt)");
-    thread1.join();
-    ++i1;
-    //manager controller2(5);
-    std::thread thread2(&manager::run, i1, R"(output\output_2.txt)", R"(output\run_2_stats.txt)");
-    thread2.join();
-    //i1->run(R"(output\output_2.txt)", R"(output\run_2_stats.txt)");
+    for(int i = 0; i < number_of_threads; i++){
+        std::string output_name = "output\\output_" + std::to_string(i+1) + ".txt";
+        std::string stats_name = "output\\run_" + std::to_string(i+1) + "_stats.txt";
+        //std::cout << output_name << "  " << stats_name << std::endl;
+        thread_vector.push_back(std::thread(&manager::run, i1, output_name, stats_name));
+        ++i1;
+    }
+    for(auto &elem : thread_vector){
+        elem.join();
+    }
     std::string filename = "./src/graph.py";
     std::string command = "python ";
     command += filename;

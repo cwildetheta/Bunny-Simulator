@@ -37,6 +37,7 @@ manager::manager(int num_of_bunnies)
 }
 void manager::run(std::string output_file, std::string stats_file)
 {
+    std::srand(clock());
     std::ofstream stats, output;
     stats.open (stats_file);
     output.open (output_file);

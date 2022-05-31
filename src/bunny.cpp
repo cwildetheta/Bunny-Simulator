@@ -10,7 +10,7 @@ bunny::bunny() : gender(gender_list[std::rand()%2]), name((gender == gender_list
 {
     age = 0;
     colour = colour_list[std::rand()%4];
-    if(std::rand()%500 == 0){
+    if(std::rand()%50 == 0){
         infected = true;
     }
     else{
